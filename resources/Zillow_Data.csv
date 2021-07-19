@@ -1,0 +1,1502 @@
+State,CountyName,Metro,RegionName,1 BR Median Price,2 BR Median Price,3 BR Median Price,4 BR Median Price,5+ BR Median Price
+AK,Anchorage Borough,Anchorage,Anchorage,195.0,240.0,345.0,400.0,360.0
+AK,Fairbanks North Star Borough,Fairbanks,Fairbanks,0.0,1200.0,0.0,0.0,0.0
+AK,Fairbanks North Star Borough,Fairbanks,North Pole,0.0,1285.0,0.0,0.0,0.0
+AK,Matanuska Susitna Borough,Anchorage,Wasilla,0.0,500.0,697.5,0.0,0.0
+AL,Baldwin County,Daphne-Fairhope-Foley,Daphne,0.0,0.0,1352.0,0.0,0.0
+AL,Baldwin County,Daphne-Fairhope-Foley,Fairhope,0.0,0.0,1575.0,0.0,0.0
+AL,Baldwin County,Daphne-Fairhope-Foley,Foley,0.0,0.0,1412.5,0.0,0.0
+AL,Jefferson County,Birmingham-Hoover,Birmingham,0.0,0.0,870.0,0.0,0.0
+AL,Jefferson County,Birmingham-Hoover,Center Point,0.0,0.0,925.0,0.0,0.0
+AL,Jefferson County,Birmingham-Hoover,Homewood,0.0,1120.0,0.0,0.0,0.0
+AL,Jefferson County,Birmingham-Hoover,Hoover,276.3333333333333,331.6666666666667,435.0,0.0,0.0
+AL,Lee County,Auburn-Opelika,Auburn,0.0,462.5,682.5,0.0,0.0
+AL,Madison County,Huntsville,Huntsville,0.0,920.0,0.0,0.0,0.0
+AL,Mobile County,Mobile,Mobile,0.0,0.0,985.0,0.0,0.0
+AL,Montgomery County,Montgomery,Montgomery,208.33333333333334,256.6666666666667,308.3333333333333,0.0,0.0
+AL,Tuscaloosa County,Tuscaloosa,Tuscaloosa,325.0,457.5,0.0,0.0,0.0
+AR,Benton County,Fayetteville-Springdale-Rogers,Bentonville,265.0,308.3333333333333,350.0,0.0,0.0
+AR,Craighead County,Jonesboro,Jonesboro,0.0,849.0,0.0,0.0,0.0
+AR,Faulkner County,Little Rock-North Little Rock-Conway,Conway,0.0,650.0,0.0,0.0,0.0
+AR,Pulaski County,Little Rock-North Little Rock-Conway,Little Rock,228.33333333333334,275.0,318.3333333333333,0.0,0.0
+AR,Pulaski County,Little Rock-North Little Rock-Conway,North Little Rock,362.0,371.25,0.0,0.0,0.0
+AR,Sebastian County,Fort Smith,Fort Smith,212.5,325.0,0.0,0.0,0.0
+AR,Washington County,Fayetteville-Springdale-Rogers,Fayetteville,0.0,412.5,675.0,0.0,0.0
+AZ,Coconino County,Flagstaff,Flagstaff,0.0,1493.0,0.0,0.0,0.0
+AZ,Maricopa County,Phoenix-Mesa-Scottsdale,Avondale,545.25,668.5,0.0,0.0,0.0
+AZ,Maricopa County,Phoenix-Mesa-Scottsdale,Chandler,420.3333333333333,483.8333333333333,566.6666666666666,0.0,0.0
+AZ,Maricopa County,Phoenix-Mesa-Scottsdale,Gilbert,406.6666666666667,473.3333333333333,549.1666666666666,0.0,0.0
+AZ,Maricopa County,Phoenix-Mesa-Scottsdale,Glendale,341.3333333333333,415.8333333333333,502.0,0.0,0.0
+AZ,Maricopa County,Phoenix-Mesa-Scottsdale,Mesa,327.0,395.8333333333333,496.6666666666667,0.0,0.0
+AZ,Maricopa County,Phoenix-Mesa-Scottsdale,Peoria,388.6666666666667,460.6666666666667,498.0,0.0,0.0
+AZ,Maricopa County,Phoenix-Mesa-Scottsdale,Phoenix,292.5,337.5,377.5,375.0,0.0
+AZ,Maricopa County,Phoenix-Mesa-Scottsdale,Scottsdale,550.5,663.3333333333334,705.0,0.0,0.0
+AZ,Maricopa County,Phoenix-Mesa-Scottsdale,Surprise,0.0,1409.5,0.0,0.0,0.0
+AZ,Maricopa County,Phoenix-Mesa-Scottsdale,Tempe,485.0,498.3333333333333,736.3333333333334,0.0,0.0
+AZ,Pima County,Tucson,Tucson,173.75,231.25,325.625,431.25,0.0
+AZ,Yuma County,Yuma,Yuma,0.0,425.0,500.0,0.0,0.0
+CA,Alameda County,San Francisco-Oakland-Hayward,Alameda,691.5,866.6666666666666,1166.6666666666667,0.0,0.0
+CA,Alameda County,San Francisco-Oakland-Hayward,Berkeley,833.3333333333334,1010.0,1331.6666666666667,0.0,0.0
+CA,Alameda County,San Francisco-Oakland-Hayward,Castro Valley,0.0,2317.5,0.0,0.0,0.0
+CA,Alameda County,San Francisco-Oakland-Hayward,Dublin,583.75,687.5,823.625,974.375,0.0
+CA,Alameda County,San Francisco-Oakland-Hayward,Emeryville,1300.0,1665.0,0.0,0.0,0.0
+CA,Alameda County,San Francisco-Oakland-Hayward,Fremont,586.125,683.625,826.125,962.5,0.0
+CA,Alameda County,San Francisco-Oakland-Hayward,Hayward,634.8333333333334,768.3333333333334,1000.0,0.0,0.0
+CA,Alameda County,San Francisco-Oakland-Hayward,Livermore,0.0,1190.0,1550.0,0.0,0.0
+CA,Alameda County,San Francisco-Oakland-Hayward,Newark,0.0,1300.0,1600.0,0.0,0.0
+CA,Alameda County,San Francisco-Oakland-Hayward,Oakland,742.5,953.375,875.0,831.25,0.0
+CA,Alameda County,San Francisco-Oakland-Hayward,Pleasanton,752.1666666666666,929.1666666666666,1116.6666666666667,0.0,0.0
+CA,Alameda County,San Francisco-Oakland-Hayward,San Leandro,631.6666666666666,766.6666666666666,991.6666666666666,0.0,0.0
+CA,Alameda County,San Francisco-Oakland-Hayward,Union City,1078.25,1226.0,0.0,0.0,0.0
+CA,Butte County,Chico,Chico,0.0,600.0,877.5,0.0,0.0
+CA,Contra Costa County,San Francisco-Oakland-Hayward,Antioch,0.0,633.3333333333334,795.0,839.1666666666666,0.0
+CA,Contra Costa County,San Francisco-Oakland-Hayward,Brentwood,0.0,0.0,1200.0,1375.0,0.0
+CA,Contra Costa County,San Francisco-Oakland-Hayward,Concord,473.75,548.75,675.0,800.0,0.0
+CA,Contra Costa County,San Francisco-Oakland-Hayward,Danville,0.0,850.6666666666666,1266.6666666666667,1500.0,0.0
+CA,Contra Costa County,San Francisco-Oakland-Hayward,El Cerrito,0.0,2469.0,0.0,0.0,0.0
+CA,Contra Costa County,San Francisco-Oakland-Hayward,Martinez,0.0,1067.5,1361.25,0.0,0.0
+CA,Contra Costa County,San Francisco-Oakland-Hayward,Pittsburg,0.0,649.6666666666666,791.6666666666666,916.5,0.0
+CA,Contra Costa County,San Francisco-Oakland-Hayward,Pleasant Hill,701.3333333333334,845.3333333333334,1066.6666666666667,0.0,0.0
+CA,Contra Costa County,San Francisco-Oakland-Hayward,Richmond,665.0,833.3333333333334,995.8333333333334,0.0,0.0
+CA,Contra Costa County,San Francisco-Oakland-Hayward,San Ramon,500.0,600.75,860.0,975.0,0.0
+CA,Contra Costa County,San Francisco-Oakland-Hayward,Walnut Creek,630.875,675.0,815.625,992.5,0.0
+CA,Fresno County,Fresno,Clovis,0.0,392.3333333333333,565.0,631.6666666666666,0.0
+CA,Fresno County,Fresno,Fresno,212.5,250.0,373.75,462.5,0.0
+CA,Kern County,Bakersfield,Bakersfield,0.0,300.0,466.6666666666667,566.6666666666666,0.0
+CA,Kern County,Bakersfield,Oildale,0.0,925.0,0.0,0.0,0.0
+CA,Kern County,Bakersfield,Ridgecrest,0.0,0.0,1350.0,0.0,0.0
+CA,Los Angeles County,Los Angeles-Long Beach-Anaheim,Alhambra,533.3333333333334,650.0,833.3333333333334,0.0,0.0
+CA,Los Angeles County,Los Angeles-Long Beach-Anaheim,Arcadia,0.0,1125.0,1600.0,0.0,0.0
+CA,Los Angeles County,Los Angeles-Long Beach-Anaheim,Azusa,0.0,1825.0,0.0,0.0,0.0
+CA,Los Angeles County,Los Angeles-Long Beach-Anaheim,Bellflower,0.0,1695.0,0.0,0.0,0.0
+CA,Los Angeles County,Los Angeles-Long Beach-Anaheim,Beverly Hills,698.75,998.75,1625.0,0.0,6700.0
+CA,Los Angeles County,Los Angeles-Long Beach-Anaheim,Burbank,633.3333333333334,850.0,1250.0,0.0,0.0
+CA,Los Angeles County,Los Angeles-Long Beach-Anaheim,Calabasas,0.0,2485.0,0.0,0.0,0.0
+CA,Los Angeles County,Los Angeles-Long Beach-Anaheim,Covina,516.6666666666666,630.6666666666666,781.6666666666666,0.0,0.0
+CA,Los Angeles County,Los Angeles-Long Beach-Anaheim,Diamond Bar,0.0,665.0,833.3333333333334,1000.0,0.0
+CA,Los Angeles County,Los Angeles-Long Beach-Anaheim,Downey,501.8333333333333,641.6666666666666,900.0,0.0,0.0
+CA,Los Angeles County,Los Angeles-Long Beach-Anaheim,Gardena,0.0,1925.0,0.0,0.0,0.0
+CA,Los Angeles County,Los Angeles-Long Beach-Anaheim,Glendale,733.3333333333334,865.0,1116.6666666666667,0.0,0.0
+CA,Los Angeles County,Los Angeles-Long Beach-Anaheim,Glendora,0.0,1000.0,1397.5,0.0,0.0
+CA,Los Angeles County,Los Angeles-Long Beach-Anaheim,Hawthorne,747.5,947.5,0.0,0.0,0.0
+CA,Los Angeles County,Los Angeles-Long Beach-Anaheim,Hermosa Beach,910.3333333333334,1172.8333333333333,1833.3333333333333,0.0,0.0
+CA,Los Angeles County,Los Angeles-Long Beach-Anaheim,Inglewood,525.0,725.0,933.3333333333334,0.0,0.0
+CA,Los Angeles County,Los Angeles-Long Beach-Anaheim,Lakewood,0.0,1062.5,1348.75,0.0,0.0
+CA,Los Angeles County,Los Angeles-Long Beach-Anaheim,Lancaster,0.0,512.1666666666666,600.0,666.6666666666666,0.0
+CA,Los Angeles County,Los Angeles-Long Beach-Anaheim,Long Beach,330.0,420.0,539.5,549.5,472.5
+CA,Los Angeles County,Los Angeles-Long Beach-Anaheim,Los Angeles,468.0,599.0,759.0,852.5,899.0
+CA,Los Angeles County,Los Angeles-Long Beach-Anaheim,Malibu,2500.0,0.0,8500.0,0.0,0.0
+CA,Los Angeles County,Los Angeles-Long Beach-Anaheim,Manhattan Beach,0.0,1975.0,3112.5,0.0,0.0
+CA,Los Angeles County,Los Angeles-Long Beach-Anaheim,Monterey Park,0.0,945.0,1300.0,0.0,0.0
+CA,Los Angeles County,Los Angeles-Long Beach-Anaheim,Norwalk,0.0,2045.0,0.0,0.0,0.0
+CA,Los Angeles County,Los Angeles-Long Beach-Anaheim,Palmdale,0.0,0.0,931.0,1012.5,0.0
+CA,Los Angeles County,Los Angeles-Long Beach-Anaheim,Paramount,0.0,1850.0,0.0,0.0,0.0
+CA,Los Angeles County,Los Angeles-Long Beach-Anaheim,Pasadena,722.3333333333334,943.8333333333334,1200.0,0.0,0.0
+CA,Los Angeles County,Los Angeles-Long Beach-Anaheim,Pomona,505.3333333333333,585.8333333333334,766.6666666666666,0.0,0.0
+CA,Los Angeles County,Los Angeles-Long Beach-Anaheim,Rancho Palos Verdes,0.0,967.6666666666666,1224.1666666666667,1533.3333333333333,0.0
+CA,Los Angeles County,Los Angeles-Long Beach-Anaheim,Redondo Beach,583.125,674.75,875.0,1221.25,0.0
+CA,Los Angeles County,Los Angeles-Long Beach-Anaheim,San Dimas,0.0,1912.0,0.0,0.0,0.0
+CA,Los Angeles County,Los Angeles-Long Beach-Anaheim,San Gabriel,0.0,950.0,1450.0,0.0,0.0
+CA,Los Angeles County,Los Angeles-Long Beach-Anaheim,Santa Clarita,473.75,533.0,683.0,787.5,0.0
+CA,Los Angeles County,Los Angeles-Long Beach-Anaheim,Santa Monica,1000.0,1382.0,1948.8333333333333,0.0,0.0
+CA,Los Angeles County,Los Angeles-Long Beach-Anaheim,South Pasadena,0.0,2472.5,0.0,0.0,0.0
+CA,Los Angeles County,Los Angeles-Long Beach-Anaheim,Torrance,436.25,603.75,825.0,900.0,0.0
+CA,Los Angeles County,Los Angeles-Long Beach-Anaheim,West Covina,581.6666666666666,694.5,816.6666666666666,0.0,0.0
+CA,Los Angeles County,Los Angeles-Long Beach-Anaheim,West Hollywood,866.6666666666666,1194.8333333333333,2032.5,0.0,0.0
+CA,Los Angeles County,Los Angeles-Long Beach-Anaheim,Whittier,482.5,600.0,833.3333333333334,0.0,0.0
+CA,Marin County,San Francisco-Oakland-Hayward,Novato,0.0,2695.0,0.0,0.0,0.0
+CA,Marin County,San Francisco-Oakland-Hayward,San Rafael,731.6666666666666,933.3333333333334,1316.6666666666667,0.0,0.0
+CA,Marin County,San Francisco-Oakland-Hayward,Sausalito,0.0,3825.0,0.0,0.0,0.0
+CA,Merced County,Merced,Merced,0.0,345.8333333333333,466.6666666666667,554.1666666666666,0.0
+CA,Monterey County,Salinas,Monterey,897.5,1147.5,0.0,0.0,0.0
+CA,Monterey County,Salinas,Pacific Grove,0.0,2950.0,0.0,0.0,0.0
+CA,Monterey County,Salinas,Salinas,501.6666666666667,630.0,883.3333333333334,0.0,0.0
+CA,Napa County,Napa,Napa,0.0,1460.0,1625.0,0.0,0.0
+CA,Orange County,Los Angeles-Long Beach-Anaheim,Aliso Viejo,663.3333333333334,823.3333333333334,1000.0,0.0,0.0
+CA,Orange County,Los Angeles-Long Beach-Anaheim,Anaheim,465.25,575.0,675.0,768.75,0.0
+CA,Orange County,Los Angeles-Long Beach-Anaheim,Brea,0.0,1100.0,1398.75,0.0,0.0
+CA,Orange County,Los Angeles-Long Beach-Anaheim,Buena Park,0.0,925.0,1400.0,0.0,0.0
+CA,Orange County,Los Angeles-Long Beach-Anaheim,Costa Mesa,637.1666666666666,822.6666666666666,1125.0,0.0,0.0
+CA,Orange County,Los Angeles-Long Beach-Anaheim,Cypress,0.0,2097.5,0.0,0.0,0.0
+CA,Orange County,Los Angeles-Long Beach-Anaheim,Dana Point,710.8333333333334,933.0,1400.0,0.0,0.0
+CA,Orange County,Los Angeles-Long Beach-Anaheim,Fountain Valley,891.75,1088.0,0.0,0.0,0.0
+CA,Orange County,Los Angeles-Long Beach-Anaheim,Fullerton,633.3333333333334,765.6666666666666,924.1666666666666,0.0,0.0
+CA,Orange County,Los Angeles-Long Beach-Anaheim,Garden Grove,533.3333333333334,650.0,933.3333333333334,0.0,0.0
+CA,Orange County,Los Angeles-Long Beach-Anaheim,Huntington Beach,510.0,586.75,775.0,950.0,0.0
+CA,Orange County,Los Angeles-Long Beach-Anaheim,Irvine,435.5,533.0,670.0,860.0,1370.0
+CA,Orange County,Los Angeles-Long Beach-Anaheim,La Habra,810.0,975.0,0.0,0.0,0.0
+CA,Orange County,Los Angeles-Long Beach-Anaheim,Laguna Beach,623.75,1075.0,1750.0,2225.0,0.0
+CA,Orange County,Los Angeles-Long Beach-Anaheim,Laguna Hills,938.5,1124.0,0.0,0.0,0.0
+CA,Orange County,Los Angeles-Long Beach-Anaheim,Laguna Niguel,544.5,625.0,848.75,1125.0,0.0
+CA,Orange County,Los Angeles-Long Beach-Anaheim,Laguna Woods,0.0,2000.0,0.0,0.0,0.0
+CA,Orange County,Los Angeles-Long Beach-Anaheim,Lake Forest,463.0,563.25,775.0,900.0,0.0
+CA,Orange County,Los Angeles-Long Beach-Anaheim,Mission Viejo,465.75,592.75,740.0,875.0,0.0
+CA,Orange County,Los Angeles-Long Beach-Anaheim,Newport Beach,508.0,647.0,1000.0,1670.0,2500.0
+CA,Orange County,Los Angeles-Long Beach-Anaheim,Orange,507.375,617.25,725.0,850.0,0.0
+CA,Orange County,Los Angeles-Long Beach-Anaheim,Placentia,0.0,2100.0,0.0,0.0,0.0
+CA,Orange County,Los Angeles-Long Beach-Anaheim,Rancho Santa Margarita,616.6666666666666,753.6666666666666,1000.0,0.0,0.0
+CA,Orange County,Los Angeles-Long Beach-Anaheim,San Clemente,503.75,625.0,874.75,1237.5,0.0
+CA,Orange County,Los Angeles-Long Beach-Anaheim,Santa Ana,570.0,780.1666666666666,983.3333333333334,0.0,0.0
+CA,Orange County,Los Angeles-Long Beach-Anaheim,Seal Beach,0.0,2602.5,0.0,0.0,0.0
+CA,Orange County,Los Angeles-Long Beach-Anaheim,Tustin,614.1666666666666,801.6666666666666,1049.1666666666667,0.0,0.0
+CA,Orange County,Los Angeles-Long Beach-Anaheim,Yorba Linda,0.0,0.0,3097.5,0.0,0.0
+CA,Placer County,Sacramento--Roseville--Arden-Arcade,Rocklin,0.0,863.75,1100.0,0.0,0.0
+CA,Placer County,Sacramento--Roseville--Arden-Arcade,Roseville,387.5,456.625,526.375,600.0,0.0
+CA,Riverside County,Riverside-San Bernardino-Ontario,Cathedral City,0.0,825.0,925.0,0.0,0.0
+CA,Riverside County,Riverside-San Bernardino-Ontario,Corona,390.5,462.5,567.75,643.125,0.0
+CA,Riverside County,Riverside-San Bernardino-Ontario,Desert Hot Springs,0.0,575.0,775.0,0.0,0.0
+CA,Riverside County,Riverside-San Bernardino-Ontario,Eastvale,0.0,556.5,652.5,699.5,737.5
+CA,Riverside County,Riverside-San Bernardino-Ontario,Hemet,317.5,400.0,525.0,0.0,0.0
+CA,Riverside County,Riverside-San Bernardino-Ontario,Indian Wells,0.0,0.0,5950.0,0.0,0.0
+CA,Riverside County,Riverside-San Bernardino-Ontario,Indio,0.0,1100.0,1200.0,0.0,0.0
+CA,Riverside County,Riverside-San Bernardino-Ontario,La Quinta,0.0,1987.5,2500.0,0.0,0.0
+CA,Riverside County,Riverside-San Bernardino-Ontario,Lake Elsinore,0.0,502.5,631.6666666666666,731.6666666666666,0.0
+CA,Riverside County,Riverside-San Bernardino-Ontario,Menifee,0.0,491.6666666666667,650.0,745.0,0.0
+CA,Riverside County,Riverside-San Bernardino-Ontario,Moreno Valley,367.0,413.25,475.0,498.75,0.0
+CA,Riverside County,Riverside-San Bernardino-Ontario,Murrieta,301.6,344.0,419.5,480.0,510.0
+CA,Riverside County,Riverside-San Bernardino-Ontario,Palm Desert,543.3333333333334,1100.0,1191.6666666666667,0.0,0.0
+CA,Riverside County,Riverside-San Bernardino-Ontario,Palm Springs,483.3333333333333,765.0,1200.0,0.0,0.0
+CA,Riverside County,Riverside-San Bernardino-Ontario,Perris,0.0,0.0,1800.0,0.0,0.0
+CA,Riverside County,Riverside-San Bernardino-Ontario,Rancho Mirage,0.0,1650.0,2500.0,0.0,0.0
+CA,Riverside County,Riverside-San Bernardino-Ontario,Riverside,398.75,450.0,525.0,600.0,0.0
+CA,Riverside County,Riverside-San Bernardino-Ontario,Temecula,333.8,363.5,430.0,490.0,560.0
+CA,Sacramento County,Sacramento--Roseville--Arden-Arcade,Arden-Arcade,395.0,455.0,600.0,0.0,0.0
+CA,Sacramento County,Sacramento--Roseville--Arden-Arcade,Carmichael,382.6666666666667,450.0,598.3333333333334,0.0,0.0
+CA,Sacramento County,Sacramento--Roseville--Arden-Arcade,Citrus Heights,421.3333333333333,500.0,598.3333333333334,0.0,0.0
+CA,Sacramento County,Sacramento--Roseville--Arden-Arcade,Elk Grove,0.0,571.3333333333334,633.3333333333334,750.0,0.0
+CA,Sacramento County,Sacramento--Roseville--Arden-Arcade,Folsom,405.0,489.375,562.5,634.375,0.0
+CA,Sacramento County,Sacramento--Roseville--Arden-Arcade,Rancho Cordova,0.0,0.0,912.5,998.75,0.0
+CA,Sacramento County,Sacramento--Roseville--Arden-Arcade,Rosemont,0.0,1511.5,0.0,0.0,0.0
+CA,Sacramento County,Sacramento--Roseville--Arden-Arcade,Sacramento,281.0,339.0,370.0,399.0,380.0
+CA,San Bernardino County,Riverside-San Bernardino-Ontario,Apple Valley,0.0,487.5,697.5,0.0,0.0
+CA,San Bernardino County,Riverside-San Bernardino-Ontario,Chino,485.0,558.75,628.75,712.5,0.0
+CA,San Bernardino County,Riverside-San Bernardino-Ontario,Chino Hills,463.125,540.625,649.25,718.75,0.0
+CA,San Bernardino County,Riverside-San Bernardino-Ontario,Fontana,0.0,491.6666666666667,733.3333333333334,824.1666666666666,0.0
+CA,San Bernardino County,Riverside-San Bernardino-Ontario,Loma Linda,0.0,1569.5,0.0,0.0,0.0
+CA,San Bernardino County,Riverside-San Bernardino-Ontario,Montclair,0.0,1987.0,0.0,0.0,0.0
+CA,San Bernardino County,Riverside-San Bernardino-Ontario,Ontario,393.75,473.75,550.0,625.0,0.0
+CA,San Bernardino County,Riverside-San Bernardino-Ontario,Rancho Cucamonga,441.25,515.0,604.0,668.75,0.0
+CA,San Bernardino County,Riverside-San Bernardino-Ontario,Redlands,575.8333333333334,575.0,680.0,0.0,0.0
+CA,San Bernardino County,Riverside-San Bernardino-Ontario,San Bernardino,325.0,415.0,560.0,0.0,0.0
+CA,San Bernardino County,Riverside-San Bernardino-Ontario,Twentynine Palms,0.0,400.0,500.0,0.0,0.0
+CA,San Bernardino County,Riverside-San Bernardino-Ontario,Upland,500.6666666666667,605.6666666666666,900.0,0.0,0.0
+CA,San Bernardino County,Riverside-San Bernardino-Ontario,Victorville,0.0,365.8333333333333,483.3333333333333,530.8333333333334,0.0
+CA,San Diego County,San Diego-Carlsbad,Carlsbad,517.5,598.75,811.5,974.375,0.0
+CA,San Diego County,San Diego-Carlsbad,Chula Vista,452.5,562.5,696.25,750.0,0.0
+CA,San Diego County,San Diego-Carlsbad,Coronado,0.0,4200.0,0.0,0.0,0.0
+CA,San Diego County,San Diego-Carlsbad,El Cajon,475.0,565.0,783.3333333333334,0.0,0.0
+CA,San Diego County,San Diego-Carlsbad,Encinitas,666.6666666666666,933.3333333333334,1383.3333333333333,0.0,0.0
+CA,San Diego County,San Diego-Carlsbad,Escondido,368.75,455.0,650.25,750.0,0.0
+CA,San Diego County,San Diego-Carlsbad,Imperial Beach,483.3333333333333,611.6666666666666,883.3333333333334,0.0,0.0
+CA,San Diego County,San Diego-Carlsbad,La Mesa,550.0,665.0,833.3333333333334,0.0,0.0
+CA,San Diego County,San Diego-Carlsbad,Oceanside,437.5,511.25,650.0,723.125,0.0
+CA,San Diego County,San Diego-Carlsbad,San Diego,400.0,514.0,628.0,769.0,1100.0
+CA,San Diego County,San Diego-Carlsbad,San Marcos,462.75,576.125,712.5,750.0,0.0
+CA,San Diego County,San Diego-Carlsbad,Santee,0.0,879.0,1225.0,0.0,0.0
+CA,San Diego County,San Diego-Carlsbad,Spring Valley,0.0,948.5,1212.5,0.0,0.0
+CA,San Diego County,San Diego-Carlsbad,Vista,566.6666666666666,642.6666666666666,831.6666666666666,0.0,0.0
+CA,San Francisco County,San Francisco-Oakland-Hayward,San Francisco,875.0,1149.875,1375.0,1581.25,0.0
+CA,San Joaquin County,Stockton-Lodi,Manteca,0.0,0.0,1897.5,0.0,0.0
+CA,San Joaquin County,Stockton-Lodi,Stockton,248.75,337.5,400.0,490.625,0.0
+CA,San Joaquin County,Stockton-Lodi,Tracy,339.0,379.0,450.0,500.0,530.0
+CA,San Luis Obispo County,San Luis Obispo-Paso Robles-Arroyo Grande,Paso Robles,0.0,2135.0,0.0,0.0,0.0
+CA,San Luis Obispo County,San Luis Obispo-Paso Robles-Arroyo Grande,San Luis Obispo,0.0,1075.0,1450.0,0.0,0.0
+CA,San Mateo County,San Francisco-Oakland-Hayward,Belmont,2397.5,0.0,0.0,0.0,0.0
+CA,San Mateo County,San Francisco-Oakland-Hayward,Burlingame,1291.0,1792.75,0.0,0.0,0.0
+CA,San Mateo County,San Francisco-Oakland-Hayward,Daly City,858.3333333333334,1033.3333333333333,1283.3333333333333,0.0,0.0
+CA,San Mateo County,San Francisco-Oakland-Hayward,Foster City,1542.5,1773.0,0.0,0.0,0.0
+CA,San Mateo County,San Francisco-Oakland-Hayward,Menlo Park,0.0,2048.5,2929.0,0.0,0.0
+CA,San Mateo County,San Francisco-Oakland-Hayward,Redwood City,1070.8333333333333,1341.0,1532.5,0.0,0.0
+CA,San Mateo County,San Francisco-Oakland-Hayward,San Bruno,1297.5,1657.5,0.0,0.0,0.0
+CA,San Mateo County,San Francisco-Oakland-Hayward,San Mateo,906.6666666666666,1204.8333333333333,1600.0,0.0,0.0
+CA,Santa Barbara County,Santa Maria-Santa Barbara,Santa Barbara,825.0,1100.0,1595.8333333333333,0.0,0.0
+CA,Santa Barbara County,Santa Maria-Santa Barbara,Santa Maria,478.3333333333333,616.6666666666666,738.6666666666666,0.0,0.0
+CA,Santa Clara County,San Jose-Sunnyvale-Santa Clara,Campbell,790.0,933.3333333333334,1231.6666666666667,0.0,0.0
+CA,Santa Clara County,San Jose-Sunnyvale-Santa Clara,Cupertino,941.6666666666666,1171.0,1324.1666666666667,0.0,0.0
+CA,Santa Clara County,San Jose-Sunnyvale-Santa Clara,Los Gatos,1382.0,1820.5,0.0,0.0,0.0
+CA,Santa Clara County,San Jose-Sunnyvale-Santa Clara,Milpitas,876.6666666666666,1062.6666666666667,1132.3333333333333,0.0,0.0
+CA,Santa Clara County,San Jose-Sunnyvale-Santa Clara,Mountain View,1116.6666666666667,1165.8333333333333,1499.1666666666667,0.0,0.0
+CA,Santa Clara County,San Jose-Sunnyvale-Santa Clara,Palo Alto,700.0,1100.0,1498.75,1750.0,0.0
+CA,Santa Clara County,San Jose-Sunnyvale-Santa Clara,San Jose,527.0,602.6,700.0,790.0,860.0
+CA,Santa Clara County,San Jose-Sunnyvale-Santa Clara,Santa Clara,886.6666666666666,1050.5,1229.6666666666667,0.0,0.0
+CA,Santa Clara County,San Jose-Sunnyvale-Santa Clara,Sunnyvale,861.6666666666666,1056.3333333333333,1365.8333333333333,0.0,0.0
+CA,Santa Cruz County,Santa Cruz-Watsonville,Santa Cruz,698.1666666666666,908.3333333333334,1266.6666666666667,0.0,0.0
+CA,Shasta County,Redding,Redding,0.0,450.0,775.0,0.0,0.0
+CA,Solano County,Vallejo-Fairfield,Benicia,0.0,2100.0,0.0,0.0,0.0
+CA,Solano County,Vallejo-Fairfield,Fairfield,413.5,460.625,568.125,631.25,0.0
+CA,Solano County,Vallejo-Fairfield,Vacaville,624.8333333333334,644.6666666666666,731.6666666666666,0.0,0.0
+CA,Solano County,Vallejo-Fairfield,Vallejo,400.0,471.25,575.0,632.5,0.0
+CA,Sonoma County,Santa Rosa,Petaluma,0.0,1196.25,1488.0,0.0,0.0
+CA,Sonoma County,Santa Rosa,Rohnert Park,646.6666666666666,700.0,900.0,0.0,0.0
+CA,Sonoma County,Santa Rosa,Santa Rosa,462.25,550.0,675.0,773.75,0.0
+CA,Sonoma County,Santa Rosa,Sonoma,0.0,1150.0,1687.5,0.0,0.0
+CA,Stanislaus County,Modesto,Modesto,299.75,327.125,396.25,443.125,0.0
+CA,Stanislaus County,Modesto,Turlock,0.0,653.25,810.0,0.0,0.0
+CA,Tulare County,Visalia-Porterville,Tulare,0.0,937.5,0.0,0.0,0.0
+CA,Tulare County,Visalia-Porterville,Visalia,0.0,498.75,725.0,0.0,0.0
+CA,Ventura County,Oxnard-Thousand Oaks-Ventura,Camarillo,730.0,850.0,987.5,0.0,0.0
+CA,Ventura County,Oxnard-Thousand Oaks-Ventura,Moorpark,0.0,2245.0,0.0,0.0,0.0
+CA,Ventura County,Oxnard-Thousand Oaks-Ventura,Oak Park,0.0,2485.0,0.0,0.0,0.0
+CA,Ventura County,Oxnard-Thousand Oaks-Ventura,Oxnard,498.75,584.75,694.25,800.0,0.0
+CA,Ventura County,Oxnard-Thousand Oaks-Ventura,Port Hueneme,0.0,1900.0,0.0,0.0,0.0
+CA,Ventura County,Oxnard-Thousand Oaks-Ventura,Simi Valley,467.5,536.25,674.375,800.0,0.0
+CA,Ventura County,Oxnard-Thousand Oaks-Ventura,Thousand Oaks,517.625,598.75,786.0,961.875,0.0
+CA,Ventura County,Oxnard-Thousand Oaks-Ventura,Ventura,583.3333333333334,732.5,950.0,0.0,0.0
+CA,Yolo County,Sacramento--Roseville--Arden-Arcade,Davis,477.3333333333333,608.3333333333334,865.8333333333334,0.0,0.0
+CA,Yolo County,Sacramento--Roseville--Arden-Arcade,West Sacramento,0.0,1729.0,0.0,0.0,0.0
+CO,Adams County,Denver-Aurora-Lakewood,Brighton,0.0,1563.0,0.0,0.0,0.0
+CO,Adams County,Denver-Aurora-Lakewood,Northglenn,378.8333333333333,513.0,659.8333333333334,0.0,0.0
+CO,Adams County,Denver-Aurora-Lakewood,Thornton,431.6666666666667,528.0,666.6666666666666,0.0,0.0
+CO,Adams County,Denver-Aurora-Lakewood,Westminster,503.3333333333333,581.5,681.6666666666666,0.0,0.0
+CO,Arapahoe County,Denver-Aurora-Lakewood,Aurora,296.0,380.0,525.0,598.75,0.0
+CO,Arapahoe County,Denver-Aurora-Lakewood,Centennial,560.0,616.6666666666666,753.3333333333334,0.0,0.0
+CO,Arapahoe County,Denver-Aurora-Lakewood,Englewood,470.0,576.1666666666666,730.8333333333334,0.0,0.0
+CO,Arapahoe County,Denver-Aurora-Lakewood,Greenwood Village,816.75,945.0,0.0,0.0,0.0
+CO,Arapahoe County,Denver-Aurora-Lakewood,Littleton,474.3333333333333,582.3333333333334,750.0,0.0,0.0
+CO,Boulder County,Boulder,Boulder,578.3333333333334,687.3333333333334,996.6666666666666,0.0,0.0
+CO,Boulder County,Boulder,Lafayette,765.0,881.5,0.0,0.0,0.0
+CO,Boulder County,Boulder,Longmont,523.6666666666666,620.0,690.0,0.0,0.0
+CO,Boulder County,Boulder,Louisville,760.5,911.25,0.0,0.0,0.0
+CO,Boulder County,Boulder,Superior,811.5,900.0,0.0,0.0,0.0
+CO,Broomfield County,Denver-Aurora-Lakewood,Broomfield,509.6666666666667,621.6666666666666,777.1666666666666,0.0,0.0
+CO,Denver County,Denver-Aurora-Lakewood,Denver,420.5,550.0,625.0,625.0,0.0
+CO,Douglas County,Denver-Aurora-Lakewood,Castle Rock,478.3333333333333,580.0,732.5,0.0,0.0
+CO,Douglas County,Denver-Aurora-Lakewood,Highlands Ranch,506.0,616.6666666666666,748.3333333333334,0.0,0.0
+CO,Douglas County,Denver-Aurora-Lakewood,Lone Tree,726.0,891.25,0.0,0.0,0.0
+CO,Douglas County,Denver-Aurora-Lakewood,Parker,459.3333333333333,548.6666666666666,731.6666666666666,0.0,0.0
+CO,El Paso County,Colorado Springs,Colorado Springs,241.2,272.2,330.0,387.5,400.0
+CO,Jefferson County,Denver-Aurora-Lakewood,Arvada,526.6666666666666,591.6666666666666,716.6666666666666,0.0,0.0
+CO,Jefferson County,Denver-Aurora-Lakewood,Golden,0.0,941.5,1375.0,0.0,0.0
+CO,Jefferson County,Denver-Aurora-Lakewood,Ken Caryl,0.0,1712.5,0.0,0.0,0.0
+CO,Jefferson County,Denver-Aurora-Lakewood,Lakewood,369.75,422.0,545.0,584.375,0.0
+CO,La Plata County,Durango,Durango,0.0,1493.0,0.0,0.0,0.0
+CO,Larimer County,Fort Collins,Fort Collins,331.25,367.5,450.0,521.75,0.0
+CO,Larimer County,Fort Collins,Loveland,442.1666666666667,520.6666666666666,598.3333333333334,0.0,0.0
+CO,Mesa County,Grand Junction,Grand Junction,0.0,0.0,1400.0,0.0,0.0
+CO,Pitkin County,Glenwood Springs,Aspen,0.0,0.0,0.0,50000.0,0.0
+CO,Pueblo County,Pueblo,Pueblo,0.0,437.5,568.75,0.0,0.0
+CO,Weld County,Greeley,Greeley,0.0,0.0,1747.5,0.0,0.0
+CT,Fairfield County,Bridgeport-Stamford-Norwalk,Bridgeport,275.0,325.0,375.0,437.5,0.0
+CT,Fairfield County,Bridgeport-Stamford-Norwalk,Danbury,523.3333333333334,618.3333333333334,719.1666666666666,0.0,0.0
+CT,Fairfield County,Bridgeport-Stamford-Norwalk,Fairfield,0.0,666.6666666666666,983.3333333333334,1166.6666666666667,0.0
+CT,Fairfield County,Bridgeport-Stamford-Norwalk,Greenwich,531.25,799.375,1125.0,1650.0,0.0
+CT,Fairfield County,Bridgeport-Stamford-Norwalk,Norwalk,669.1666666666666,800.0,983.3333333333334,0.0,0.0
+CT,Fairfield County,Bridgeport-Stamford-Norwalk,Shelton,0.0,1750.0,0.0,0.0,0.0
+CT,Fairfield County,Bridgeport-Stamford-Norwalk,Stamford,543.0,697.5,800.0,898.75,0.0
+CT,Fairfield County,Bridgeport-Stamford-Norwalk,Stratford,565.0,600.0,665.0,0.0,0.0
+CT,Hartford County,Hartford-West Hartford-East Hartford,Bristol,412.5,550.0,0.0,0.0,0.0
+CT,Hartford County,Hartford-West Hartford-East Hartford,Farmington,0.0,1535.0,0.0,0.0,0.0
+CT,Hartford County,Hartford-West Hartford-East Hartford,Glastonbury,779.5,862.5,0.0,0.0,0.0
+CT,Hartford County,Hartford-West Hartford-East Hartford,Hartford,290.0,366.6666666666667,400.0,0.0,0.0
+CT,Hartford County,Hartford-West Hartford-East Hartford,Manchester,388.3333333333333,445.0,555.0,0.0,0.0
+CT,Hartford County,Hartford-West Hartford-East Hartford,New Britain,291.6666666666667,333.3333333333333,416.6666666666667,0.0,0.0
+CT,Hartford County,Hartford-West Hartford-East Hartford,Newington,0.0,1375.0,0.0,0.0,0.0
+CT,Hartford County,Hartford-West Hartford-East Hartford,Rocky Hill,604.5,622.0,0.0,0.0,0.0
+CT,Hartford County,Hartford-West Hartford-East Hartford,Southington,0.0,625.0,800.0,0.0,0.0
+CT,Hartford County,Hartford-West Hartford-East Hartford,West Hartford,312.5,368.75,525.0,0.0,437.5
+CT,Litchfield County,Torrington,Torrington,0.0,950.0,0.0,0.0,0.0
+CT,Middlesex County,Hartford-West Hartford-East Hartford,Middletown,383.3333333333333,445.8333333333333,516.6666666666666,0.0,0.0
+CT,New Haven County,New Haven-Milford,Ansonia,0.0,1200.0,0.0,0.0,0.0
+CT,New Haven County,New Haven-Milford,Branford,0.0,725.0,900.0,0.0,0.0
+CT,New Haven County,New Haven-Milford,East Haven,0.0,1350.0,0.0,0.0,0.0
+CT,New Haven County,New Haven-Milford,Hamden,431.6666666666667,508.3333333333333,633.3333333333334,0.0,0.0
+CT,New Haven County,New Haven-Milford,Meriden,495.0,600.0,0.0,0.0,0.0
+CT,New Haven County,New Haven-Milford,Milford,800.0,875.0,0.0,0.0,0.0
+CT,New Haven County,New Haven-Milford,Naugatuck,0.0,1200.0,0.0,0.0,0.0
+CT,New Haven County,New Haven-Milford,New Haven,300.0,325.0,0.0,400.0,374.375
+CT,New Haven County,New Haven-Milford,Southbury,0.0,1500.0,0.0,0.0,0.0
+CT,New Haven County,New Haven-Milford,Wallingford,0.0,1250.0,0.0,0.0,0.0
+CT,New Haven County,New Haven-Milford,Waterbury,190.0,237.5,250.0,0.0,225.0
+CT,New Haven County,New Haven-Milford,West Haven,326.6666666666667,433.3333333333333,566.6666666666666,0.0,0.0
+CT,New London County,Norwich-New London,Groton,0.0,1350.0,0.0,0.0,0.0
+CT,New London County,Norwich-New London,New London,463.0,565.0,0.0,0.0,0.0
+CT,Tolland County,Hartford-West Hartford-East Hartford,Vernon Rockville,537.5,686.25,0.0,0.0,0.0
+DC,District of Columbia,Washington-Arlington-Alexandria,Washington,573.75,787.5,875.0,937.5,0.0
+DE,Kent County,Dover,Dover,330.0,365.0,418.6666666666667,0.0,0.0
+DE,New Castle County,Philadelphia-Camden-Wilmington,Bear,0.0,747.5,905.0,0.0,0.0
+DE,New Castle County,Philadelphia-Camden-Wilmington,New Castle,0.0,1200.0,0.0,0.0,0.0
+DE,New Castle County,Philadelphia-Camden-Wilmington,Newark,245.25,284.25,375.0,487.5,0.0
+DE,New Castle County,Philadelphia-Camden-Wilmington,Wilmington,385.0,433.3333333333333,416.6666666666667,0.0,0.0
+FL,Alachua County,Gainesville,Gainesville,281.25,300.0,362.5,475.0,0.0
+FL,Brevard County,Palm Bay-Melbourne-Titusville,Cape Canaveral,0.0,1650.0,0.0,0.0,0.0
+FL,Brevard County,Palm Bay-Melbourne-Titusville,Cocoa,0.0,0.0,1395.0,0.0,0.0
+FL,Brevard County,Palm Bay-Melbourne-Titusville,Melbourne,360.0,433.3333333333333,500.0,0.0,0.0
+FL,Brevard County,Palm Bay-Melbourne-Titusville,Merritt Island,0.0,0.0,1575.0,0.0,0.0
+FL,Brevard County,Palm Bay-Melbourne-Titusville,Palm Bay,0.0,592.5,699.75,0.0,0.0
+FL,Brevard County,Palm Bay-Melbourne-Titusville,Rockledge,0.0,697.25,756.25,0.0,0.0
+FL,Brevard County,Palm Bay-Melbourne-Titusville,Titusville,0.0,475.0,675.0,0.0,0.0
+FL,Brevard County,Palm Bay-Melbourne-Titusville,West Melbourne,0.0,0.0,1599.5,0.0,0.0
+FL,Broward County,Miami-Fort Lauderdale-West Palm Beach,Coconut Creek,442.0,500.0,700.0,0.0,0.0
+FL,Broward County,Miami-Fort Lauderdale-West Palm Beach,Cooper City,0.0,0.0,2500.0,0.0,0.0
+FL,Broward County,Miami-Fort Lauderdale-West Palm Beach,Coral Springs,300.0,350.0,450.0,681.25,0.0
+FL,Broward County,Miami-Fort Lauderdale-West Palm Beach,Dania Beach,430.0,594.1666666666666,650.0,0.0,0.0
+FL,Broward County,Miami-Fort Lauderdale-West Palm Beach,Davie,350.0,398.75,525.0,715.625,0.0
+FL,Broward County,Miami-Fort Lauderdale-West Palm Beach,Deerfield Beach,419.1666666666667,502.6666666666667,671.6666666666666,0.0,0.0
+FL,Broward County,Miami-Fort Lauderdale-West Palm Beach,Fort Lauderdale,600.0,750.0,964.0,0.0,0.0
+FL,Broward County,Miami-Fort Lauderdale-West Palm Beach,Hallandale,533.3333333333334,820.8333333333334,866.6666666666666,0.0,0.0
+FL,Broward County,Miami-Fort Lauderdale-West Palm Beach,Hollywood,356.25,462.25,581.25,812.5,0.0
+FL,Broward County,Miami-Fort Lauderdale-West Palm Beach,Lauderdale Lakes,497.5,625.0,0.0,0.0,0.0
+FL,Broward County,Miami-Fort Lauderdale-West Palm Beach,Lauderdale-by-the-Sea,0.0,2500.0,0.0,0.0,0.0
+FL,Broward County,Miami-Fort Lauderdale-West Palm Beach,Lauderhill,340.8333333333333,416.6666666666667,566.6666666666666,0.0,0.0
+FL,Broward County,Miami-Fort Lauderdale-West Palm Beach,Lighthouse Point,0.0,2000.0,0.0,0.0,0.0
+FL,Broward County,Miami-Fort Lauderdale-West Palm Beach,Margate,476.3333333333333,504.1666666666667,649.6666666666666,0.0,0.0
+FL,Broward County,Miami-Fort Lauderdale-West Palm Beach,Miramar,376.25,437.5,504.75,668.75,0.0
+FL,Broward County,Miami-Fort Lauderdale-West Palm Beach,North Lauderdale,428.3333333333333,510.0,580.0,0.0,0.0
+FL,Broward County,Miami-Fort Lauderdale-West Palm Beach,Oakland Park,385.0,483.3333333333333,650.0,0.0,0.0
+FL,Broward County,Miami-Fort Lauderdale-West Palm Beach,Pembroke Pines,375.0,422.5,537.5,662.375,0.0
+FL,Broward County,Miami-Fort Lauderdale-West Palm Beach,Plantation,366.25,411.0,522.25,701.25,0.0
+FL,Broward County,Miami-Fort Lauderdale-West Palm Beach,Pompano Beach,556.1666666666666,666.6666666666666,756.6666666666666,0.0,0.0
+FL,Broward County,Miami-Fort Lauderdale-West Palm Beach,Sunrise,433.3333333333333,525.0,666.6666666666666,0.0,0.0
+FL,Broward County,Miami-Fort Lauderdale-West Palm Beach,Tamarac,387.5,466.6666666666667,583.3333333333334,0.0,0.0
+FL,Broward County,Miami-Fort Lauderdale-West Palm Beach,Weston,0.0,600.0,800.0,1066.6666666666667,0.0
+FL,Broward County,Miami-Fort Lauderdale-West Palm Beach,Wilton Manors,631.25,825.0,0.0,0.0,0.0
+FL,Charlotte County,Punta Gorda,Englewood,0.0,0.0,2500.0,0.0,0.0
+FL,Charlotte County,Punta Gorda,Port Charlotte,0.0,625.0,900.0,0.0,0.0
+FL,Charlotte County,Punta Gorda,Punta Gorda,0.0,1800.0,0.0,0.0,0.0
+FL,Charlotte County,Punta Gorda,Rotonda West,0.0,0.0,3050.0,0.0,0.0
+FL,Clay County,Jacksonville,Fleming Island,0.0,661.5,734.0,0.0,0.0
+FL,Clay County,Jacksonville,Middleburg,0.0,0.0,1385.0,0.0,0.0
+FL,Clay County,Jacksonville,Orange Park,0.0,0.0,700.0,837.5,0.0
+FL,Collier County,Naples-Immokalee-Marco Island,Naples,482.6666666666667,664.3333333333334,1000.0,0.0,0.0
+FL,Columbia County,Lake City,Lake City,0.0,0.0,1087.5,0.0,0.0
+FL,Duval County,Jacksonville,Jacksonville,240.0,252.0,275.5,310.0,338.5
+FL,Duval County,Jacksonville,Jacksonville Beach,437.6666666666667,536.3333333333334,722.1666666666666,0.0,0.0
+FL,Escambia County,Pensacola-Ferry Pass-Brent,Pensacola,0.0,450.0,712.0,0.0,0.0
+FL,Flagler County,Deltona-Daytona Beach-Ormond Beach,Palm Coast,0.0,0.0,1350.0,0.0,0.0
+FL,Hernando County,Tampa-St. Petersburg-Clearwater,Spring Hill,0.0,497.5,707.5,0.0,0.0
+FL,Highlands County,Sebring,Sebring,0.0,975.0,0.0,0.0,0.0
+FL,Hillsborough County,Tampa-St. Petersburg-Clearwater,Apollo Beach,0.0,0.0,1645.0,0.0,0.0
+FL,Hillsborough County,Tampa-St. Petersburg-Clearwater,Brandon,0.0,403.3333333333333,500.0,581.6666666666666,0.0
+FL,Hillsborough County,Tampa-St. Petersburg-Clearwater,Egypt Lake-Leto,450.0,589.75,0.0,0.0,0.0
+FL,Hillsborough County,Tampa-St. Petersburg-Clearwater,Greater Carrollwood,0.0,1230.0,0.0,0.0,0.0
+FL,Hillsborough County,Tampa-St. Petersburg-Clearwater,Lutz,412.3333333333333,525.0,633.3333333333334,0.0,0.0
+FL,Hillsborough County,Tampa-St. Petersburg-Clearwater,Odessa,0.0,1443.0,0.0,0.0,0.0
+FL,Hillsborough County,Tampa-St. Petersburg-Clearwater,Plant City,0.0,0.0,1445.0,0.0,0.0
+FL,Hillsborough County,Tampa-St. Petersburg-Clearwater,Riverview,302.625,343.5,387.5,436.25,0.0
+FL,Hillsborough County,Tampa-St. Petersburg-Clearwater,Ruskin,0.0,0.0,775.0,844.75,0.0
+FL,Hillsborough County,Tampa-St. Petersburg-Clearwater,Tampa,360.0,412.5,468.75,548.75,0.0
+FL,Hillsborough County,Tampa-St. Petersburg-Clearwater,Temple Terrace,0.0,1160.0,0.0,0.0,0.0
+FL,Hillsborough County,Tampa-St. Petersburg-Clearwater,Town 'n' Country,393.8333333333333,453.1666666666667,513.3333333333334,0.0,0.0
+FL,Hillsborough County,Tampa-St. Petersburg-Clearwater,University,425.0,532.5,0.0,0.0,0.0
+FL,Hillsborough County,Tampa-St. Petersburg-Clearwater,Valrico,0.0,0.0,792.5,925.0,0.0
+FL,Hillsborough County,Tampa-St. Petersburg-Clearwater,Westchase,425.0,518.0,643.6666666666666,0.0,0.0
+FL,Indian River County,Sebastian-Vero Beach,Vero Beach,1150.0,0.0,0.0,0.0,0.0
+FL,Lake County,Orlando-Kissimmee-Sanford,Clermont,420.0,505.0,564.3333333333334,0.0,0.0
+FL,Lee County,Cape Coral-Fort Myers,Bonita Springs,0.0,1308.3333333333333,1466.6666666666667,2333.3333333333335,0.0
+FL,Lee County,Cape Coral-Fort Myers,Cape Coral,0.0,433.3333333333333,531.6666666666666,598.3333333333334,0.0
+FL,Lee County,Cape Coral-Fort Myers,Estero,0.0,777.5,1100.0,0.0,0.0
+FL,Lee County,Cape Coral-Fort Myers,Fort Myers,0.0,0.0,900.0,1082.5,0.0
+FL,Lee County,Cape Coral-Fort Myers,Lehigh Acres,0.0,500.0,624.75,0.0,0.0
+FL,Lee County,Cape Coral-Fort Myers,North Fort Myers,0.0,1250.0,0.0,0.0,0.0
+FL,Leon County,Tallahassee,Tallahassee,0.0,492.5,0.0,641.0,0.0
+FL,Manatee County,North Port-Sarasota-Bradenton,Bradenton,295.125,392.25,462.5,650.0,0.0
+FL,Manatee County,North Port-Sarasota-Bradenton,Palmetto,0.0,0.0,1700.0,0.0,0.0
+FL,Marion County,Ocala,Ocala,0.0,333.3333333333333,430.0,558.1666666666666,0.0
+FL,Martin County,Port St. Lucie,Palm City,0.0,1875.0,0.0,0.0,0.0
+FL,Martin County,Port St. Lucie,Stuart,0.0,750.0,900.0,0.0,0.0
+FL,Miami-Dade County,Miami-Fort Lauderdale-West Palm Beach,Aventura,566.6666666666666,750.0,1133.3333333333333,0.0,0.0
+FL,Miami-Dade County,Miami-Fort Lauderdale-West Palm Beach,Bal Harbour,2700.0,0.0,0.0,0.0,0.0
+FL,Miami-Dade County,Miami-Fort Lauderdale-West Palm Beach,Bay Harbor Islands,797.5,1200.0,0.0,0.0,0.0
+FL,Miami-Dade County,Miami-Fort Lauderdale-West Palm Beach,Coral Gables,707.0,980.0,1464.3333333333333,0.0,0.0
+FL,Miami-Dade County,Miami-Fort Lauderdale-West Palm Beach,Country Club,450.0,516.6666666666666,616.6666666666666,0.0,0.0
+FL,Miami-Dade County,Miami-Fort Lauderdale-West Palm Beach,Cutler Bay,0.0,483.3333333333333,600.0,754.1666666666666,0.0
+FL,Miami-Dade County,Miami-Fort Lauderdale-West Palm Beach,Doral,371.6,440.0,493.8,600.0,980.0
+FL,Miami-Dade County,Miami-Fort Lauderdale-West Palm Beach,Fountainbleau,559.3333333333334,566.6666666666666,700.0,0.0,0.0
+FL,Miami-Dade County,Miami-Fort Lauderdale-West Palm Beach,Glenvar Heights,683.6666666666666,917.1666666666666,1197.1666666666667,0.0,0.0
+FL,Miami-Dade County,Miami-Fort Lauderdale-West Palm Beach,Golden Glades,550.0,687.5,0.0,0.0,0.0
+FL,Miami-Dade County,Miami-Fort Lauderdale-West Palm Beach,Hialeah,300.0,375.0,537.5,624.875,0.0
+FL,Miami-Dade County,Miami-Fort Lauderdale-West Palm Beach,Homestead,0.0,433.3333333333333,550.0,666.6666666666666,0.0
+FL,Miami-Dade County,Miami-Fort Lauderdale-West Palm Beach,Ives Estates,0.0,814.0,1047.0,0.0,0.0
+FL,Miami-Dade County,Miami-Fort Lauderdale-West Palm Beach,Kendale Lakes,0.0,750.0,925.0,0.0,0.0
+FL,Miami-Dade County,Miami-Fort Lauderdale-West Palm Beach,Kendall,466.6666666666667,583.3333333333334,683.3333333333334,0.0,0.0
+FL,Miami-Dade County,Miami-Fort Lauderdale-West Palm Beach,Kendall West,0.0,747.5,912.5,0.0,0.0
+FL,Miami-Dade County,Miami-Fort Lauderdale-West Palm Beach,Key Biscayne,748.3333333333334,1466.6666666666667,2500.0,0.0,0.0
+FL,Miami-Dade County,Miami-Fort Lauderdale-West Palm Beach,Miami,671.6666666666666,866.6666666666666,1166.6666666666667,0.0,0.0
+FL,Miami-Dade County,Miami-Fort Lauderdale-West Palm Beach,Miami Beach,450.0,712.5,1375.0,2625.0,0.0
+FL,Miami-Dade County,Miami-Fort Lauderdale-West Palm Beach,Miami Gardens,0.0,0.0,1979.0,0.0,0.0
+FL,Miami-Dade County,Miami-Fort Lauderdale-West Palm Beach,Miami Lakes,603.3333333333334,661.6666666666666,841.6666666666666,0.0,0.0
+FL,Miami-Dade County,Miami-Fort Lauderdale-West Palm Beach,North Bay Village,798.0,1043.75,0.0,0.0,0.0
+FL,Miami-Dade County,Miami-Fort Lauderdale-West Palm Beach,North Miami,433.3333333333333,560.0,866.6666666666666,0.0,0.0
+FL,Miami-Dade County,Miami-Fort Lauderdale-West Palm Beach,North Miami Beach,432.5,616.6666666666666,894.8333333333334,0.0,0.0
+FL,Miami-Dade County,Miami-Fort Lauderdale-West Palm Beach,Ojus,650.0,800.0,0.0,0.0,0.0
+FL,Miami-Dade County,Miami-Fort Lauderdale-West Palm Beach,Richmond West,0.0,0.0,2037.5,0.0,0.0
+FL,Miami-Dade County,Miami-Fort Lauderdale-West Palm Beach,South Miami,0.0,2100.0,0.0,0.0,0.0
+FL,Miami-Dade County,Miami-Fort Lauderdale-West Palm Beach,Sunny Isles Beach,450.0,937.5,1762.5,3562.5,0.0
+FL,Miami-Dade County,Miami-Fort Lauderdale-West Palm Beach,Surfside,925.0,1525.0,0.0,0.0,0.0
+FL,Miami-Dade County,Miami-Fort Lauderdale-West Palm Beach,Tamiami,0.0,750.0,975.0,0.0,0.0
+FL,Miami-Dade County,Miami-Fort Lauderdale-West Palm Beach,The Crossings,0.0,1600.0,0.0,0.0,0.0
+FL,Miami-Dade County,Miami-Fort Lauderdale-West Palm Beach,The Hammocks,343.75,412.5,525.0,629.25,0.0
+FL,Miami-Dade County,Miami-Fort Lauderdale-West Palm Beach,Three Lakes,0.0,779.0,975.0,0.0,0.0
+FL,Miami-Dade County,Miami-Fort Lauderdale-West Palm Beach,Village of Palmetto Bay,0.0,0.0,2910.0,0.0,0.0
+FL,Miami-Dade County,Miami-Fort Lauderdale-West Palm Beach,West Miami,911.5,1027.5,0.0,0.0,0.0
+FL,Monroe County,Key West,Key Largo,0.0,2500.0,0.0,0.0,0.0
+FL,Nassau County,Jacksonville,Fernandina Beach,0.0,0.0,1750.0,0.0,0.0
+FL,Okaloosa County,Crestview-Fort Walton Beach-Destin,Crestview,0.0,0.0,1200.0,0.0,0.0
+FL,Okaloosa County,Crestview-Fort Walton Beach-Destin,Destin,1496.0,0.0,0.0,0.0,0.0
+FL,Okaloosa County,Crestview-Fort Walton Beach-Destin,Fort Walton Beach,0.0,532.25,736.25,0.0,0.0
+FL,Okaloosa County,Crestview-Fort Walton Beach-Destin,Niceville,0.0,0.0,1650.0,0.0,0.0
+FL,Orange County,Orlando-Kissimmee-Sanford,Apopka,0.0,465.8333333333333,535.8333333333334,632.5,0.0
+FL,Orange County,Orlando-Kissimmee-Sanford,Maitland,487.0,614.6666666666666,698.1666666666666,0.0,0.0
+FL,Orange County,Orlando-Kissimmee-Sanford,Ocoee,0.0,0.0,1687.5,0.0,0.0
+FL,Orange County,Orlando-Kissimmee-Sanford,Orlando,269.0,309.8,340.0,396.6,440.0
+FL,Orange County,Orlando-Kissimmee-Sanford,Pine Hills,0.0,0.0,1365.0,0.0,0.0
+FL,Orange County,Orlando-Kissimmee-Sanford,Windermere,0.0,545.6666666666666,645.0,945.8333333333334,0.0
+FL,Orange County,Orlando-Kissimmee-Sanford,Winter Garden,0.0,561.6666666666666,633.3333333333334,766.6666666666666,0.0
+FL,Orange County,Orlando-Kissimmee-Sanford,Winter Park,725.0,0.0,925.0,0.0,0.0
+FL,Osceola County,Orlando-Kissimmee-Sanford,Citrus Ridge,317.75,374.5,426.875,483.125,0.0
+FL,Osceola County,Orlando-Kissimmee-Sanford,Kissimmee,0.0,533.3333333333334,531.6666666666666,585.8333333333334,0.0
+FL,Osceola County,Orlando-Kissimmee-Sanford,Saint Cloud,0.0,0.0,804.5,902.5,0.0
+FL,Palm Beach County,Miami-Fort Lauderdale-West Palm Beach,Boca Raton,437.25,470.0,643.75,783.625,0.0
+FL,Palm Beach County,Miami-Fort Lauderdale-West Palm Beach,Boynton Beach,376.25,431.25,506.0,624.75,0.0
+FL,Palm Beach County,Miami-Fort Lauderdale-West Palm Beach,Century Village,475.0,550.0,0.0,0.0,0.0
+FL,Palm Beach County,Miami-Fort Lauderdale-West Palm Beach,Delray Beach,531.6666666666666,600.0,794.3333333333334,0.0,0.0
+FL,Palm Beach County,Miami-Fort Lauderdale-West Palm Beach,Golden Lakes,0.0,587.5,700.0,0.0,0.0
+FL,Palm Beach County,Miami-Fort Lauderdale-West Palm Beach,Greenacres,0.0,675.0,806.25,0.0,0.0
+FL,Palm Beach County,Miami-Fort Lauderdale-West Palm Beach,Highland Beach,0.0,3500.0,0.0,0.0,0.0
+FL,Palm Beach County,Miami-Fort Lauderdale-West Palm Beach,Jupiter,827.5,0.0,1316.0,0.0,0.0
+FL,Palm Beach County,Miami-Fort Lauderdale-West Palm Beach,Lake Worth,366.6666666666667,441.6666666666667,602.5,0.0,0.0
+FL,Palm Beach County,Miami-Fort Lauderdale-West Palm Beach,North Palm Beach,0.0,1645.0,0.0,0.0,0.0
+FL,Palm Beach County,Miami-Fort Lauderdale-West Palm Beach,Palm Beach Gardens,384.5,468.25,675.0,887.5,0.0
+FL,Palm Beach County,Miami-Fort Lauderdale-West Palm Beach,Palm Springs,0.0,1250.0,0.0,0.0,0.0
+FL,Palm Beach County,Miami-Fort Lauderdale-West Palm Beach,Riviera Beach,0.0,1250.0,800.0,0.0,0.0
+FL,Palm Beach County,Miami-Fort Lauderdale-West Palm Beach,Royal Palm Beach,0.0,750.0,974.5,0.0,0.0
+FL,Palm Beach County,Miami-Fort Lauderdale-West Palm Beach,Wellington,0.0,2022.5,0.0,0.0,0.0
+FL,Palm Beach County,Miami-Fort Lauderdale-West Palm Beach,West Palm Beach,325.0,399.75,487.5,587.5,0.0
+FL,Pasco County,Tampa-St. Petersburg-Clearwater,New Port Richey,276.6666666666667,329.3333333333333,408.3333333333333,0.0,0.0
+FL,Pasco County,Tampa-St. Petersburg-Clearwater,Wesley Chapel,402.5,447.0,501.0,0.0,0.0
+FL,Pinellas County,Tampa-St. Petersburg-Clearwater,Clearwater,416.6666666666667,461.6666666666667,556.0,0.0,0.0
+FL,Pinellas County,Tampa-St. Petersburg-Clearwater,Dunedin,0.0,1376.0,0.0,0.0,0.0
+FL,Pinellas County,Tampa-St. Petersburg-Clearwater,Largo,575.0,651.25,0.0,0.0,0.0
+FL,Pinellas County,Tampa-St. Petersburg-Clearwater,Oldsmar,0.0,1175.0,0.0,0.0,0.0
+FL,Pinellas County,Tampa-St. Petersburg-Clearwater,Palm Harbor,584.0,682.5,0.0,0.0,0.0
+FL,Pinellas County,Tampa-St. Petersburg-Clearwater,Pinellas Park,1395.0,0.0,0.0,0.0,0.0
+FL,Pinellas County,Tampa-St. Petersburg-Clearwater,Saint Petersburg,625.0,736.75,0.0,0.0,0.0
+FL,Polk County,Lakeland-Winter Haven,Davenport,0.0,0.0,725.0,900.0,0.0
+FL,Polk County,Lakeland-Winter Haven,Lakeland,348.0,414.1666666666667,466.6666666666667,0.0,0.0
+FL,Polk County,Lakeland-Winter Haven,Loughman,0.0,1415.0,0.0,0.0,0.0
+FL,Polk County,Lakeland-Winter Haven,Poinciana,0.0,0.0,675.0,765.0,0.0
+FL,Polk County,Lakeland-Winter Haven,Winter Haven,273.3333333333333,341.6666666666667,466.6666666666667,0.0,0.0
+FL,Saint Johns County,Jacksonville,Fruit Cove,0.0,1625.0,0.0,0.0,0.0
+FL,Saint Johns County,Jacksonville,Saint Augustine,0.0,521.6666666666666,565.0,665.0,0.0
+FL,Saint Lucie County,Port St. Lucie,Fort Pierce,0.0,600.0,700.0,0.0,0.0
+FL,Saint Lucie County,Port St. Lucie,Hutchinson Island South,0.0,3200.0,0.0,0.0,0.0
+FL,Saint Lucie County,Port St. Lucie,Port Saint Lucie,287.5,346.875,400.0,450.0,0.0
+FL,Santa Rosa County,Pensacola-Ferry Pass-Brent,Gulf Breeze,0.0,0.0,1600.0,0.0,0.0
+FL,Santa Rosa County,Pensacola-Ferry Pass-Brent,Milton,0.0,0.0,1200.0,0.0,0.0
+FL,Santa Rosa County,Pensacola-Ferry Pass-Brent,Navarre,0.0,0.0,1450.0,0.0,0.0
+FL,Sarasota County,North Port-Sarasota-Bradenton,Longboat Key,0.0,5000.0,0.0,0.0,0.0
+FL,Sarasota County,North Port-Sarasota-Bradenton,North Port,0.0,0.0,1485.0,0.0,0.0
+FL,Sarasota County,North Port-Sarasota-Bradenton,Sarasota,348.0,423.75,498.75,600.0,0.0
+FL,Sarasota County,North Port-Sarasota-Bradenton,Siesta Key,0.0,2300.0,2550.0,0.0,0.0
+FL,Sarasota County,North Port-Sarasota-Bradenton,Venice,0.0,0.0,2300.0,0.0,0.0
+FL,Seminole County,Orlando-Kissimmee-Sanford,Altamonte Springs,360.0,430.1666666666667,494.6666666666667,0.0,0.0
+FL,Seminole County,Orlando-Kissimmee-Sanford,Casselberry,395.3333333333333,459.1666666666667,565.0,0.0,0.0
+FL,Seminole County,Orlando-Kissimmee-Sanford,Lake Mary,294.5,351.375,431.875,534.375,0.0
+FL,Seminole County,Orlando-Kissimmee-Sanford,Longwood,402.1666666666667,464.0,530.0,0.0,0.0
+FL,Seminole County,Orlando-Kissimmee-Sanford,Oviedo,336.0,359.75,425.0,524.375,0.0
+FL,Seminole County,Orlando-Kissimmee-Sanford,Sanford,262.5,331.25,375.0,450.0,0.0
+FL,Seminole County,Orlando-Kissimmee-Sanford,Winter Springs,0.0,665.75,847.5,0.0,0.0
+FL,Volusia County,Deltona-Daytona Beach-Ormond Beach,Daytona Beach,0.0,0.0,1525.0,0.0,0.0
+FL,Volusia County,Deltona-Daytona Beach-Ormond Beach,Deland,0.0,520.75,675.0,0.0,0.0
+FL,Volusia County,Deltona-Daytona Beach-Ormond Beach,Deltona,0.0,538.75,675.0,0.0,0.0
+FL,Volusia County,Deltona-Daytona Beach-Ormond Beach,New Smyrna Beach,0.0,0.0,2272.5,0.0,0.0
+FL,Volusia County,Deltona-Daytona Beach-Ormond Beach,Ormond Beach,0.0,725.0,849.75,0.0,0.0
+FL,Volusia County,Deltona-Daytona Beach-Ormond Beach,Port Orange,438.3333333333333,514.6666666666666,583.3333333333334,0.0,0.0
+FL,Walton County,Crestview-Fort Walton Beach-Destin,Santa Rosa Beach,624.5,720.0,0.0,0.0,0.0
+GA,Bartow County,Atlanta-Sandy Springs-Roswell,Cartersville,0.0,460.0,612.5,0.0,0.0
+GA,Bibb County,Macon-Bibb County,Macon,250.0,275.8333333333333,277.5,0.0,0.0
+GA,Bryan County,Savannah,Richmond Hill,0.0,0.0,1397.5,0.0,0.0
+GA,Bulloch County,Statesboro,Statesboro,0.0,337.5,525.0,0.0,0.0
+GA,Camden County,St. Marys,Saint Marys,0.0,0.0,1262.5,0.0,0.0
+GA,Carroll County,Atlanta-Sandy Springs-Roswell,Carrollton,0.0,0.0,1022.5,0.0,0.0
+GA,Carroll County,Atlanta-Sandy Springs-Roswell,Villa Rica,0.0,0.0,1297.5,0.0,0.0
+GA,Chatham County,Savannah,Pooler,0.0,655.0,755.0,0.0,0.0
+GA,Chatham County,Savannah,Savannah,251.875,282.5,337.375,423.75,0.0
+GA,Cherokee County,Atlanta-Sandy Springs-Roswell,Canton,265.625,323.5,374.25,418.75,0.0
+GA,Cherokee County,Atlanta-Sandy Springs-Roswell,Woodstock,0.0,475.0,509.0,608.3333333333334,0.0
+GA,Clarke County,Athens-Clarke County,Athens,0.0,997.5,0.0,0.0,0.0
+GA,Clayton County,Atlanta-Sandy Springs-Roswell,Jonesboro,0.0,0.0,1157.0,0.0,0.0
+GA,Clayton County,Atlanta-Sandy Springs-Roswell,Riverdale,0.0,0.0,1149.0,0.0,0.0
+GA,Cobb County,Atlanta-Sandy Springs-Roswell,Acworth,0.0,0.0,747.5,847.5,0.0
+GA,Cobb County,Atlanta-Sandy Springs-Roswell,Austell,0.0,0.0,1375.0,0.0,0.0
+GA,Cobb County,Atlanta-Sandy Springs-Roswell,Kennesaw,289.75,357.375,387.25,456.25,0.0
+GA,Cobb County,Atlanta-Sandy Springs-Roswell,Mableton,0.0,0.0,1417.5,0.0,0.0
+GA,Cobb County,Atlanta-Sandy Springs-Roswell,Marietta,274.0,317.25,375.0,500.0,0.0
+GA,Cobb County,Atlanta-Sandy Springs-Roswell,Powder Springs,0.0,0.0,1400.0,0.0,0.0
+GA,Cobb County,Atlanta-Sandy Springs-Roswell,Smyrna,292.5,327.875,390.375,487.5,0.0
+GA,Cobb County,Atlanta-Sandy Springs-Roswell,Vinings,635.0,747.5,0.0,0.0,0.0
+GA,Columbia County,Augusta-Richmond County,Evans,0.0,603.5,0.0,850.0,0.0
+GA,Columbia County,Augusta-Richmond County,Grovetown,0.0,350.0,425.0,466.6666666666667,0.0
+GA,Columbia County,Augusta-Richmond County,Martinez,0.0,0.0,1250.0,0.0,0.0
+GA,Coweta County,Atlanta-Sandy Springs-Roswell,Newnan,376.6666666666667,480.0,548.3333333333334,0.0,0.0
+GA,Dekalb County,Atlanta-Sandy Springs-Roswell,Belvedere Park,0.0,0.0,1395.0,0.0,0.0
+GA,Dekalb County,Atlanta-Sandy Springs-Roswell,Brookhaven,461.6666666666667,576.0,710.0,0.0,0.0
+GA,Dekalb County,Atlanta-Sandy Springs-Roswell,Candler-Mcafee,0.0,0.0,1395.0,0.0,0.0
+GA,Dekalb County,Atlanta-Sandy Springs-Roswell,Chamblee,0.0,2337.0,0.0,0.0,0.0
+GA,Dekalb County,Atlanta-Sandy Springs-Roswell,Decatur,527.3333333333334,668.6666666666666,733.3333333333334,0.0,0.0
+GA,Dekalb County,Atlanta-Sandy Springs-Roswell,Druid Hills,835.25,883.0,0.0,0.0,0.0
+GA,Dekalb County,Atlanta-Sandy Springs-Roswell,Dunwoody,429.6666666666667,518.0,621.3333333333334,0.0,0.0
+GA,Dekalb County,Atlanta-Sandy Springs-Roswell,Lithonia,245.0,285.625,323.75,361.75,0.0
+GA,Dekalb County,Atlanta-Sandy Springs-Roswell,North Druid Hills,0.0,865.0,1050.0,0.0,0.0
+GA,Dekalb County,Atlanta-Sandy Springs-Roswell,Stone Mountain,216.25,249.0,325.0,355.5,0.0
+GA,Dougherty County,Albany,Albany,0.0,262.5,425.0,0.0,0.0
+GA,Douglas County,Atlanta-Sandy Springs-Roswell,Douglasville,0.0,0.0,674.75,782.5,0.0
+GA,Douglas County,Atlanta-Sandy Springs-Roswell,Lithia Springs,0.0,589.0,630.0,0.0,0.0
+GA,Fayette County,Atlanta-Sandy Springs-Roswell,Peachtree City,0.0,1279.0,0.0,0.0,0.0
+GA,Forsyth County,Atlanta-Sandy Springs-Roswell,Cumming,0.0,0.0,557.5,625.0,766.6666666666666
+GA,Fulton County,Atlanta-Sandy Springs-Roswell,Alpharetta,344.5,387.5,450.0,625.0,0.0
+GA,Fulton County,Atlanta-Sandy Springs-Roswell,Atlanta,395.0,518.75,563.75,499.75,0.0
+GA,Fulton County,Atlanta-Sandy Springs-Roswell,East Point,0.0,481.5,602.5,0.0,0.0
+GA,Fulton County,Atlanta-Sandy Springs-Roswell,Fairburn,0.0,0.0,1350.0,0.0,0.0
+GA,Fulton County,Atlanta-Sandy Springs-Roswell,Johns Creek,337.0,405.125,450.625,548.75,0.0
+GA,Fulton County,Atlanta-Sandy Springs-Roswell,Milton,0.0,702.25,969.5,0.0,0.0
+GA,Fulton County,Atlanta-Sandy Springs-Roswell,Roswell,312.25,372.0,448.75,550.0,0.0
+GA,Fulton County,Atlanta-Sandy Springs-Roswell,Sandy Springs,342.25,392.0,472.5,831.25,0.0
+GA,Fulton County,Atlanta-Sandy Springs-Roswell,Union City,0.0,0.0,1200.0,0.0,0.0
+GA,Gwinnett County,Atlanta-Sandy Springs-Roswell,Buford,0.0,0.0,795.0,900.0,0.0
+GA,Gwinnett County,Atlanta-Sandy Springs-Roswell,Dacula,0.0,0.0,762.5,879.5,0.0
+GA,Gwinnett County,Atlanta-Sandy Springs-Roswell,Duluth,438.0,482.0,533.3333333333334,0.0,0.0
+GA,Gwinnett County,Atlanta-Sandy Springs-Roswell,Lawrenceville,243.7,301.0,300.0,336.0,400.0
+GA,Gwinnett County,Atlanta-Sandy Springs-Roswell,Lilburn,0.0,0.0,1500.0,0.0,0.0
+GA,Gwinnett County,Atlanta-Sandy Springs-Roswell,Loganville,0.0,0.0,759.5,847.5,0.0
+GA,Gwinnett County,Atlanta-Sandy Springs-Roswell,Norcross,333.3333333333333,398.3333333333333,479.1666666666667,0.0,0.0
+GA,Gwinnett County,Atlanta-Sandy Springs-Roswell,Peachtree Corners,0.0,582.0,749.5,0.0,0.0
+GA,Gwinnett County,Atlanta-Sandy Springs-Roswell,Snellville,0.0,0.0,699.75,812.5,0.0
+GA,Gwinnett County,Atlanta-Sandy Springs-Roswell,Sugar Hill,0.0,0.0,1600.0,0.0,0.0
+GA,Gwinnett County,Atlanta-Sandy Springs-Roswell,Suwanee,328.0,393.75,433.75,485.125,0.0
+GA,Hall County,Gainesville,Gainesville,347.6666666666667,398.3333333333333,466.6666666666667,0.0,0.0
+GA,Henry County,Atlanta-Sandy Springs-Roswell,Hampton,0.0,0.0,1295.0,0.0,0.0
+GA,Henry County,Atlanta-Sandy Springs-Roswell,McDonough,0.0,400.0,465.0,538.3333333333334,0.0
+GA,Henry County,Atlanta-Sandy Springs-Roswell,Stockbridge,338.3333333333333,398.8333333333333,433.3333333333333,0.0,0.0
+GA,Houston County,Warner Robins,Warner Robins,0.0,0.0,975.0,0.0,0.0
+GA,Liberty County,Hinesville,Hinesville,0.0,375.0,500.0,0.0,0.0
+GA,Muscogee County,Columbus,Columbus,187.5,203.75,218.75,293.125,0.0
+GA,Paulding County,Atlanta-Sandy Springs-Roswell,Dallas,0.0,0.0,697.5,775.0,0.0
+GA,Paulding County,Atlanta-Sandy Springs-Roswell,Hiram,0.0,0.0,1470.0,0.0,0.0
+GA,Richmond County,Augusta-Richmond County,Augusta,0.0,336.6666666666667,350.0,400.0,0.0
+GA,Rockdale County,Atlanta-Sandy Springs-Roswell,Conyers,0.0,321.1666666666667,416.6666666666667,540.8333333333334,0.0
+GA,Spalding County,Atlanta-Sandy Springs-Roswell,Griffin,0.0,675.0,0.0,0.0,0.0
+HI,Honolulu County,Urban Honolulu,Aiea,0.0,1875.0,0.0,0.0,0.0
+HI,Honolulu County,Urban Honolulu,Ewa Beach,0.0,650.0,866.6666666666666,965.8333333333334,0.0
+HI,Honolulu County,Urban Honolulu,Honolulu,330.0,440.0,550.0,590.0,500.0
+HI,Honolulu County,Urban Honolulu,Kailua,733.3333333333334,795.0,1165.8333333333333,0.0,0.0
+HI,Honolulu County,Urban Honolulu,Kaneohe,0.0,1075.0,1375.0,0.0,0.0
+HI,Honolulu County,Urban Honolulu,Kapolei,0.0,1238.0,1410.5,0.0,0.0
+HI,Honolulu County,Urban Honolulu,Mililani,0.0,940.0,1350.0,0.0,0.0
+HI,Honolulu County,Urban Honolulu,Wahiawa,0.0,1612.5,0.0,0.0,0.0
+HI,Honolulu County,Urban Honolulu,Waipahu,0.0,900.0,1269.75,0.0,0.0
+IA,Black Hawk County,Waterloo-Cedar Falls,Cedar Falls,0.0,451.25,600.0,0.0,0.0
+IA,Black Hawk County,Waterloo-Cedar Falls,Waterloo,250.0,337.5,0.0,0.0,0.0
+IA,Dubuque County,Dubuque,Dubuque,0.0,387.5,487.5,0.0,0.0
+IA,Johnson County,Iowa City,Coralville,387.5,417.5,0.0,0.0,0.0
+IA,Johnson County,Iowa City,Iowa City,250.0,324.1666666666667,483.3333333333333,0.0,0.0
+IA,Johnson County,Iowa City,North Liberty,0.0,455.0,697.5,0.0,0.0
+IA,Linn County,Cedar Rapids,Cedar Rapids,0.0,385.0,550.0,0.0,0.0
+IA,Polk County,Des Moines-West Des Moines,Ankeny,0.0,525.0,632.0,0.0,0.0
+IA,Polk County,Des Moines-West Des Moines,Des Moines,222.5,225.0,298.75,264.25,0.0
+IA,Polk County,Des Moines-West Des Moines,Urbandale,0.0,840.0,0.0,0.0,0.0
+IA,Polk County,Des Moines-West Des Moines,West Des Moines,321.6666666666667,389.1666666666667,491.3333333333333,0.0,0.0
+IA,Pottawattamie County,Omaha-Council Bluffs,Council Bluffs,0.0,820.0,0.0,0.0,0.0
+IA,Scott County,Davenport-Moline-Rock Island,Davenport,216.66666666666666,265.0,300.1666666666667,0.0,0.0
+IA,Story County,Ames,Ames,235.0,283.3333333333333,384.1666666666667,0.0,0.0
+ID,Ada County,Boise City,Boise,276.75,289.25,368.75,423.75,0.0
+ID,Ada County,Boise City,Meridian,0.0,348.3333333333333,531.6666666666666,624.1666666666666,0.0
+ID,Bannock County,Pocatello,Pocatello,173.33333333333334,228.33333333333334,267.5,0.0,0.0
+ID,Bonneville County,Idaho Falls,Idaho Falls,0.0,347.5,547.5,0.0,0.0
+ID,Canyon County,Boise City,Nampa,0.0,497.5,647.5,0.0,0.0
+ID,Kootenai County,Coeur d'Alene,Coeur d'Alene,0.0,678.75,755.0,0.0,0.0
+ID,Kootenai County,Coeur d'Alene,Post Falls,0.0,0.0,1400.0,0.0,0.0
+IL,Champaign County,Champaign-Urbana,Champaign,345.0,450.0,0.0,0.0,0.0
+IL,Champaign County,Champaign-Urbana,Urbana,233.33333333333334,291.6666666666667,408.3333333333333,0.0,0.0
+IL,Cook County,Chicago-Naperville-Elgin,Arlington Heights,377.6666666666667,510.0,683.1666666666666,0.0,0.0
+IL,Cook County,Chicago-Naperville-Elgin,Berwyn,449.25,612.5,0.0,0.0,0.0
+IL,Cook County,Chicago-Naperville-Elgin,Chicago,387.5,425.0,456.25,587.5,0.0
+IL,Cook County,Chicago-Naperville-Elgin,Country Club Hills,0.0,0.0,1900.0,0.0,0.0
+IL,Cook County,Chicago-Naperville-Elgin,Des Plaines,0.0,1027.5,925.0,0.0,0.0
+IL,Cook County,Chicago-Naperville-Elgin,Dolton,0.0,0.0,1450.0,0.0,0.0
+IL,Cook County,Chicago-Naperville-Elgin,Evanston,416.6666666666667,531.6666666666666,665.0,0.0,0.0
+IL,Cook County,Chicago-Naperville-Elgin,Forest Park,507.5,725.0,0.0,0.0,0.0
+IL,Cook County,Chicago-Naperville-Elgin,Glenview,0.0,1922.5,0.0,0.0,0.0
+IL,Cook County,Chicago-Naperville-Elgin,Hazel Crest,0.0,0.0,1750.0,0.0,0.0
+IL,Cook County,Chicago-Naperville-Elgin,Hoffman Estates,421.6666666666667,466.0,600.0,0.0,0.0
+IL,Cook County,Chicago-Naperville-Elgin,Mount Prospect,575.0,728.0,0.0,0.0,0.0
+IL,Cook County,Chicago-Naperville-Elgin,Northbrook,0.0,2399.0,0.0,0.0,0.0
+IL,Cook County,Chicago-Naperville-Elgin,Oak Lawn,0.0,1235.0,0.0,0.0,0.0
+IL,Cook County,Chicago-Naperville-Elgin,Oak Park,0.0,1100.0,1100.0,0.0,0.0
+IL,Cook County,Chicago-Naperville-Elgin,Palatine,400.0,491.6666666666667,633.3333333333334,0.0,0.0
+IL,Cook County,Chicago-Naperville-Elgin,Park Forest,0.0,1130.0,0.0,0.0,0.0
+IL,Cook County,Chicago-Naperville-Elgin,Park Ridge,0.0,1575.0,0.0,0.0,0.0
+IL,Cook County,Chicago-Naperville-Elgin,Schaumburg,422.6666666666667,510.8333333333333,608.3333333333334,0.0,0.0
+IL,Cook County,Chicago-Naperville-Elgin,Skokie,0.0,675.0,975.0,0.0,0.0
+IL,Cook County,Chicago-Naperville-Elgin,Streamwood,0.0,0.0,1700.0,0.0,0.0
+IL,DuPage County,Chicago-Naperville-Elgin,Carol Stream,537.75,640.5,0.0,0.0,0.0
+IL,DuPage County,Chicago-Naperville-Elgin,Downers Grove,727.5,850.0,0.0,0.0,0.0
+IL,DuPage County,Chicago-Naperville-Elgin,Glendale Heights,0.0,1300.5,0.0,0.0,0.0
+IL,DuPage County,Chicago-Naperville-Elgin,Lisle,625.0,800.0,0.0,0.0,0.0
+IL,DuPage County,Chicago-Naperville-Elgin,Lombard,1935.0,0.0,0.0,0.0,0.0
+IL,DuPage County,Chicago-Naperville-Elgin,Naperville,445.0,540.8333333333334,687.5,0.0,0.0
+IL,DuPage County,Chicago-Naperville-Elgin,Westmont,561.5,643.5,0.0,0.0,0.0
+IL,DuPage County,Chicago-Naperville-Elgin,Wheaton,640.0,771.0,0.0,0.0,0.0
+IL,DuPage County,Chicago-Naperville-Elgin,Willowbrook,647.5,778.5,0.0,0.0,0.0
+IL,DuPage County,Chicago-Naperville-Elgin,Woodridge,0.0,1355.0,0.0,0.0,0.0
+IL,Jackson County,Carbondale-Marion,Carbondale,275.0,325.0,0.0,0.0,0.0
+IL,Kane County,Chicago-Naperville-Elgin,Aurora,406.0,483.3333333333333,574.6666666666666,0.0,0.0
+IL,Kane County,Chicago-Naperville-Elgin,Elgin,0.0,0.0,1750.0,0.0,0.0
+IL,Kane County,Chicago-Naperville-Elgin,Geneva,0.0,1541.0,0.0,0.0,0.0
+IL,Kane County,Chicago-Naperville-Elgin,Saint Charles,449.6666666666667,553.3333333333334,666.6666666666666,0.0,0.0
+IL,Kane County,Chicago-Naperville-Elgin,West Dundee,0.0,1577.0,0.0,0.0,0.0
+IL,Lake County,Chicago-Naperville-Elgin,Buffalo Grove,0.0,1685.0,0.0,0.0,0.0
+IL,Lake County,Chicago-Naperville-Elgin,Gurnee,580.0,708.5,0.0,0.0,0.0
+IL,Lake County,Chicago-Naperville-Elgin,Vernon Hills,830.0,988.75,0.0,0.0,0.0
+IL,Lake County,Chicago-Naperville-Elgin,Waukegan,825.0,0.0,0.0,0.0,0.0
+IL,Madison County,St. Louis,Collinsville,0.0,750.0,0.0,0.0,0.0
+IL,McDonough County,Macomb,Macomb,247.5,331.25,0.0,0.0,0.0
+IL,McLean County,Bloomington,Bloomington,300.0,397.5,0.0,0.0,0.0
+IL,McLean County,Bloomington,Normal,0.0,166.66666666666666,171.66666666666666,160.0,0.0
+IL,Peoria County,Peoria,Peoria,325.0,362.5,0.0,0.0,0.0
+IL,Rock Island County,Davenport-Moline-Rock Island,Moline,0.0,750.0,0.0,0.0,0.0
+IL,Saint Clair County,St. Louis,Belleville,297.5,362.5,0.0,0.0,0.0
+IL,Saint Clair County,St. Louis,O Fallon,0.0,1095.0,0.0,0.0,0.0
+IL,Saint Clair County,St. Louis,Shiloh,0.0,725.0,0.0,0.0,0.0
+IL,Sangamon County,Springfield,Springfield,191.66666666666666,228.33333333333334,314.6666666666667,0.0,0.0
+IL,Will County,Chicago-Naperville-Elgin,Joliet,0.0,999.0,0.0,0.0,0.0
+IL,Will County,Chicago-Naperville-Elgin,Romeoville,0.0,1523.5,0.0,0.0,0.0
+IL,Winnebago County,Rockford,Rockford,191.66666666666666,233.33333333333334,298.3333333333333,0.0,0.0
+IN,Allen County,Fort Wayne,Fort Wayne,0.0,0.0,845.0,0.0,0.0
+IN,Bartholomew County,Columbus,Columbus,0.0,449.5,540.5,0.0,0.0
+IN,Boone County,Indianapolis-Carmel-Anderson,Zionsville,0.0,1132.0,0.0,0.0,0.0
+IN,Delaware County,Muncie,Muncie,262.5,325.0,0.0,0.0,0.0
+IN,Elkhart County,Elkhart-Goshen,Goshen,0.0,0.0,899.0,0.0,0.0
+IN,Hamilton County,Indianapolis-Carmel-Anderson,Carmel,320.8333333333333,396.5,573.0,0.0,0.0
+IN,Hamilton County,Indianapolis-Carmel-Anderson,Fishers,316.6666666666667,389.1666666666667,515.0,0.0,0.0
+IN,Hamilton County,Indianapolis-Carmel-Anderson,Noblesville,287.6666666666667,396.6666666666667,432.3333333333333,0.0,0.0
+IN,Hamilton County,Indianapolis-Carmel-Anderson,Westfield,0.0,587.5,727.0,0.0,0.0
+IN,Hendricks County,Indianapolis-Carmel-Anderson,Brownsburg,1069.0,0.0,0.0,0.0,0.0
+IN,Hendricks County,Indianapolis-Carmel-Anderson,Plainfield,0.0,1309.0,0.0,0.0,0.0
+IN,Howard County,Kokomo,Kokomo,0.0,650.0,0.0,0.0,0.0
+IN,Johnson County,Indianapolis-Carmel-Anderson,Greenwood,0.0,504.5,628.75,0.0,0.0
+IN,Lake County,Chicago-Naperville-Elgin,Gary,0.0,397.5,425.0,0.0,0.0
+IN,Lake County,Chicago-Naperville-Elgin,Hobart,0.0,1019.0,0.0,0.0,0.0
+IN,Madison County,Indianapolis-Carmel-Anderson,Anderson,0.0,675.0,0.0,0.0,0.0
+IN,Marion County,Indianapolis-Carmel-Anderson,Indianapolis,208.75,221.25,271.5,321.25,0.0
+IN,Monroe County,Bloomington,Bloomington,0.0,400.0,533.3333333333334,912.5,0.0
+IN,Porter County,Chicago-Naperville-Elgin,Valparaiso,0.0,1043.0,0.0,0.0,0.0
+IN,Saint Joseph County,South Bend-Mishawaka,Granger,0.0,1481.0,0.0,0.0,0.0
+IN,Saint Joseph County,South Bend-Mishawaka,South Bend,0.0,0.0,900.0,0.0,0.0
+IN,Tippecanoe County,Lafayette-West Lafayette,Lafayette,342.5,400.0,0.0,0.0,0.0
+IN,Tippecanoe County,Lafayette-West Lafayette,West Lafayette,825.0,0.0,0.0,0.0,0.0
+IN,Vanderburgh County,Evansville,Evansville,183.33333333333334,233.33333333333334,270.8333333333333,0.0,0.0
+IN,Vigo County,Terre Haute,Terre Haute,188.33333333333334,233.33333333333334,320.0,0.0,0.0
+KS,Crawford County,Pittsburg,Pittsburg,0.0,557.5,0.0,0.0,0.0
+KS,Douglas County,Lawrence,Lawrence,215.0,244.0,380.0,0.0,0.0
+KS,Geary County,Junction City,Junction City,254.33333333333334,233.33333333333334,325.0,0.0,0.0
+KS,Johnson County,Kansas City,Lenexa,350.0,396.6666666666667,499.3333333333333,0.0,0.0
+KS,Johnson County,Kansas City,Olathe,0.0,316.6666666666667,466.6666666666667,600.0,0.0
+KS,Johnson County,Kansas City,Overland Park,286.25,398.75,400.0,462.5,0.0
+KS,Johnson County,Kansas City,Prairie Village,0.0,0.0,1637.5,0.0,0.0
+KS,Johnson County,Kansas City,Shawnee,0.0,985.0,0.0,0.0,0.0
+KS,Leavenworth County,Kansas City,Leavenworth,0.0,850.0,0.0,0.0,0.0
+KS,Reno County,Hutchinson,Hutchinson,0.0,625.0,0.0,0.0,0.0
+KS,Riley County,Manhattan,Manhattan,150.0,187.5,262.5,350.0,0.0
+KS,Sedgwick County,Wichita,Wichita,129.8,150.0,191.5,240.0,235.0
+KS,Shawnee County,Topeka,Topeka,181.33333333333334,231.66666666666666,258.3333333333333,0.0,0.0
+KS,Wyandotte County,Kansas City,Kansas City,231.66666666666666,291.6666666666667,350.0,0.0,0.0
+KY,Boone County,Cincinnati,Florence,0.0,502.5,652.0,0.0,0.0
+KY,Fayette County,Lexington-Fayette,Lexington,191.0,243.75,319.25,437.5,0.0
+KY,Hardin County,Elizabethtown-Fort Knox,Radcliff,0.0,575.0,0.0,0.0,0.0
+KY,Jefferson County,Louisville/Jefferson County,Louisville,233.75,256.25,312.5,387.5,0.0
+KY,Madison County,Richmond-Berea,Richmond,0.0,670.0,0.0,0.0,0.0
+KY,Scott County,Lexington-Fayette,Georgetown,0.0,436.0,600.0,0.0,0.0
+KY,Warren County,Bowling Green,Bowling Green,233.0,265.0,383.0,0.0,0.0
+LA,Bossier Parish,Shreveport-Bossier City,Bossier City,289.6666666666667,333.0,398.3333333333333,0.0,0.0
+LA,Caddo Parish,Shreveport-Bossier City,Shreveport,183.33333333333334,216.66666666666666,300.0,0.0,0.0
+LA,Calcasieu Parish,Lake Charles,Lake Charles,283.3333333333333,333.3333333333333,399.6666666666667,0.0,0.0
+LA,East Baton Rouge Parish,Baton Rouge,Baton Rouge,326.6666666666667,316.6666666666667,400.0,0.0,0.0
+LA,Jefferson Parish,New Orleans-Metairie,Metairie,0.0,525.0,773.75,0.0,0.0
+LA,Lafayette Parish,Lafayette,Lafayette,0.0,0.0,1197.0,0.0,0.0
+LA,Lafourche Parish,Houma-Thibodaux,Thibodaux,0.0,985.0,0.0,0.0,0.0
+LA,Lincoln Parish,Ruston,Ruston,0.0,750.0,0.0,0.0,0.0
+LA,Livingston Parish,Baton Rouge,Denham Springs,0.0,0.0,1270.0,0.0,0.0
+LA,Orleans Parish,New Orleans-Metairie,New Orleans,291.0,320.0,330.0,300.0,294.5
+LA,Ouachita Parish,Monroe,Monroe,0.0,650.0,0.0,0.0,0.0
+LA,Ouachita Parish,Monroe,West Monroe,0.0,675.0,0.0,0.0,0.0
+LA,Saint Tammany Parish,New Orleans-Metairie,Covington,489.5,572.5,0.0,0.0,0.0
+LA,Saint Tammany Parish,New Orleans-Metairie,Mandeville,0.0,1100.0,0.0,0.0,0.0
+MA,Bristol County,Providence-Warwick,Attleboro,0.0,1457.5,0.0,0.0,0.0
+MA,Bristol County,Providence-Warwick,Fall River,0.0,556.25,650.0,0.0,0.0
+MA,Bristol County,Providence-Warwick,Mansfield,0.0,1805.0,0.0,0.0,0.0
+MA,Essex County,Boston-Cambridge-Newton,Andover,921.5,1062.5,0.0,0.0,0.0
+MA,Essex County,Boston-Cambridge-Newton,Beverly,975.0,1075.0,0.0,0.0,0.0
+MA,Essex County,Boston-Cambridge-Newton,Danvers,0.0,2105.0,0.0,0.0,0.0
+MA,Essex County,Boston-Cambridge-Newton,Haverhill,752.5,837.5,0.0,0.0,0.0
+MA,Essex County,Boston-Cambridge-Newton,Lawrence,821.0,919.0,0.0,0.0,0.0
+MA,Essex County,Boston-Cambridge-Newton,Lynn,800.0,900.0,0.0,0.0,0.0
+MA,Essex County,Boston-Cambridge-Newton,Methuen,0.0,1874.5,0.0,0.0,0.0
+MA,Essex County,Boston-Cambridge-Newton,North Andover,0.0,1980.5,0.0,0.0,0.0
+MA,Essex County,Boston-Cambridge-Newton,Peabody,915.0,1121.5,0.0,0.0,0.0
+MA,Essex County,Boston-Cambridge-Newton,Salem,822.5,1100.0,0.0,0.0,0.0
+MA,Essex County,Boston-Cambridge-Newton,Saugus,0.0,2264.0,0.0,0.0,0.0
+MA,Hampden County,Springfield,Chicopee,0.0,1100.0,0.0,0.0,0.0
+MA,Hampden County,Springfield,Springfield,0.0,550.0,650.0,0.0,0.0
+MA,Hampshire County,Springfield,Northampton,0.0,1400.0,0.0,0.0,0.0
+MA,Middlesex County,Boston-Cambridge-Newton,Acton,0.0,1795.0,0.0,0.0,0.0
+MA,Middlesex County,Boston-Cambridge-Newton,Arlington,612.5,733.3333333333334,950.0,0.0,0.0
+MA,Middlesex County,Boston-Cambridge-Newton,Ashland,0.0,2275.0,0.0,0.0,0.0
+MA,Middlesex County,Boston-Cambridge-Newton,Belmont,633.3333333333334,731.6666666666666,866.6666666666666,0.0,0.0
+MA,Middlesex County,Boston-Cambridge-Newton,Billerica,0.0,2500.0,0.0,0.0,0.0
+MA,Middlesex County,Boston-Cambridge-Newton,Burlington,1175.0,1522.5,0.0,0.0,0.0
+MA,Middlesex County,Boston-Cambridge-Newton,Cambridge,650.0,784.0,875.0,1000.0,0.0
+MA,Middlesex County,Boston-Cambridge-Newton,Chelmsford,960.0,1063.75,0.0,0.0,0.0
+MA,Middlesex County,Boston-Cambridge-Newton,Concord,0.0,2772.0,0.0,0.0,0.0
+MA,Middlesex County,Boston-Cambridge-Newton,Everett,725.0,766.6666666666666,833.3333333333334,0.0,0.0
+MA,Middlesex County,Boston-Cambridge-Newton,Framingham,891.5,1036.25,0.0,0.0,0.0
+MA,Middlesex County,Boston-Cambridge-Newton,Lexington,1068.75,1237.5,0.0,0.0,0.0
+MA,Middlesex County,Boston-Cambridge-Newton,Lowell,350.0,375.0,438.75,500.0,0.0
+MA,Middlesex County,Boston-Cambridge-Newton,Malden,726.6666666666666,839.8333333333334,800.0,0.0,0.0
+MA,Middlesex County,Boston-Cambridge-Newton,Marlborough,892.5,1094.5,0.0,0.0,0.0
+MA,Middlesex County,Boston-Cambridge-Newton,Medford,462.5,550.0,675.0,750.0,0.0
+MA,Middlesex County,Boston-Cambridge-Newton,Melrose,1077.5,1292.5,0.0,0.0,0.0
+MA,Middlesex County,Boston-Cambridge-Newton,Newton,390.0,460.0,600.0,760.0,1000.0
+MA,Middlesex County,Boston-Cambridge-Newton,Somerville,420.0,500.0,560.0,700.0,780.0
+MA,Middlesex County,Boston-Cambridge-Newton,Stoneham,0.0,2300.0,0.0,0.0,0.0
+MA,Middlesex County,Boston-Cambridge-Newton,Tewksbury,928.25,1001.0,0.0,0.0,0.0
+MA,Middlesex County,Boston-Cambridge-Newton,Wakefield,0.0,2275.0,0.0,0.0,0.0
+MA,Middlesex County,Boston-Cambridge-Newton,Waltham,665.0,816.6666666666666,934.1666666666666,0.0,0.0
+MA,Middlesex County,Boston-Cambridge-Newton,Watertown,500.0,550.0,700.0,818.75,0.0
+MA,Middlesex County,Boston-Cambridge-Newton,Woburn,0.0,2250.0,0.0,0.0,0.0
+MA,Norfolk County,Boston-Cambridge-Newton,Braintree,1087.5,1137.5,0.0,0.0,0.0
+MA,Norfolk County,Boston-Cambridge-Newton,Brookline,600.25,700.0,937.5,1137.5,0.0
+MA,Norfolk County,Boston-Cambridge-Newton,Canton,0.0,1975.0,0.0,0.0,0.0
+MA,Norfolk County,Boston-Cambridge-Newton,Dedham,1725.0,0.0,0.0,0.0,0.0
+MA,Norfolk County,Boston-Cambridge-Newton,Foxborough,978.5,1177.5,0.0,0.0,0.0
+MA,Norfolk County,Boston-Cambridge-Newton,Franklin,1699.0,0.0,0.0,0.0,0.0
+MA,Norfolk County,Boston-Cambridge-Newton,Needham,2730.0,0.0,0.0,0.0,0.0
+MA,Norfolk County,Boston-Cambridge-Newton,Norwood,621.3333333333334,696.3333333333334,824.1666666666666,0.0,0.0
+MA,Norfolk County,Boston-Cambridge-Newton,Quincy,663.1666666666666,733.3333333333334,798.3333333333334,0.0,0.0
+MA,Norfolk County,Boston-Cambridge-Newton,Randolph,0.0,1958.0,0.0,0.0,0.0
+MA,Norfolk County,Boston-Cambridge-Newton,Stoughton,850.75,987.5,0.0,0.0,0.0
+MA,Norfolk County,Boston-Cambridge-Newton,Weymouth,870.75,1039.0,0.0,0.0,0.0
+MA,Plymouth County,Boston-Cambridge-Newton,Abington,0.0,2035.0,0.0,0.0,0.0
+MA,Plymouth County,Boston-Cambridge-Newton,Bridgewater,0.0,1800.0,0.0,0.0,0.0
+MA,Plymouth County,Boston-Cambridge-Newton,Brockton,453.3333333333333,530.0,616.6666666666666,0.0,0.0
+MA,Plymouth County,Boston-Cambridge-Newton,Plymouth,0.0,2329.0,0.0,0.0,0.0
+MA,Suffolk County,Boston-Cambridge-Newton,Boston,475.0,560.0,620.0,780.0,1000.0
+MA,Suffolk County,Boston-Cambridge-Newton,Chelsea,666.6666666666666,734.6666666666666,800.0,0.0,0.0
+MA,Suffolk County,Boston-Cambridge-Newton,Revere,0.0,1351.25,1200.0,0.0,0.0
+MA,Suffolk County,Boston-Cambridge-Newton,Winthrop,0.0,2000.0,0.0,0.0,0.0
+MA,Worcester County,Worcester,Fitchburg,0.0,1200.0,0.0,0.0,0.0
+MA,Worcester County,Worcester,Leominster,0.0,1295.0,0.0,0.0,0.0
+MA,Worcester County,Worcester,Shrewsbury,776.25,881.0,0.0,0.0,0.0
+MA,Worcester County,Worcester,Westborough,905.0,1020.0,0.0,0.0,0.0
+MA,Worcester County,Worcester,Worcester,300.0,325.0,373.75,400.0,0.0
+MD,Anne Arundel County,Baltimore-Columbia-Towson,Annapolis,526.6666666666666,588.3333333333334,699.1666666666666,0.0,0.0
+MD,Anne Arundel County,Baltimore-Columbia-Towson,Glen Burnie,388.3333333333333,439.0,532.5,0.0,0.0
+MD,Anne Arundel County,Baltimore-Columbia-Towson,Hanover,872.25,1020.5,0.0,0.0,0.0
+MD,Anne Arundel County,Baltimore-Columbia-Towson,Odenton,829.5,920.0,0.0,0.0,0.0
+MD,Anne Arundel County,Baltimore-Columbia-Towson,Pasadena,0.0,1732.5,0.0,0.0,0.0
+MD,Anne Arundel County,Baltimore-Columbia-Towson,Severn,0.0,0.0,1409.0,0.0,0.0
+MD,Baltimore City,Baltimore-Columbia-Towson,Baltimore,345.25,312.5,337.5,375.0,0.0
+MD,Baltimore County,Baltimore-Columbia-Towson,Catonsville,0.0,1384.5,0.0,0.0,0.0
+MD,Baltimore County,Baltimore-Columbia-Towson,Dundalk,425.0,508.0,0.0,0.0,0.0
+MD,Baltimore County,Baltimore-Columbia-Towson,Essex,0.0,0.0,1402.0,0.0,0.0
+MD,Baltimore County,Baltimore-Columbia-Towson,Lochearn,492.5,587.0,0.0,0.0,0.0
+MD,Baltimore County,Baltimore-Columbia-Towson,Nottingham,0.0,1320.0,0.0,0.0,0.0
+MD,Baltimore County,Baltimore-Columbia-Towson,Owings Mills,526.3333333333334,543.3333333333334,641.6666666666666,0.0,0.0
+MD,Baltimore County,Baltimore-Columbia-Towson,Parkville,492.5,587.5,0.0,0.0,0.0
+MD,Baltimore County,Baltimore-Columbia-Towson,Pikesville,0.0,1280.0,0.0,0.0,0.0
+MD,Baltimore County,Baltimore-Columbia-Towson,Randallstown,550.5,646.0,0.0,0.0,0.0
+MD,Baltimore County,Baltimore-Columbia-Towson,Reisterstown,341.6666666666667,376.6666666666667,508.3333333333333,0.0,0.0
+MD,Baltimore County,Baltimore-Columbia-Towson,Rossville,0.0,1226.0,0.0,0.0,0.0
+MD,Baltimore County,Baltimore-Columbia-Towson,Towson,708.0,794.5,0.0,0.0,0.0
+MD,Baltimore County,Baltimore-Columbia-Towson,Windsor Mill,334.6666666666667,400.0,472.6666666666667,0.0,0.0
+MD,Carroll County,Baltimore-Columbia-Towson,Westminster,0.0,1222.5,0.0,0.0,0.0
+MD,Charles County,Washington-Arlington-Alexandria,Waldorf,0.0,1450.0,0.0,0.0,0.0
+MD,Frederick County,Washington-Arlington-Alexandria,Frederick,420.6666666666667,440.6666666666667,567.8333333333334,0.0,0.0
+MD,Frederick County,Washington-Arlington-Alexandria,Ijamsville,0.0,1724.0,0.0,0.0,0.0
+MD,Harford County,Baltimore-Columbia-Towson,Bel Air,571.25,612.0,0.0,0.0,0.0
+MD,Harford County,Baltimore-Columbia-Towson,Edgewood,0.0,1125.0,0.0,0.0,0.0
+MD,Howard County,Baltimore-Columbia-Towson,Columbia,551.3333333333334,593.3333333333334,721.6666666666666,0.0,0.0
+MD,Howard County,Baltimore-Columbia-Towson,Elkridge,548.3333333333334,668.3333333333334,759.6666666666666,0.0,0.0
+MD,Howard County,Baltimore-Columbia-Towson,Ellicott City,0.0,1734.5,0.0,0.0,0.0
+MD,Montgomery County,Washington-Arlington-Alexandria,Bethesda,1081.5,1508.5,0.0,0.0,0.0
+MD,Montgomery County,Washington-Arlington-Alexandria,Chevy Chase,1009.5,1537.75,0.0,0.0,0.0
+MD,Montgomery County,Washington-Arlington-Alexandria,Gaithersburg,531.3333333333334,595.0,633.3333333333334,0.0,0.0
+MD,Montgomery County,Washington-Arlington-Alexandria,Germantown,458.3333333333333,537.0,641.6666666666666,0.0,0.0
+MD,Montgomery County,Washington-Arlington-Alexandria,North Bethesda,907.5,1106.75,0.0,0.0,0.0
+MD,Montgomery County,Washington-Arlington-Alexandria,Rockville,595.3333333333334,703.3333333333334,801.6666666666666,0.0,0.0
+MD,Montgomery County,Washington-Arlington-Alexandria,Silver Spring,877.25,0.0,965.0,0.0,0.0
+MD,Prince Georges County,Washington-Arlington-Alexandria,Beltsville,730.0,830.0,0.0,0.0,0.0
+MD,Prince Georges County,Washington-Arlington-Alexandria,Bowie,820.0,911.0,0.0,0.0,0.0
+MD,Prince Georges County,Washington-Arlington-Alexandria,Chillum,913.5,1157.0,0.0,0.0,0.0
+MD,Prince Georges County,Washington-Arlington-Alexandria,College Park,1629.0,0.0,0.0,0.0,0.0
+MD,Prince Georges County,Washington-Arlington-Alexandria,District Heights,387.3333333333333,431.5,554.0,0.0,0.0
+MD,Prince Georges County,Washington-Arlington-Alexandria,Fort Washington,1224.0,0.0,0.0,0.0,0.0
+MD,Prince Georges County,Washington-Arlington-Alexandria,Greater Landover,611.0,767.5,0.0,0.0,0.0
+MD,Prince Georges County,Washington-Arlington-Alexandria,Greenbelt,846.5,922.0,0.0,0.0,0.0
+MD,Prince Georges County,Washington-Arlington-Alexandria,Hyattsville,900.0,1090.0,0.0,0.0,0.0
+MD,Prince Georges County,Washington-Arlington-Alexandria,Largo,727.5,888.25,0.0,0.0,0.0
+MD,Prince Georges County,Washington-Arlington-Alexandria,Laurel,451.6666666666667,540.6666666666666,633.3333333333334,0.0,0.0
+MD,Prince Georges County,Washington-Arlington-Alexandria,Suitland-Silver Hill,649.5,712.5,0.0,0.0,0.0
+MD,Prince Georges County,Washington-Arlington-Alexandria,Temple Hills,580.0,677.5,0.0,0.0,0.0
+MD,Saint Marys County,California-Lexington Park,Lexington Park,0.0,1305.0,0.0,0.0,0.0
+MD,Washington County,Hagerstown-Martinsburg,Hagerstown,325.0,397.5,0.0,0.0,0.0
+ME,Cumberland County,Portland-South Portland,Portland,466.6666666666667,583.3333333333334,666.6666666666666,0.0,0.0
+ME,Penobscot County,Bangor,Bangor,0.0,1100.0,0.0,0.0,0.0
+MI,Genesee County,Flint,Flint,0.0,325.0,368.75,0.0,0.0
+MI,Genesee County,Flint,Grand Blanc,0.0,969.0,0.0,0.0,0.0
+MI,Ingham County,Lansing-East Lansing,East Lansing,385.0,417.5,0.0,0.0,0.0
+MI,Ingham County,Lansing-East Lansing,Lansing,213.33333333333334,266.6666666666667,306.6666666666667,0.0,0.0
+MI,Isabella County,Mount Pleasant,Mount Pleasant,0.0,747.5,0.0,0.0,0.0
+MI,Kalamazoo County,Kalamazoo-Portage,Kalamazoo,205.25,218.75,301.75,300.0,0.0
+MI,Kalamazoo County,Kalamazoo-Portage,Portage,0.0,1060.0,0.0,0.0,0.0
+MI,Kent County,Grand Rapids-Wyoming,Grand Rapids,433.0,416.6666666666667,487.5,0.0,0.0
+MI,Kent County,Grand Rapids-Wyoming,Wyoming,462.0,535.5,0.0,0.0,0.0
+MI,Macomb County,Detroit-Warren-Dearborn,Chesterfield,0.0,1000.0,0.0,0.0,0.0
+MI,Macomb County,Detroit-Warren-Dearborn,Clinton,400.0,480.0,0.0,0.0,0.0
+MI,Macomb County,Detroit-Warren-Dearborn,Harrison,0.0,1166.0,0.0,0.0,0.0
+MI,Macomb County,Detroit-Warren-Dearborn,Roseville,0.0,0.0,1100.0,0.0,0.0
+MI,Macomb County,Detroit-Warren-Dearborn,Saint Clair Shores,0.0,0.0,1350.0,0.0,0.0
+MI,Macomb County,Detroit-Warren-Dearborn,Shelby,0.0,1422.5,0.0,0.0,0.0
+MI,Macomb County,Detroit-Warren-Dearborn,Sterling Heights,0.0,586.25,624.5,0.0,0.0
+MI,Macomb County,Detroit-Warren-Dearborn,Warren,255.0,301.6666666666667,320.8333333333333,0.0,0.0
+MI,Muskegon County,Muskegon,Muskegon,0.0,700.0,0.0,0.0,0.0
+MI,Oakland County,Detroit-Warren-Dearborn,Auburn Hills,0.0,1236.5,0.0,0.0,0.0
+MI,Oakland County,Detroit-Warren-Dearborn,Birmingham,0.0,875.0,1137.5,0.0,0.0
+MI,Oakland County,Detroit-Warren-Dearborn,Bloomfield Hills,0.0,1517.5,0.0,0.0,0.0
+MI,Oakland County,Detroit-Warren-Dearborn,Commerce,0.0,1430.0,0.0,0.0,0.0
+MI,Oakland County,Detroit-Warren-Dearborn,Farmington Hills,342.0,424.0,528.1666666666666,0.0,0.0
+MI,Oakland County,Detroit-Warren-Dearborn,Ferndale,0.0,1325.0,0.0,0.0,0.0
+MI,Oakland County,Detroit-Warren-Dearborn,Madison Heights,0.0,0.0,1250.0,0.0,0.0
+MI,Oakland County,Detroit-Warren-Dearborn,Novi,0.0,1353.0,0.0,0.0,0.0
+MI,Oakland County,Detroit-Warren-Dearborn,Pontiac,0.0,424.0,475.0,0.0,0.0
+MI,Oakland County,Detroit-Warren-Dearborn,Rochester Hills,0.0,615.0,783.25,0.0,0.0
+MI,Oakland County,Detroit-Warren-Dearborn,Royal Oak,366.6666666666667,532.5,570.8333333333334,0.0,0.0
+MI,Oakland County,Detroit-Warren-Dearborn,Southfield,0.0,1202.5,0.0,0.0,0.0
+MI,Oakland County,Detroit-Warren-Dearborn,Troy,283.75,358.75,425.0,562.5,0.0
+MI,Oakland County,Detroit-Warren-Dearborn,Waterford,0.0,550.0,675.0,0.0,0.0
+MI,Oakland County,Detroit-Warren-Dearborn,West Bloomfield,0.0,497.5,646.0,833.3333333333334,0.0
+MI,Ottawa County,Grand Rapids-Wyoming,Holland,0.0,936.5,0.0,0.0,0.0
+MI,Saginaw County,Saginaw,Saginaw,189.66666666666666,238.33333333333334,283.3333333333333,0.0,0.0
+MI,Washtenaw County,Ann Arbor,Ann Arbor,607.5,800.0,0.0,0.0,0.0
+MI,Washtenaw County,Ann Arbor,Ypsilanti,0.0,0.0,1425.0,0.0,0.0
+MI,Wayne County,Detroit-Warren-Dearborn,Canton,0.0,1411.0,0.0,0.0,0.0
+MI,Wayne County,Detroit-Warren-Dearborn,Dearborn,0.0,720.75,700.0,0.0,0.0
+MI,Wayne County,Detroit-Warren-Dearborn,Dearborn Heights,0.0,0.0,1112.5,0.0,0.0
+MI,Wayne County,Detroit-Warren-Dearborn,Detroit,0.0,0.0,900.0,0.0,0.0
+MI,Wayne County,Detroit-Warren-Dearborn,Northville,605.75,669.5,0.0,0.0,0.0
+MI,Wayne County,Detroit-Warren-Dearborn,Westland,0.0,910.0,0.0,0.0,0.0
+MN,Anoka County,Minneapolis-St. Paul-Bloomington,Blaine,0.0,1483.0,0.0,0.0,0.0
+MN,Clay County,Fargo,Moorhead,0.0,800.0,0.0,0.0,0.0
+MN,Dakota County,Minneapolis-St. Paul-Bloomington,Apple Valley,0.0,1702.0,0.0,0.0,0.0
+MN,Dakota County,Minneapolis-St. Paul-Bloomington,Burnsville,400.0,452.1666666666667,566.8333333333334,0.0,0.0
+MN,Dakota County,Minneapolis-St. Paul-Bloomington,Eagan,557.5,692.5,0.0,0.0,0.0
+MN,Hennepin County,Minneapolis-St. Paul-Bloomington,Bloomington,609.0,724.5,0.0,0.0,0.0
+MN,Hennepin County,Minneapolis-St. Paul-Bloomington,Eden Prairie,671.0,750.0,0.0,0.0,0.0
+MN,Hennepin County,Minneapolis-St. Paul-Bloomington,Edina,499.1666666666667,620.3333333333334,823.5,0.0,0.0
+MN,Hennepin County,Minneapolis-St. Paul-Bloomington,Golden Valley,791.0,918.75,0.0,0.0,0.0
+MN,Hennepin County,Minneapolis-St. Paul-Bloomington,Hopkins,0.0,1294.5,0.0,0.0,0.0
+MN,Hennepin County,Minneapolis-St. Paul-Bloomington,Maple Grove,0.0,847.5,942.5,0.0,0.0
+MN,Hennepin County,Minneapolis-St. Paul-Bloomington,Minneapolis,381.25,519.0,462.5,537.5,0.0
+MN,Hennepin County,Minneapolis-St. Paul-Bloomington,Minnetonka,749.5,886.25,0.0,0.0,0.0
+MN,Hennepin County,Minneapolis-St. Paul-Bloomington,Plymouth,446.0,505.3333333333333,658.5,0.0,0.0
+MN,Hennepin County,Minneapolis-St. Paul-Bloomington,Richfield,1154.0,0.0,0.0,0.0,0.0
+MN,Hennepin County,Minneapolis-St. Paul-Bloomington,Saint Louis Park,692.5,850.5,0.0,0.0,0.0
+MN,Olmsted County,Rochester,Rochester,298.3333333333333,375.0,466.6666666666667,0.0,0.0
+MN,Ramsey County,Minneapolis-St. Paul-Bloomington,Saint Paul,315.25,356.875,408.75,483.75,0.0
+MN,Ramsey County,Minneapolis-St. Paul-Bloomington,White Bear Lake,0.0,1275.5,0.0,0.0,0.0
+MN,Saint Louis County,Duluth,Duluth,298.3333333333333,324.1666666666667,463.3333333333333,0.0,0.0
+MN,Scott County,Minneapolis-St. Paul-Bloomington,Shakopee,0.0,1604.0,0.0,0.0,0.0
+MN,Stearns County,St. Cloud,Saint Cloud,0.0,407.5,547.5,0.0,0.0
+MN,Stearns County,St. Cloud,Waite Park,0.0,960.0,0.0,0.0,0.0
+MN,Washington County,Minneapolis-St. Paul-Bloomington,Forest Lake,0.0,632.0,697.5,0.0,0.0
+MN,Washington County,Minneapolis-St. Paul-Bloomington,Woodbury,477.6666666666667,558.8333333333334,684.1666666666666,0.0,0.0
+MO,Boone County,Columbia,Columbia,148.0,171.25,225.0,325.0,0.0
+MO,Buchanan County,St. Joseph,Saint Joseph,0.0,660.0,0.0,0.0,0.0
+MO,Cape Girardeau County,Cape Girardeau,Cape Girardeau,0.0,600.0,0.0,0.0,0.0
+MO,Cass County,Kansas City,Belton,0.0,0.0,1195.0,0.0,0.0
+MO,Clay County,Kansas City,Gladstone,0.0,790.0,0.0,0.0,0.0
+MO,Cole County,Jefferson City,Jefferson City,0.0,500.0,0.0,0.0,0.0
+MO,Greene County,Springfield,Springfield,183.33333333333334,225.0,316.6666666666667,0.0,0.0
+MO,Jackson County,Kansas City,Blue Springs,0.0,447.5,647.5,0.0,0.0
+MO,Jackson County,Kansas City,Grandview,0.0,0.0,1147.5,0.0,0.0
+MO,Jackson County,Kansas City,Independence,218.33333333333334,263.3333333333333,341.6666666666667,0.0,0.0
+MO,Jackson County,Kansas City,Kansas City,191.0,224.0,225.0,240.0,235.0
+MO,Jackson County,Kansas City,Lees Summit,331.5,366.6666666666667,455.0,0.0,0.0
+MO,Jackson County,Kansas City,Raytown,0.0,447.5,525.0,0.0,0.0
+MO,Johnson County,Warrensburg,Warrensburg,0.0,625.0,0.0,0.0,0.0
+MO,Pulaski County,Fort Leonard Wood,Saint Robert,280.0,375.0,0.0,0.0,0.0
+MO,Saint Charles County,St. Louis,O Fallon,0.0,0.0,1350.0,0.0,0.0
+MO,Saint Charles County,St. Louis,Saint Charles,299.6666666666667,335.6666666666667,491.6666666666667,0.0,0.0
+MO,Saint Charles County,St. Louis,Saint Peters,975.0,0.0,0.0,0.0,0.0
+MO,Saint Louis City,St. Louis,Saint Louis,258.3333333333333,366.6666666666667,437.3333333333333,0.0,0.0
+MO,Saint Louis County,St. Louis,Clayton,0.0,1435.0,0.0,0.0,0.0
+MO,Saint Louis County,St. Louis,Creve Coeur,527.5,715.0,0.0,0.0,0.0
+MO,Saint Louis County,St. Louis,Florissant,0.0,447.5,568.5,0.0,0.0
+MO,Saint Louis County,St. Louis,Glasgow Village,0.0,0.0,817.5,0.0,0.0
+MO,Saint Louis County,St. Louis,Maplewood,775.0,0.0,0.0,0.0,0.0
+MO,Saint Louis County,St. Louis,Maryland Heights,0.0,1090.0,0.0,0.0,0.0
+MO,Saint Louis County,St. Louis,Spanish Lake,0.0,0.0,950.0,0.0,0.0
+MO,Saint Louis County,St. Louis,University City,0.0,497.5,687.5,0.0,0.0
+MS,DeSoto County,Memphis,Horn Lake,0.0,0.0,1105.0,0.0,0.0
+MS,DeSoto County,Memphis,Olive Branch,0.0,0.0,1390.0,0.0,0.0
+MS,DeSoto County,Memphis,Southaven,0.0,0.0,1360.0,0.0,0.0
+MS,Forrest County,Hattiesburg,Hattiesburg,0.0,362.5,475.0,0.0,0.0
+MS,Harrison County,Gulfport-Biloxi-Pascagoula,Biloxi,0.0,404.5,475.0,0.0,0.0
+MS,Harrison County,Gulfport-Biloxi-Pascagoula,Gulfport,0.0,375.0,497.5,0.0,0.0
+MS,Hinds County,Jackson,Jackson,360.0,387.5,0.0,0.0,0.0
+MS,Lafayette County,Oxford,Oxford,0.0,529.5,675.0,0.0,0.0
+MS,Madison County,Jackson,Ridgeland,0.0,1092.5,0.0,0.0,0.0
+MS,Rankin County,Jackson,Brandon,0.0,0.0,1397.5,0.0,0.0
+MT,Cascade County,Great Falls,Great Falls,287.5,375.0,0.0,0.0,0.0
+MT,Gallatin County,Bozeman,Bozeman,0.0,675.0,875.0,0.0,0.0
+MT,Lewis and Clark County,Helena,Helena,0.0,925.0,0.0,0.0,0.0
+MT,Missoula County,Missoula,Missoula,265.0,331.6666666666667,487.5,0.0,0.0
+MT,Silver Bow County,Butte-Silver Bow,Butte,0.0,750.0,0.0,0.0,0.0
+MT,Yellowstone County,Billings,Billings,173.75,212.5,312.5,350.0,0.0
+NC,Brunswick County,Myrtle Beach-Conway-North Myrtle Beach,Leland,328.3333333333333,346.6666666666667,443.3333333333333,0.0,0.0
+NC,Buncombe County,Asheville,Asheville,349.1666666666667,426.6666666666667,561.6666666666666,0.0,0.0
+NC,Cabarrus County,Charlotte-Concord-Gastonia,Concord,262.5,334.75,362.25,393.125,0.0
+NC,Cabarrus County,Charlotte-Concord-Gastonia,Kannapolis,0.0,0.0,1250.0,0.0,0.0
+NC,Catawba County,Hickory-Lenoir-Morganton,Hickory,0.0,969.0,0.0,0.0,0.0
+NC,Cumberland County,Fayetteville,Fayetteville,167.125,195.5,237.5,350.0,0.0
+NC,Cumberland County,Fayetteville,Hope Mills,0.0,0.0,1000.0,0.0,0.0
+NC,Durham County,Durham-Chapel Hill,Durham,310.5,389.75,408.75,448.75,0.0
+NC,Forsyth County,Winston-Salem,Winston-Salem,0.0,0.0,625.0,747.5,0.0
+NC,Gaston County,Charlotte-Concord-Gastonia,Gastonia,0.0,832.5,0.0,0.0,0.0
+NC,Guilford County,Greensboro-High Point,Greensboro,179.875,208.75,300.0,423.75,0.0
+NC,Guilford County,Greensboro-High Point,High Point,0.0,350.0,600.0,0.0,0.0
+NC,Harnett County,Dunn,Spring Lake,0.0,0.0,960.0,0.0,0.0
+NC,Henderson County,Asheville,Hendersonville,0.0,497.5,750.0,0.0,0.0
+NC,Iredell County,Charlotte-Concord-Gastonia,Mooresville,257.5,305.0,366.0,424.375,0.0
+NC,Johnston County,Raleigh,Clayton,0.0,0.0,710.0,797.5,0.0
+NC,Lee County,Sanford,Sanford,0.0,0.0,1265.0,0.0,0.0
+NC,Mecklenburg County,Charlotte-Concord-Gastonia,Charlotte,274.2,300.0,305.0,341.0,440.0
+NC,Mecklenburg County,Charlotte-Concord-Gastonia,Cornelius,0.0,632.0,801.25,0.0,0.0
+NC,Mecklenburg County,Charlotte-Concord-Gastonia,Davidson,0.0,1350.0,0.0,0.0,0.0
+NC,Mecklenburg County,Charlotte-Concord-Gastonia,Huntersville,296.25,343.0,389.375,450.0,0.0
+NC,Mecklenburg County,Charlotte-Concord-Gastonia,Matthews,0.0,1446.0,0.0,0.0,0.0
+NC,New Hanover County,Wilmington,Wilmington,346.6666666666667,380.5,466.6666666666667,0.0,0.0
+NC,Onslow County,Jacksonville,Jacksonville,0.0,378.5,500.0,0.0,0.0
+NC,Orange County,Durham-Chapel Hill,Carrboro,0.0,1172.5,0.0,0.0,0.0
+NC,Orange County,Durham-Chapel Hill,Chapel Hill,455.0,515.3333333333334,608.3333333333334,0.0,0.0
+NC,Pitt County,Greenville,Greenville,0.0,412.5,600.0,0.0,0.0
+NC,Wake County,Raleigh,Apex,390.0,441.5,490.0,0.0,0.0
+NC,Wake County,Raleigh,Cary,368.3333333333333,440.1666666666667,535.0,0.0,0.0
+NC,Wake County,Raleigh,Garner,0.0,620.5,732.5,0.0,0.0
+NC,Wake County,Raleigh,Morrisville,372.3333333333333,445.0,486.6666666666667,0.0,0.0
+NC,Wake County,Raleigh,Raleigh,394.0,437.6666666666667,483.3333333333333,0.0,0.0
+NC,Wake County,Raleigh,Wake Forest,0.0,1395.0,0.0,0.0,0.0
+NC,Wayne County,Goldsboro,Goldsboro,0.0,0.0,995.0,0.0,0.0
+ND,Burleigh County,Bismarck,Bismarck,0.0,385.0,687.5,0.0,0.0
+ND,Cass County,Fargo,Fargo,225.83333333333334,249.16666666666666,341.6666666666667,0.0,0.0
+ND,Grand Forks County,Grand Forks,Grand Forks,191.66666666666666,265.0,370.0,0.0,0.0
+ND,Ward County,Minot,Minot,175.0,235.0,313.3333333333333,0.0,0.0
+ND,Williams County,Williston,Williston,359.3333333333333,415.0,519.3333333333334,0.0,0.0
+NE,Douglas County,Omaha-Council Bluffs,Omaha,210.0,256.25,330.5,347.5,0.0
+NE,Hall County,Grand Island,Grand Island,0.0,745.0,0.0,0.0,0.0
+NE,Lancaster County,Lincoln,Lincoln,218.75,256.25,320.0,300.0,0.0
+NE,Sarpy County,Omaha-Council Bluffs,Bellevue,265.0,320.6666666666667,450.0,0.0,0.0
+NH,Hillsborough County,Manchester-Nashua,Manchester,413.3333333333333,485.0,483.3333333333333,0.0,0.0
+NH,Hillsborough County,Manchester-Nashua,Nashua,687.5,791.0,0.0,0.0,0.0
+NH,Rockingham County,Boston-Cambridge-Newton,Derry,0.0,1539.0,0.0,0.0,0.0
+NJ,Atlantic County,Atlantic City-Hammonton,Atlantic City,0.0,1200.0,0.0,0.0,0.0
+NJ,Atlantic County,Atlantic City-Hammonton,Pleasantville,0.0,1260.0,0.0,0.0,0.0
+NJ,Bergen County,New York-Newark-Jersey City,Cliffside Park,0.0,2375.0,0.0,0.0,0.0
+NJ,Bergen County,New York-Newark-Jersey City,East Rutherford,968.75,1237.5,0.0,0.0,0.0
+NJ,Bergen County,New York-Newark-Jersey City,Edgewater,1265.0,1552.5,0.0,0.0,0.0
+NJ,Bergen County,New York-Newark-Jersey City,Englewood,1073.0,1387.5,0.0,0.0,0.0
+NJ,Bergen County,New York-Newark-Jersey City,Fort Lee,1215.0,1625.0,0.0,0.0,0.0
+NJ,Bergen County,New York-Newark-Jersey City,Hackensack,795.0,1111.25,0.0,0.0,0.0
+NJ,Bergen County,New York-Newark-Jersey City,Lyndhurst,980.0,1161.75,0.0,0.0,0.0
+NJ,Burlington County,Philadelphia-Camden-Wilmington,Evesham Township,677.5,852.5,0.0,0.0,0.0
+NJ,Burlington County,Philadelphia-Camden-Wilmington,Mt Laurel Township,1635.0,0.0,0.0,0.0,0.0
+NJ,Camden County,Philadelphia-Camden-Wilmington,Cherry Hill Township,737.5,881.25,0.0,0.0,0.0
+NJ,Camden County,Philadelphia-Camden-Wilmington,Collingswood,0.0,1297.5,0.0,0.0,0.0
+NJ,Essex County,New York-Newark-Jersey City,Belleville,645.0,855.0,0.0,0.0,0.0
+NJ,Essex County,New York-Newark-Jersey City,Bloomfield,662.5,863.75,0.0,0.0,0.0
+NJ,Essex County,New York-Newark-Jersey City,East Orange,400.0,533.3333333333334,550.0,0.0,0.0
+NJ,Essex County,New York-Newark-Jersey City,Irvington,0.0,650.0,750.0,0.0,0.0
+NJ,Essex County,New York-Newark-Jersey City,Montclair,875.0,1050.0,0.0,0.0,0.0
+NJ,Essex County,New York-Newark-Jersey City,Newark,0.0,0.0,787.5,899.5,0.0
+NJ,Essex County,New York-Newark-Jersey City,Nutley,1475.0,0.0,0.0,0.0,0.0
+NJ,Essex County,New York-Newark-Jersey City,Orange,1299.0,0.0,0.0,0.0,0.0
+NJ,Gloucester County,Philadelphia-Camden-Wilmington,West Deptford Township,1086.0,0.0,0.0,0.0,0.0
+NJ,Hudson County,New York-Newark-Jersey City,Bayonne,450.0,516.6666666666666,600.0,0.0,0.0
+NJ,Hudson County,New York-Newark-Jersey City,Guttenberg,1950.0,0.0,0.0,0.0,0.0
+NJ,Hudson County,New York-Newark-Jersey City,Harrison,1145.0,1370.0,0.0,0.0,0.0
+NJ,Hudson County,New York-Newark-Jersey City,Hoboken,816.6666666666666,1050.0,1333.3333333333333,0.0,0.0
+NJ,Hudson County,New York-Newark-Jersey City,Jersey City,785.0,0.0,650.0,633.3333333333334,0.0
+NJ,Hudson County,New York-Newark-Jersey City,Secaucus,1115.0,1371.25,0.0,0.0,0.0
+NJ,Hudson County,New York-Newark-Jersey City,Union City,475.0,700.0,766.6666666666666,0.0,0.0
+NJ,Hudson County,New York-Newark-Jersey City,Weehawken,900.0,1222.5,1433.3333333333333,0.0,0.0
+NJ,Hudson County,New York-Newark-Jersey City,West New York,1850.0,0.0,0.0,0.0,0.0
+NJ,Mercer County,Trenton,Lawrence Township,0.0,1815.0,0.0,0.0,0.0
+NJ,Mercer County,Trenton,Princeton,0.0,2990.0,0.0,0.0,0.0
+NJ,Mercer County,Trenton,Trenton,450.0,525.0,0.0,0.0,0.0
+NJ,Middlesex County,New York-Newark-Jersey City,Edison,727.5,898.75,0.0,0.0,0.0
+NJ,Middlesex County,New York-Newark-Jersey City,New Brunswick,971.0,1151.5,0.0,0.0,0.0
+NJ,Middlesex County,New York-Newark-Jersey City,North Brunswick Township,735.0,900.0,0.0,0.0,0.0
+NJ,Middlesex County,New York-Newark-Jersey City,Piscataway,720.0,1008.5,0.0,0.0,0.0
+NJ,Middlesex County,New York-Newark-Jersey City,Plainsboro Township,707.5,857.5,0.0,0.0,0.0
+NJ,Middlesex County,New York-Newark-Jersey City,Sayreville,0.0,2110.0,0.0,0.0,0.0
+NJ,Monmouth County,New York-Newark-Jersey City,Eatontown,1462.5,0.0,0.0,0.0,0.0
+NJ,Monmouth County,New York-Newark-Jersey City,Freehold,712.5,1015.25,0.0,0.0,0.0
+NJ,Monmouth County,New York-Newark-Jersey City,Howell Township,0.0,1775.0,0.0,0.0,0.0
+NJ,Monmouth County,New York-Newark-Jersey City,Matawan,832.0,1024.5,0.0,0.0,0.0
+NJ,Monmouth County,New York-Newark-Jersey City,Middletown Township,533.3333333333334,600.0,816.6666666666666,0.0,0.0
+NJ,Monmouth County,New York-Newark-Jersey City,Neptune Township,750.0,937.5,0.0,0.0,0.0
+NJ,Monmouth County,New York-Newark-Jersey City,Red Bank,0.0,2650.0,0.0,0.0,0.0
+NJ,Morris County,New York-Newark-Jersey City,Morristown,1264.5,1475.0,0.0,0.0,0.0
+NJ,Morris County,New York-Newark-Jersey City,Mt Olive Township,1413.0,0.0,0.0,0.0,0.0
+NJ,Ocean County,New York-Newark-Jersey City,Toms River,0.0,1620.0,0.0,0.0,0.0
+NJ,Passaic County,New York-Newark-Jersey City,Clifton,0.0,1700.0,0.0,0.0,0.0
+NJ,Passaic County,New York-Newark-Jersey City,Paterson,387.5,466.6666666666667,533.3333333333334,0.0,0.0
+NJ,Somerset County,New York-Newark-Jersey City,Franklin Township,0.0,2195.0,0.0,0.0,0.0
+NJ,Union County,New York-Newark-Jersey City,Elizabeth,400.0,516.6666666666666,598.3333333333334,0.0,0.0
+NJ,Union County,New York-Newark-Jersey City,Union,2155.0,0.0,0.0,0.0,0.0
+NM,Bernalillo County,Albuquerque,Albuquerque,192.875,247.75,337.5,362.5,0.0
+NM,Curry County,Clovis,Clovis,0.0,750.0,0.0,0.0,0.0
+NM,Dona Ana County,Las Cruces,Las Cruces,183.33333333333334,216.66666666666666,366.6666666666667,0.0,0.0
+NM,Otero County,Alamogordo,Alamogordo,0.0,0.0,937.5,0.0,0.0
+NM,San Juan County,Farmington,Farmington,0.0,350.0,550.0,0.0,0.0
+NM,Sandoval County,Albuquerque,Rio Rancho,0.0,480.5,637.5,0.0,0.0
+NM,Santa Fe County,Santa Fe,Santa Fe,416.6666666666667,497.5,682.5,0.0,0.0
+NV,Clark County,Las Vegas-Henderson-Paradise,Henderson,240.0,277.3,323.0,380.0,479.0
+NV,Clark County,Las Vegas-Henderson-Paradise,Las Vegas,205.6,247.4,300.0,359.0,479.0
+NV,Clark County,Las Vegas-Henderson-Paradise,North Las Vegas,253.75,275.0,362.5,398.75,0.0
+NV,Lyon County,Fernley,Fernley,0.0,0.0,1550.0,0.0,0.0
+NV,Washoe County,Reno,Reno,298.75,398.75,455.5,511.875,0.0
+NV,Washoe County,Reno,Sparks,0.0,533.0,599.0,698.3333333333334,0.0
+NY,Albany County,Albany-Schenectady-Troy,Albany,332.5,400.0,450.0,0.0,0.0
+NY,Albany County,Albany-Schenectady-Troy,Cohoes,667.75,791.25,0.0,0.0,0.0
+NY,Albany County,Albany-Schenectady-Troy,Town Of Bethlehem,0.0,1537.5,0.0,0.0,0.0
+NY,Albany County,Albany-Schenectady-Troy,Town of Colonie,0.0,1312.5,0.0,0.0,0.0
+NY,Dutchess County,New York-Newark-Jersey City,Town of Poughkeepsie,400.0,483.3333333333333,533.3333333333334,0.0,0.0
+NY,Erie County,Buffalo-Cheektowaga-Niagara Falls,Buffalo,170.0,199.0,200.0,185.0,180.0
+NY,Erie County,Buffalo-Cheektowaga-Niagara Falls,Cheektowaga,0.0,878.0,0.0,0.0,0.0
+NY,Erie County,Buffalo-Cheektowaga-Niagara Falls,Tonawanda,0.0,882.0,0.0,0.0,0.0
+NY,Erie County,Buffalo-Cheektowaga-Niagara Falls,Town Of Amherst,415.0,495.8333333333333,566.3333333333334,0.0,0.0
+NY,Monroe County,Rochester,Rochester,0.0,850.0,0.0,0.0,0.0
+NY,Nassau County,New York-Newark-Jersey City,Great Neck,1400.0,1725.0,0.0,0.0,0.0
+NY,Nassau County,New York-Newark-Jersey City,Long Beach,683.3333333333334,866.6666666666666,1000.0,0.0,0.0
+NY,Niagara County,Buffalo-Cheektowaga-Niagara Falls,Niagara Falls,0.0,332.5,375.0,0.0,0.0
+NY,Onondaga County,Syracuse,Syracuse,198.75,225.0,275.0,337.5,0.0
+NY,Queens County,New York-Newark-Jersey City,New York,606.25,650.0,662.5,899.375,0.0
+NY,Rensselaer County,Albany-Schenectady-Troy,Troy,450.0,487.5,0.0,0.0,0.0
+NY,Saratoga County,Albany-Schenectady-Troy,Saratoga Springs,418.0,575.0,616.5,0.0,0.0
+NY,Saratoga County,Albany-Schenectady-Troy,Town Of Clifton Park,0.0,1334.0,0.0,0.0,0.0
+NY,Saratoga County,Albany-Schenectady-Troy,Town Of Halfmoon,0.0,1220.0,0.0,0.0,0.0
+NY,Schenectady County,Albany-Schenectady-Troy,Schenectady,309.8333333333333,416.6666666666667,475.8333333333333,0.0,0.0
+NY,Suffolk County,New York-Newark-Jersey City,Bridgehampton,0.0,0.0,15000.0,18166.5,0.0
+NY,Suffolk County,New York-Newark-Jersey City,Coram,936.5,1125.0,0.0,0.0,0.0
+NY,Suffolk County,New York-Newark-Jersey City,Montauk,0.0,0.0,21333.0,0.0,0.0
+NY,Suffolk County,New York-Newark-Jersey City,Quogue,0.0,0.0,0.0,28000.0,0.0
+NY,Suffolk County,New York-Newark-Jersey City,Sag Harbor,0.0,0.0,0.0,30000.0,0.0
+NY,Suffolk County,New York-Newark-Jersey City,Town of Islip,1042.5,1237.5,0.0,0.0,0.0
+NY,Suffolk County,New York-Newark-Jersey City,Water Mill,0.0,0.0,0.0,40000.0,0.0
+NY,Suffolk County,New York-Newark-Jersey City,Westhampton Beach,0.0,0.0,10125.0,14083.25,0.0
+NY,Tompkins County,Ithaca,Town Of Ithaca,0.0,725.0,905.0,0.0,0.0
+NY,Westchester County,New York-Newark-Jersey City,Eastchester,1025.0,1212.5,0.0,0.0,0.0
+NY,Westchester County,New York-Newark-Jersey City,Mount Vernon,516.6666666666666,650.0,783.3333333333334,0.0,0.0
+NY,Westchester County,New York-Newark-Jersey City,New Rochelle,0.0,0.0,2800.0,0.0,0.0
+NY,Westchester County,New York-Newark-Jersey City,Port Chester,2204.5,0.0,0.0,0.0,0.0
+NY,Westchester County,New York-Newark-Jersey City,Tarrytown,0.0,2385.0,0.0,0.0,0.0
+NY,Westchester County,New York-Newark-Jersey City,Town Of Ossining,0.0,2550.0,0.0,0.0,0.0
+NY,Westchester County,New York-Newark-Jersey City,White Plains,1141.75,1510.0,0.0,0.0,0.0
+NY,Westchester County,New York-Newark-Jersey City,Yonkers,345.0,420.0,460.0,500.0,475.0
+OH,Butler County,Cincinnati,Fairfield,0.0,930.0,0.0,0.0,0.0
+OH,Butler County,Cincinnati,Hamilton,0.0,397.5,493.75,0.0,0.0
+OH,Butler County,Cincinnati,Middletown,0.0,750.0,0.0,0.0,0.0
+OH,Butler County,Cincinnati,West Chester,638.5,725.0,0.0,0.0,0.0
+OH,Clark County,Springfield,Springfield,0.0,675.0,0.0,0.0,0.0
+OH,Clermont County,Cincinnati,Loveland,0.0,1296.0,0.0,0.0,0.0
+OH,Cuyahoga County,Cleveland-Elyria,Beachwood,829.0,1088.75,0.0,0.0,0.0
+OH,Cuyahoga County,Cleveland-Elyria,Cleveland,203.8,175.0,180.0,160.0,180.0
+OH,Cuyahoga County,Cleveland-Elyria,Cleveland Heights,216.66666666666666,283.3333333333333,383.3333333333333,0.0,0.0
+OH,Cuyahoga County,Cleveland-Elyria,East Cleveland,0.0,699.0,0.0,0.0,0.0
+OH,Cuyahoga County,Cleveland-Elyria,Euclid,0.0,405.0,497.5,0.0,0.0
+OH,Cuyahoga County,Cleveland-Elyria,Garfield Heights,0.0,0.0,900.0,0.0,0.0
+OH,Cuyahoga County,Cleveland-Elyria,Lakewood,241.66666666666666,316.6666666666667,431.6666666666667,0.0,0.0
+OH,Cuyahoga County,Cleveland-Elyria,Maple Heights,0.0,0.0,950.0,0.0,0.0
+OH,Cuyahoga County,Cleveland-Elyria,Mayfield Heights,0.0,1016.0,0.0,0.0,0.0
+OH,Cuyahoga County,Cleveland-Elyria,Parma,243.83333333333334,274.0,366.6666666666667,0.0,0.0
+OH,Cuyahoga County,Cleveland-Elyria,Shaker Heights,266.6666666666667,308.3333333333333,458.3333333333333,0.0,0.0
+OH,Cuyahoga County,Cleveland-Elyria,South Euclid,0.0,0.0,1175.0,0.0,0.0
+OH,Cuyahoga County,Cleveland-Elyria,Warrensville Heights,0.0,750.0,0.0,0.0,0.0
+OH,Cuyahoga County,Cleveland-Elyria,Westlake,0.0,1110.0,0.0,0.0,0.0
+OH,Franklin County,Columbus,Columbus,232.5,262.5,325.0,446.25,0.0
+OH,Franklin County,Columbus,Dublin,495.0,737.25,0.0,0.0,0.0
+OH,Franklin County,Columbus,Hilliard,500.0,625.0,0.0,0.0,0.0
+OH,Franklin County,Columbus,Westerville,0.0,1183.0,0.0,0.0,0.0
+OH,Hamilton County,Cincinnati,Cincinnati,283.3333333333333,398.3333333333333,500.6666666666667,0.0,0.0
+OH,Lake County,Cleveland-Elyria,Painesville,0.0,1245.0,0.0,0.0,0.0
+OH,Lake County,Cleveland-Elyria,Willoughby Hills,0.0,912.0,0.0,0.0,0.0
+OH,Lorain County,Cleveland-Elyria,Elyria,0.0,675.0,0.0,0.0,0.0
+OH,Lorain County,Cleveland-Elyria,Lorain,166.33333333333334,216.66666666666666,253.33333333333334,0.0,0.0
+OH,Lucas County,Toledo,Toledo,124.875,186.25,211.25,187.5,0.0
+OH,Mahoning County,Youngstown-Warren-Boardman,Boardman,0.0,700.0,0.0,0.0,0.0
+OH,Mahoning County,Youngstown-Warren-Boardman,Youngstown,0.0,0.0,650.0,0.0,0.0
+OH,Medina County,Cleveland-Elyria,Medina,0.0,1217.0,0.0,0.0,0.0
+OH,Montgomery County,Dayton,Dayton,174.16666666666666,228.33333333333334,265.0,0.0,0.0
+OH,Montgomery County,Dayton,Huber Heights,0.0,0.0,1100.0,0.0,0.0
+OH,Montgomery County,Dayton,Kettering,0.0,795.0,0.0,0.0,0.0
+OH,Montgomery County,Dayton,Miamisburg,0.0,900.0,0.0,0.0,0.0
+OH,Montgomery County,Dayton,Trotwood,0.0,864.5,0.0,0.0,0.0
+OH,Stark County,Canton-Massillon,Canton,0.0,325.0,387.5,0.0,0.0
+OH,Summit County,Akron,Akron,137.5,169.375,200.0,214.375,0.0
+OH,Summit County,Akron,Cuyahoga Falls,0.0,925.0,0.0,0.0,0.0
+OH,Summit County,Akron,Stow,0.0,908.5,0.0,0.0,0.0
+OH,Wood County,Toledo,Perrysburg,0.0,1275.0,0.0,0.0,0.0
+OK,Canadian County,Oklahoma City,Yukon,0.0,0.0,597.5,722.5,0.0
+OK,Cleveland County,Oklahoma City,Moore,0.0,0.0,1190.0,0.0,0.0
+OK,Cleveland County,Oklahoma City,Norman,160.0,198.75,287.5,418.75,0.0
+OK,Comanche County,Lawton,Lawton,123.75,150.0,198.75,273.5,0.0
+OK,Oklahoma County,Oklahoma City,Bethany,0.0,765.0,0.0,0.0,0.0
+OK,Oklahoma County,Oklahoma City,Del City,0.0,0.0,875.0,0.0,0.0
+OK,Oklahoma County,Oklahoma City,Edmond,0.0,300.0,441.6666666666667,608.3333333333334,0.0
+OK,Oklahoma County,Oklahoma City,Midwest City,0.0,375.0,446.25,0.0,0.0
+OK,Oklahoma County,Oklahoma City,Oklahoma City,191.875,217.5,275.0,312.5,0.0
+OK,Payne County,Stillwater,Stillwater,0.0,375.0,552.5,0.0,0.0
+OK,Pottawatomie County,Shawnee,Shawnee,0.0,0.0,900.0,0.0,0.0
+OK,Tulsa County,Tulsa,Bixby,1127.5,0.0,0.0,0.0,0.0
+OK,Tulsa County,Tulsa,Tulsa,271.6666666666667,296.8333333333333,331.6666666666667,0.0,0.0
+OR,Benton County,Corvallis,Corvallis,254.16666666666666,425.0,650.0,0.0,0.0
+OR,Clackamas County,Portland-Vancouver-Hillsboro,Happy Valley,0.0,1632.5,0.0,0.0,0.0
+OR,Clackamas County,Portland-Vancouver-Hillsboro,Lake Oswego,456.3333333333333,531.6666666666666,775.0,0.0,0.0
+OR,Clackamas County,Portland-Vancouver-Hillsboro,Milwaukie,0.0,1350.0,0.0,0.0,0.0
+OR,Clackamas County,Portland-Vancouver-Hillsboro,Oregon City,0.0,1384.0,0.0,0.0,0.0
+OR,Clackamas County,Portland-Vancouver-Hillsboro,West Linn,0.0,1662.5,0.0,0.0,0.0
+OR,Clackamas County,Portland-Vancouver-Hillsboro,Wilsonville,406.6666666666667,491.0,568.3333333333334,0.0,0.0
+OR,Deschutes County,Bend-Redmond,Bend,797.5,822.5,0.0,0.0,0.0
+OR,Jackson County,Medford,Medford,0.0,0.0,1625.0,0.0,0.0
+OR,Lane County,Eugene,Eugene,0.0,795.0,900.0,0.0,0.0
+OR,Marion County,Salem,Salem,0.0,697.5,750.0,0.0,0.0
+OR,Multnomah County,Portland-Vancouver-Hillsboro,Fairview,0.0,1605.0,0.0,0.0,0.0
+OR,Multnomah County,Portland-Vancouver-Hillsboro,Gresham,399.3333333333333,461.6666666666667,596.6666666666666,0.0,0.0
+OR,Multnomah County,Portland-Vancouver-Hillsboro,Portland,399.75,460.0,523.75,623.75,0.0
+OR,Washington County,Portland-Vancouver-Hillsboro,Beaverton,345.0,380.0,448.75,562.5,0.0
+OR,Washington County,Portland-Vancouver-Hillsboro,Hillsboro,340.0,399.75,475.0,500.0,0.0
+OR,Washington County,Portland-Vancouver-Hillsboro,Oak Hills,0.0,1513.0,0.0,0.0,0.0
+OR,Washington County,Portland-Vancouver-Hillsboro,Tigard,447.5,499.6666666666667,691.6666666666666,0.0,0.0
+OR,Washington County,Portland-Vancouver-Hillsboro,Tualatin,0.0,737.5,862.5,0.0,0.0
+OR,Washington County,Portland-Vancouver-Hillsboro,West Haven-Sylvan,0.0,1625.0,0.0,0.0,0.0
+PA,Allegheny County,Pittsburgh,Monroeville,0.0,1015.0,0.0,0.0,0.0
+PA,Allegheny County,Pittsburgh,Penn Hills,0.0,0.0,1100.0,0.0,0.0
+PA,Allegheny County,Pittsburgh,Pittsburgh,416.6666666666667,450.0,533.3333333333334,0.0,0.0
+PA,Allegheny County,Pittsburgh,Robinson Township,0.0,1711.0,0.0,0.0,0.0
+PA,Allegheny County,Pittsburgh,Ross Township,487.0,584.0,0.0,0.0,0.0
+PA,Berks County,Reading,Reading,231.66666666666666,250.0,266.6666666666667,0.0,0.0
+PA,Bucks County,Philadelphia-Camden-Wilmington,Bensalem Township,579.0,700.0,0.0,0.0,0.0
+PA,Bucks County,Philadelphia-Camden-Wilmington,Middletown Township,1270.0,0.0,0.0,0.0,0.0
+PA,Centre County,State College,State College,0.0,1265.0,0.0,0.0,0.0
+PA,Chester County,Philadelphia-Camden-Wilmington,Exton,1625.0,0.0,0.0,0.0,0.0
+PA,Chester County,Philadelphia-Camden-Wilmington,Malvern,0.0,2091.0,0.0,0.0,0.0
+PA,Chester County,Philadelphia-Camden-Wilmington,Phoenixville,708.75,837.5,0.0,0.0,0.0
+PA,Chester County,Philadelphia-Camden-Wilmington,West Chester,453.6666666666667,507.8333333333333,722.5,0.0,0.0
+PA,Dauphin County,Harrisburg-Carlisle,Colonial Park,0.0,1040.0,0.0,0.0,0.0
+PA,Dauphin County,Harrisburg-Carlisle,Harrisburg,447.5,0.0,462.5,0.0,0.0
+PA,Dauphin County,Harrisburg-Carlisle,Lower Paxton Township,0.0,1225.0,0.0,0.0,0.0
+PA,Delaware County,Philadelphia-Camden-Wilmington,Bryn Mawr,0.0,1750.0,0.0,0.0,0.0
+PA,Delaware County,Philadelphia-Camden-Wilmington,Chester Township,0.0,0.0,1100.0,0.0,0.0
+PA,Erie County,Erie,Erie,196.66666666666666,233.33333333333334,298.3333333333333,0.0,0.0
+PA,Lackawanna County,Scranton--Wilkes-Barre--Hazleton,Scranton,375.0,437.5,0.0,0.0,0.0
+PA,Lancaster County,Lancaster,Lancaster Township,275.0,350.0,400.0,0.0,0.0
+PA,Lancaster County,Lancaster,Manheim Township,0.0,1279.0,0.0,0.0,0.0
+PA,Lehigh County,Allentown-Bethlehem-Easton,Allentown,0.0,616.25,650.0,0.0,0.0
+PA,Monroe County,East Stroudsburg,Coolbaugh Township,0.0,0.0,1150.0,0.0,0.0
+PA,Monroe County,East Stroudsburg,East Stroudsburg,0.0,600.0,662.5,0.0,0.0
+PA,Montgomery County,Philadelphia-Camden-Wilmington,Conshohocken,740.5,925.0,0.0,0.0,0.0
+PA,Montgomery County,Philadelphia-Camden-Wilmington,King of Prussia,897.5,0.0,1150.0,0.0,0.0
+PA,Montgomery County,Philadelphia-Camden-Wilmington,Lansdale,423.3333333333333,500.1666666666667,599.6666666666666,0.0,0.0
+PA,Montgomery County,Philadelphia-Camden-Wilmington,Norristown,415.0,491.6666666666667,491.6666666666667,0.0,0.0
+PA,Montgomery County,Philadelphia-Camden-Wilmington,Pottstown,0.0,525.0,650.0,0.0,0.0
+PA,Montgomery County,Philadelphia-Camden-Wilmington,Wynnewood,1607.0,0.0,0.0,0.0,0.0
+PA,Northampton County,Allentown-Bethlehem-Easton,Bethlehem,356.6666666666667,418.3333333333333,491.6666666666667,0.0,0.0
+PA,Northampton County,Allentown-Bethlehem-Easton,Easton,481.25,600.0,0.0,0.0,0.0
+PA,Philadelphia County,Philadelphia-Camden-Wilmington,Philadelphia,294.0,320.0,280.0,420.0,575.0
+PA,Washington County,Pittsburgh,Washington,0.0,850.0,0.0,0.0,0.0
+PA,York County,York-Hanover,Hanover,0.0,450.0,637.5,0.0,0.0
+PA,York County,York-Hanover,York,241.66666666666666,345.0,373.3333333333333,0.0,0.0
+RI,Kent County,Providence-Warwick,Warwick,622.0,750.0,0.0,0.0,0.0
+RI,Kent County,Providence-Warwick,West Warwick,0.0,1425.0,0.0,0.0,0.0
+RI,Newport County,Providence-Warwick,Middletown,0.0,850.0,1200.0,0.0,0.0
+RI,Newport County,Providence-Warwick,Newport,337.5,437.5,550.0,725.0,0.0
+RI,Providence County,Providence-Warwick,Cranston,0.0,1250.0,0.0,0.0,0.0
+RI,Providence County,Providence-Warwick,East Providence,597.5,679.5,0.0,0.0,0.0
+RI,Providence County,Providence-Warwick,North Providence,0.0,1200.0,0.0,0.0,0.0
+RI,Providence County,Providence-Warwick,Pawtucket,308.3333333333333,383.3333333333333,433.3333333333333,0.0,0.0
+RI,Providence County,Providence-Warwick,Providence,300.0,320.0,360.0,460.0,440.0
+RI,Providence County,Providence-Warwick,Woonsocket,0.0,1050.0,0.0,0.0,0.0
+SC,Beaufort County,Hilton Head Island-Bluffton-Beaufort,Beaufort,0.0,0.0,1355.0,0.0,0.0
+SC,Beaufort County,Hilton Head Island-Bluffton-Beaufort,Bluffton,483.3333333333333,555.0,560.5,0.0,0.0
+SC,Berkeley County,Charleston-North Charleston,Goose Creek,0.0,0.0,1450.0,0.0,0.0
+SC,Charleston County,Charleston-North Charleston,Charleston,428.75,461.125,500.0,750.0,0.0
+SC,Charleston County,Charleston-North Charleston,Mount Pleasant,337.25,400.75,525.0,750.0,0.0
+SC,Charleston County,Charleston-North Charleston,North Charleston,363.3333333333333,408.0,466.6666666666667,0.0,0.0
+SC,Dorchester County,Charleston-North Charleston,Summerville,307.375,339.625,365.5,437.5,0.0
+SC,Greenville County,Greenville-Anderson-Mauldin,Greenville,0.0,0.0,706.0,862.5,0.0
+SC,Greenville County,Greenville-Anderson-Mauldin,Greer,0.0,674.5,725.0,0.0,0.0
+SC,Greenville County,Greenville-Anderson-Mauldin,Mauldin,0.0,977.0,0.0,0.0,0.0
+SC,Greenville County,Greenville-Anderson-Mauldin,Simpsonville,0.0,0.0,737.5,925.0,0.0
+SC,Horry County,Myrtle Beach-Conway-North Myrtle Beach,Conway,0.0,0.0,1275.0,0.0,0.0
+SC,Horry County,Myrtle Beach-Conway-North Myrtle Beach,Myrtle Beach,300.0,333.3333333333333,466.6666666666667,0.0,0.0
+SC,Lexington County,Columbia,Lexington,332.3333333333333,369.6666666666667,433.0,0.0,0.0
+SC,Pickens County,Greenville-Anderson-Mauldin,Central,0.0,0.0,1125.0,0.0,0.0
+SC,Richland County,Columbia,Columbia,223.0,237.5,300.0,350.0,0.0
+SC,Richland County,Columbia,Irmo,0.0,679.0,624.75,0.0,0.0
+SC,Spartanburg County,Spartanburg,Spartanburg,293.1666666666667,283.3333333333333,350.8333333333333,0.0,0.0
+SC,Sumter County,Sumter,Sumter,0.0,337.5,498.75,0.0,0.0
+SC,York County,Charlotte-Concord-Gastonia,Fort Mill,398.3333333333333,475.0,550.0,0.0,0.0
+SC,York County,Charlotte-Concord-Gastonia,Rock Hill,321.6666666666667,383.0,440.5,0.0,0.0
+SD,Minnehaha County,Sioux Falls,Sioux Falls,250.0,308.3333333333333,388.3333333333333,0.0,0.0
+SD,Pennington County,Rapid City,Rapid City,250.0,290.8333333333333,433.3333333333333,0.0,0.0
+TN,Davidson County,Nashville-Davidson--Murfreesboro--Franklin,Nashville,286.4,298.5,335.0,400.0,399.0
+TN,Hamilton County,Chattanooga,Chattanooga,0.0,512.5,647.5,0.0,0.0
+TN,Knox County,Knoxville,Knoxville,0.0,602.5,694.5,0.0,0.0
+TN,Montgomery County,Clarksville,Clarksville,0.0,387.5,600.0,0.0,0.0
+TN,Rutherford County,Nashville-Davidson--Murfreesboro--Franklin,Murfreesboro,364.1666666666667,425.0,500.0,0.0,0.0
+TN,Shelby County,Memphis,Bartlett,0.0,0.0,1549.5,0.0,0.0
+TN,Shelby County,Memphis,Cordova,0.0,0.0,1465.0,0.0,0.0
+TN,Shelby County,Memphis,Memphis,207.5,221.25,237.5,271.25,0.0
+TN,Sumner County,Nashville-Davidson--Murfreesboro--Franklin,Hendersonville,336.0,412.1666666666667,490.6666666666667,0.0,0.0
+TN,Washington County,Johnson City,Johnson City,307.5,355.0,0.0,0.0,0.0
+TN,Williamson County,Nashville-Davidson--Murfreesboro--Franklin,Franklin,682.5,864.5,0.0,0.0,0.0
+TX,Bell County,Killeen-Temple,Harker Heights,0.0,325.0,475.0,0.0,0.0
+TX,Bell County,Killeen-Temple,Killeen,165.0,208.33333333333334,291.6666666666667,0.0,0.0
+TX,Bell County,Killeen-Temple,Temple,291.6666666666667,282.1666666666667,366.6666666666667,0.0,0.0
+TX,Bexar County,San Antonio-New Braunfels,Converse,0.0,0.0,672.5,773.75,0.0
+TX,Bexar County,San Antonio-New Braunfels,San Antonio,193.5,241.6,290.0,330.0,370.0
+TX,Bexar County,San Antonio-New Braunfels,Universal City,0.0,457.5,602.5,0.0,0.0
+TX,Brazoria County,Houston-The Woodlands-Sugar Land,Clute,0.0,945.0,0.0,0.0,0.0
+TX,Brazoria County,Houston-The Woodlands-Sugar Land,Pearland,376.6666666666667,480.0,566.3333333333334,0.0,0.0
+TX,Brazos County,College Station-Bryan,Bryan,0.0,0.0,1399.5,0.0,0.0
+TX,Brazos County,College Station-Bryan,College Station,0.0,266.6666666666667,475.0,633.3333333333334,0.0
+TX,Cameron County,Brownsville-Harlingen,Brownsville,0.0,393.75,550.0,0.0,0.0
+TX,Cameron County,Brownsville-Harlingen,Harlingen,0.0,697.5,0.0,0.0,0.0
+TX,Collin County,Dallas-Fort Worth-Arlington,Allen,276.75,376.25,448.75,544.375,0.0
+TX,Collin County,Dallas-Fort Worth-Arlington,Frisco,271.0,361.3,400.0,479.0,600.0
+TX,Collin County,Dallas-Fort Worth-Arlington,McKinney,312.25,362.25,449.0,500.0,0.0
+TX,Collin County,Dallas-Fort Worth-Arlington,Plano,256.0,325.0,379.0,460.0,560.0
+TX,Collin County,Dallas-Fort Worth-Arlington,Princeton,0.0,0.0,1550.0,0.0,0.0
+TX,Collin County,Dallas-Fort Worth-Arlington,Prosper,526.0,0.0,0.0,1137.5,0.0
+TX,Collin County,Dallas-Fort Worth-Arlington,Wylie,398.3333333333333,0.0,550.0,637.5,0.0
+TX,Comal County,San Antonio-New Braunfels,New Braunfels,361.1666666666667,508.6666666666667,533.3333333333334,0.0,0.0
+TX,Coryell County,Killeen-Temple,Copperas Cove,0.0,575.0,0.0,0.0,0.0
+TX,Dallas County,Dallas-Fort Worth-Arlington,Addison,705.0,891.5,0.0,0.0,0.0
+TX,Dallas County,Dallas-Fort Worth-Arlington,Cedar Hill,0.0,0.0,1675.0,0.0,0.0
+TX,Dallas County,Dallas-Fort Worth-Arlington,Coppell,377.0,497.6666666666667,665.8333333333334,0.0,0.0
+TX,Dallas County,Dallas-Fort Worth-Arlington,Dallas,335.0,428.75,462.5,500.0,0.0
+TX,Dallas County,Dallas-Fort Worth-Arlington,Desoto,0.0,0.0,1550.0,0.0,0.0
+TX,Dallas County,Dallas-Fort Worth-Arlington,Farmers Branch,474.6666666666667,646.1666666666666,817.6666666666666,0.0,0.0
+TX,Dallas County,Dallas-Fort Worth-Arlington,Garland,300.25,372.5,387.5,437.5,0.0
+TX,Dallas County,Dallas-Fort Worth-Arlington,Grand Prairie,389.6666666666667,0.0,566.6666666666666,644.1666666666666,0.0
+TX,Dallas County,Dallas-Fort Worth-Arlington,Irving,298.75,388.25,463.75,656.25,0.0
+TX,Dallas County,Dallas-Fort Worth-Arlington,Lancaster,0.0,0.0,1595.0,0.0,0.0
+TX,Dallas County,Dallas-Fort Worth-Arlington,Mesquite,234.0,286.875,373.75,436.25,0.0
+TX,Dallas County,Dallas-Fort Worth-Arlington,Richardson,331.5,457.5,487.5,550.0,0.0
+TX,Dallas County,Dallas-Fort Worth-Arlington,Rowlett,535.0,0.0,847.5,0.0,0.0
+TX,Dallas County,Dallas-Fort Worth-Arlington,University Park,0.0,0.0,3975.0,0.0,0.0
+TX,Denton County,Dallas-Fort Worth-Arlington,Carrollton,401.6666666666667,501.6666666666667,616.3333333333334,0.0,0.0
+TX,Denton County,Dallas-Fort Worth-Arlington,Denton,227.5,277.625,393.75,462.5,0.0
+TX,Denton County,Dallas-Fort Worth-Arlington,Flower Mound,473.6666666666667,578.6666666666666,645.6666666666666,0.0,0.0
+TX,Denton County,Dallas-Fort Worth-Arlington,Lewisville,397.1666666666667,517.0,650.0,0.0,0.0
+TX,Denton County,Dallas-Fort Worth-Arlington,Little Elm,0.0,0.0,872.5,975.0,0.0
+TX,Denton County,Dallas-Fort Worth-Arlington,The Colony,370.1666666666667,526.6666666666666,583.3333333333334,0.0,0.0
+TX,El Paso County,El Paso,El Paso,152.5,198.75,287.5,350.0,0.0
+TX,Fort Bend County,Houston-The Woodlands-Sugar Land,Missouri City,0.0,0.0,799.75,937.25,0.0
+TX,Fort Bend County,Houston-The Woodlands-Sugar Land,Richmond,266.375,362.5,412.5,487.5,0.0
+TX,Fort Bend County,Houston-The Woodlands-Sugar Land,Sugar Land,271.5,367.1,330.0,414.5,574.0
+TX,Galveston County,Houston-The Woodlands-Sugar Land,Galveston,427.5,600.0,0.0,0.0,0.0
+TX,Galveston County,Houston-The Woodlands-Sugar Land,League City,345.6666666666667,420.6666666666667,576.0,0.0,0.0
+TX,Gregg County,Longview,Longview,0.0,750.0,0.0,0.0,0.0
+TX,Harris County,Houston-The Woodlands-Sugar Land,Atascocita,0.0,0.0,783.75,875.0,0.0
+TX,Harris County,Houston-The Woodlands-Sugar Land,Baytown,0.0,621.5,700.0,0.0,0.0
+TX,Harris County,Houston-The Woodlands-Sugar Land,Cypress,287.25,350.0,412.5,475.0,0.0
+TX,Harris County,Houston-The Woodlands-Sugar Land,Deer Park,0.0,0.0,1425.0,0.0,0.0
+TX,Harris County,Houston-The Woodlands-Sugar Land,Houston,249.8,296.0,315.0,358.0,580.0
+TX,Harris County,Houston-The Woodlands-Sugar Land,Katy,0.0,0.0,837.5,900.0,0.0
+TX,Harris County,Houston-The Woodlands-Sugar Land,Pasadena,0.0,569.5,700.0,0.0,0.0
+TX,Harris County,Houston-The Woodlands-Sugar Land,Spring,403.3333333333333,0.0,500.0,583.3333333333334,0.0
+TX,Harris County,Houston-The Woodlands-Sugar Land,Tomball,261.0,343.75,398.75,462.5,0.0
+TX,Hays County,Austin-Round Rock,Buda,1070.0,0.0,0.0,0.0,0.0
+TX,Hays County,Austin-Round Rock,San Marcos,327.5,375.0,449.6666666666667,0.0,0.0
+TX,Hidalgo County,McAllen-Edinburg-Mission,Edinburg,0.0,375.0,518.75,0.0,0.0
+TX,Hidalgo County,McAllen-Edinburg-Mission,McAllen,229.16666666666666,285.0,433.3333333333333,0.0,0.0
+TX,Hidalgo County,McAllen-Edinburg-Mission,Mission,0.0,0.0,1200.0,0.0,0.0
+TX,Hidalgo County,McAllen-Edinburg-Mission,Pharr,0.0,375.0,475.0,0.0,0.0
+TX,Johnson County,Dallas-Fort Worth-Arlington,Burleson,0.0,0.0,1500.0,0.0,0.0
+TX,Kendall County,San Antonio-New Braunfels,Boerne,449.5,574.5,0.0,0.0,0.0
+TX,Lubbock County,Lubbock,Lubbock,149.375,194.375,312.5,375.0,0.0
+TX,McLennan County,Waco,Waco,186.5,212.25,300.0,437.5,0.0
+TX,Montgomery County,Houston-The Woodlands-Sugar Land,Conroe,331.6666666666667,428.3333333333333,541.6666666666666,0.0,0.0
+TX,Montgomery County,Houston-The Woodlands-Sugar Land,The Woodlands,486.0,0.0,764.0,833.3333333333334,0.0
+TX,Nueces County,Corpus Christi,Corpus Christi,291.6666666666667,358.3333333333333,503.3333333333333,0.0,0.0
+TX,Potter County,Amarillo,Amarillo,190.16666666666666,250.0,431.6666666666667,0.0,0.0
+TX,Rockwall County,Dallas-Fort Worth-Arlington,Rockwall,0.0,0.0,1925.0,0.0,0.0
+TX,Smith County,Tyler,Tyler,0.0,0.0,1250.0,0.0,0.0
+TX,Tarrant County,Dallas-Fort Worth-Arlington,Arlington,229.75,296.5,398.75,462.5,0.0
+TX,Tarrant County,Dallas-Fort Worth-Arlington,Bedford,446.0,0.0,875.0,0.0,0.0
+TX,Tarrant County,Dallas-Fort Worth-Arlington,Benbrook,0.0,0.0,1612.5,0.0,0.0
+TX,Tarrant County,Dallas-Fort Worth-Arlington,Crowley,0.0,0.0,1450.0,0.0,0.0
+TX,Tarrant County,Dallas-Fort Worth-Arlington,Euless,385.5,498.3333333333333,566.6666666666666,0.0,0.0
+TX,Tarrant County,Dallas-Fort Worth-Arlington,Fort Worth,252.0,308.0,310.0,359.0,439.0
+TX,Tarrant County,Dallas-Fort Worth-Arlington,Grapevine,475.0,666.3333333333334,716.6666666666666,0.0,0.0
+TX,Tarrant County,Dallas-Fort Worth-Arlington,Hurst,0.0,0.0,1799.0,0.0,0.0
+TX,Tarrant County,Dallas-Fort Worth-Arlington,Keller,0.0,0.0,1697.0,0.0,0.0
+TX,Tarrant County,Dallas-Fort Worth-Arlington,Mansfield,415.8333333333333,499.6666666666667,589.1666666666666,0.0,0.0
+TX,Tarrant County,Dallas-Fort Worth-Arlington,North Richland Hills,0.0,0.0,1575.0,0.0,0.0
+TX,Tarrant County,Dallas-Fort Worth-Arlington,Saginaw,0.0,0.0,1570.0,0.0,0.0
+TX,Tarrant County,Dallas-Fort Worth-Arlington,Watauga,0.0,0.0,1529.0,0.0,0.0
+TX,Taylor County,Abilene,Abilene,188.33333333333334,216.66666666666666,431.6666666666667,0.0,0.0
+TX,Travis County,Austin-Round Rock,Austin,268.0,320.0,379.0,480.0,859.0
+TX,Travis County,Austin-Round Rock,Bee Cave,657.75,877.25,0.0,0.0,0.0
+TX,Travis County,Austin-Round Rock,Pflugerville,276.0,350.0,436.875,487.5,0.0
+TX,Walker County,Huntsville,Huntsville,0.0,412.5,550.0,0.0,0.0
+TX,Webb County,Laredo,Laredo,425.0,427.5,0.0,0.0,0.0
+TX,Wichita County,Wichita Falls,Wichita Falls,190.0,233.33333333333334,299.6666666666667,0.0,0.0
+TX,Williamson County,Austin-Round Rock,Cedar Park,376.3333333333333,466.5,571.3333333333334,0.0,0.0
+TX,Williamson County,Austin-Round Rock,Georgetown,420.3333333333333,536.6666666666666,611.0,0.0,0.0
+TX,Williamson County,Austin-Round Rock,Hutto,535.0,697.5,0.0,0.0,0.0
+TX,Williamson County,Austin-Round Rock,Leander,639.5,829.5,0.0,0.0,0.0
+TX,Williamson County,Austin-Round Rock,Round Rock,358.3333333333333,453.0,527.5,0.0,0.0
+UT,Davis County,Ogden-Clearfield,North Salt Lake,0.0,1195.0,0.0,0.0,0.0
+UT,Salt Lake County,Salt Lake City,Cottonwood Heights,527.5,629.5,0.0,0.0,0.0
+UT,Salt Lake County,Salt Lake City,Draper,0.0,0.0,1777.0,0.0,0.0
+UT,Salt Lake County,Salt Lake City,Herriman,0.0,625.0,697.5,0.0,0.0
+UT,Salt Lake County,Salt Lake City,Midvale,336.3333333333333,405.6666666666667,533.0,0.0,0.0
+UT,Salt Lake County,Salt Lake City,Millcreek,892.0,0.0,0.0,0.0,0.0
+UT,Salt Lake County,Salt Lake City,Salt Lake City,431.6666666666667,0.0,587.5,633.3333333333334,0.0
+UT,Salt Lake County,Salt Lake City,Sandy,357.8333333333333,445.8333333333333,566.3333333333334,0.0,0.0
+UT,Salt Lake County,Salt Lake City,South Salt Lake,882.5,0.0,0.0,0.0,0.0
+UT,Salt Lake County,Salt Lake City,Taylorsville,899.0,0.0,0.0,0.0,0.0
+UT,Salt Lake County,Salt Lake City,West Jordan,0.0,636.5,775.0,0.0,0.0
+UT,Salt Lake County,Salt Lake City,West Valley City,310.8333333333333,379.3333333333333,516.6666666666666,0.0,0.0
+UT,Utah County,Provo-Orem,Lehi,0.0,0.0,798.75,966.25,0.0
+UT,Utah County,Provo-Orem,Orem,365.3333333333333,399.8333333333333,461.6666666666667,0.0,0.0
+UT,Utah County,Provo-Orem,Pleasant Grove,0.0,0.0,1350.0,0.0,0.0
+UT,Utah County,Provo-Orem,Provo,0.0,950.0,0.0,0.0,0.0
+UT,Utah County,Provo-Orem,Saratoga Springs,0.0,0.0,1579.0,0.0,0.0
+UT,Utah County,Provo-Orem,Springville,0.0,0.0,1249.0,0.0,0.0
+UT,Washington County,St. George,Saint George,0.0,550.0,687.5,0.0,0.0
+UT,Weber County,Ogden-Clearfield,Ogden,258.3333333333333,331.6666666666667,433.1666666666667,0.0,0.0
+VA,Albemarle County,Charlottesville,Charlottesville,408.3333333333333,466.6666666666667,566.6666666666666,0.0,0.0
+VA,Alexandria City,Washington-Arlington-Alexandria,Alexandria,601.0,733.3333333333334,785.3333333333334,0.0,0.0
+VA,Arlington County,Washington-Arlington-Alexandria,Arlington,536.75,687.5,850.0,950.0,0.0
+VA,Chesapeake City,Virginia Beach-Norfolk-Newport News,Chesapeake,284.75,337.25,375.0,487.5,0.0
+VA,Chesterfield County,Richmond,Bon Air,0.0,1200.0,0.0,0.0,0.0
+VA,Chesterfield County,Richmond,Chester,320.8333333333333,393.8333333333333,425.0,0.0,0.0
+VA,Chesterfield County,Richmond,Midlothian,0.0,648.75,771.25,0.0,0.0
+VA,Fairfax County,Washington-Arlington-Alexandria,Annandale,510.5,602.3333333333334,746.3333333333334,0.0,0.0
+VA,Fairfax County,Washington-Arlington-Alexandria,Burke,0.0,0.0,2200.0,0.0,0.0
+VA,Fairfax County,Washington-Arlington-Alexandria,Centreville,526.6666666666666,604.3333333333334,666.6666666666666,0.0,0.0
+VA,Fairfax County,Washington-Arlington-Alexandria,Fairfax,427.25,508.625,600.25,693.75,0.0
+VA,Fairfax County,Washington-Arlington-Alexandria,Falls Church,422.5,525.0,650.0,748.75,0.0
+VA,Fairfax County,Washington-Arlington-Alexandria,Groveton,828.0,1056.25,0.0,0.0,0.0
+VA,Fairfax County,Washington-Arlington-Alexandria,Herndon,424.875,495.375,549.5,648.75,0.0
+VA,Fairfax County,Washington-Arlington-Alexandria,Huntington,790.0,1018.0,0.0,0.0,0.0
+VA,Fairfax County,Washington-Arlington-Alexandria,Lincolnia,484.8333333333333,583.0,766.6666666666666,0.0,0.0
+VA,Fairfax County,Washington-Arlington-Alexandria,Lorton,0.0,0.0,2372.5,0.0,0.0
+VA,Fairfax County,Washington-Arlington-Alexandria,McLean,603.5,767.5,806.25,925.0,0.0
+VA,Fairfax County,Washington-Arlington-Alexandria,Mount Vernon,0.0,1650.0,0.0,0.0,0.0
+VA,Fairfax County,Washington-Arlington-Alexandria,Reston,665.0,850.0,900.0,0.0,0.0
+VA,Fairfax County,Washington-Arlington-Alexandria,Springfield,420.625,450.0,573.125,675.0,0.0
+VA,Fairfax County,Washington-Arlington-Alexandria,Vienna,473.75,581.5,687.5,862.5,0.0
+VA,Frederick County,Winchester,Winchester,0.0,487.5,700.0,0.0,0.0
+VA,Hampton City,Virginia Beach-Norfolk-Newport News,Hampton,241.75,267.25,312.5,373.75,0.0
+VA,Harrisonburg City,Harrisonburg,Harrisonburg,0.0,475.0,637.5,0.0,0.0
+VA,Henrico County,Richmond,Dumbarton,0.0,1070.0,0.0,0.0,0.0
+VA,Henrico County,Richmond,Glen Allen,354.6666666666667,469.5,550.0,0.0,0.0
+VA,Henrico County,Richmond,Henrico,294.25,331.25,375.0,425.0,0.0
+VA,Henrico County,Richmond,Tuckahoe,0.0,1331.0,0.0,0.0,0.0
+VA,Hopewell City,Richmond,Hopewell,0.0,362.5,506.25,0.0,0.0
+VA,James City County,Virginia Beach-Norfolk-Newport News,Williamsburg,0.0,498.3333333333333,536.3333333333334,745.8333333333334,0.0
+VA,Loudoun County,Washington-Arlington-Alexandria,Ashburn,405.0,465.0,572.5,693.75,0.0
+VA,Loudoun County,Washington-Arlington-Alexandria,Chantilly,0.0,0.0,2300.0,0.0,0.0
+VA,Loudoun County,Washington-Arlington-Alexandria,Leesburg,507.0,533.3333333333334,766.6666666666666,0.0,0.0
+VA,Loudoun County,Washington-Arlington-Alexandria,Sterling,525.0,599.8333333333334,733.3333333333334,0.0,0.0
+VA,Lynchburg City,Lynchburg,Lynchburg,231.66666666666666,241.66666666666666,331.6666666666667,0.0,0.0
+VA,Manassas Park City,Washington-Arlington-Alexandria,Manassas Park,710.25,850.0,0.0,0.0,0.0
+VA,Newport News City,Virginia Beach-Norfolk-Newport News,Newport News,235.0,249.875,317.5,398.75,0.0
+VA,Norfolk City,Virginia Beach-Norfolk-Newport News,Norfolk,296.0,250.0,347.5,375.0,0.0
+VA,Petersburg City,Richmond,Petersburg,298.3333333333333,333.0,365.0,0.0,0.0
+VA,Portsmouth City,Virginia Beach-Norfolk-Newport News,Portsmouth,366.3333333333333,308.3333333333333,408.3333333333333,0.0,0.0
+VA,Prince William County,Washington-Arlington-Alexandria,Dumfries,0.0,0.0,2000.0,0.0,0.0
+VA,Prince William County,Washington-Arlington-Alexandria,Manassas,467.0,584.8333333333334,616.6666666666666,0.0,0.0
+VA,Prince William County,Washington-Arlington-Alexandria,Woodbridge,368.25,395.375,449.5,514.0,0.0
+VA,Richmond City,Richmond,Richmond,393.0,433.3333333333333,500.0,0.0,0.0
+VA,Roanoke City,Roanoke,Roanoke,233.33333333333334,283.3333333333333,383.3333333333333,0.0,0.0
+VA,Spotsylvania County,Washington-Arlington-Alexandria,Fredericksburg,311.75,350.5,375.0,500.0,0.0
+VA,Stafford County,Washington-Arlington-Alexandria,Stafford,0.0,467.5,550.0,733.3333333333334,0.0
+VA,Suffolk City,Virginia Beach-Norfolk-Newport News,Suffolk,292.25,356.25,396.25,468.75,0.0
+VA,Virginia Beach City,Virginia Beach-Norfolk-Newport News,Virginia Beach,219.0,249.8,305.0,390.0,480.0
+VA,York County,Virginia Beach-Norfolk-Newport News,Yorktown,0.0,700.0,725.0,0.0,0.0
+VT,Chittenden County,Burlington-South Burlington,Burlington,450.0,533.3333333333334,660.0,0.0,0.0
+WA,Benton County,Kennewick-Richland,Kennewick,0.0,522.0,697.5,0.0,0.0
+WA,Benton County,Kennewick-Richland,Richland,0.0,583.0,725.0,0.0,0.0
+WA,Clark County,Portland-Vancouver-Hillsboro,Vancouver,316.25,337.5,430.75,500.0,0.0
+WA,Cowlitz County,Longview,Longview,0.0,900.0,0.0,0.0,0.0
+WA,Franklin County,Kennewick-Richland,Pasco,0.0,0.0,1460.0,0.0,0.0
+WA,Grant County,Moses Lake,Moses Lake,0.0,562.5,600.0,0.0,0.0
+WA,Island County,Oak Harbor,Oak Harbor,0.0,587.5,800.0,0.0,0.0
+WA,King County,Seattle-Tacoma-Bellevue,Auburn,418.1666666666667,523.8333333333334,608.3333333333334,0.0,0.0
+WA,King County,Seattle-Tacoma-Bellevue,Bellevue,410.0,499.2,560.0,649.5,792.0
+WA,King County,Seattle-Tacoma-Bellevue,Burien,695.0,782.5,0.0,0.0,0.0
+WA,King County,Seattle-Tacoma-Bellevue,Federal Way,426.3333333333333,516.6666666666666,613.6666666666666,0.0,0.0
+WA,King County,Seattle-Tacoma-Bellevue,Issaquah,595.0,727.6666666666666,866.6666666666666,0.0,0.0
+WA,King County,Seattle-Tacoma-Bellevue,Kent,361.25,412.5,525.0,577.5,0.0
+WA,King County,Seattle-Tacoma-Bellevue,Kirkland,531.25,545.75,650.0,762.5,0.0
+WA,King County,Seattle-Tacoma-Bellevue,Maple Valley,0.0,0.0,2257.0,0.0,0.0
+WA,King County,Seattle-Tacoma-Bellevue,Mercer Island,978.0,1267.5,0.0,0.0,0.0
+WA,King County,Seattle-Tacoma-Bellevue,Newcastle,1890.0,0.0,0.0,0.0,0.0
+WA,King County,Seattle-Tacoma-Bellevue,Redmond,506.25,660.75,706.875,800.0,0.0
+WA,King County,Seattle-Tacoma-Bellevue,Renton,366.25,438.125,537.5,674.375,0.0
+WA,King County,Seattle-Tacoma-Bellevue,Sammamish,440.0,499.375,625.0,800.0,0.0
+WA,King County,Seattle-Tacoma-Bellevue,Seattle,503.375,643.75,737.5,806.25,0.0
+WA,King County,Seattle-Tacoma-Bellevue,Shoreline,488.3333333333333,583.3333333333334,765.8333333333334,0.0,0.0
+WA,Kitsap County,Bremerton-Silverdale,Bremerton,395.0,491.6666666666667,592.3333333333334,0.0,0.0
+WA,Kitsap County,Bremerton-Silverdale,Port Orchard,0.0,692.5,900.0,0.0,0.0
+WA,Kitsap County,Bremerton-Silverdale,Silverdale,478.3333333333333,531.6666666666666,598.3333333333334,0.0,0.0
+WA,Pierce County,Seattle-Tacoma-Bellevue,Gig Harbor,0.0,853.5,1050.0,0.0,0.0
+WA,Pierce County,Seattle-Tacoma-Bellevue,Lakewood,0.0,794.0,905.0,0.0,0.0
+WA,Pierce County,Seattle-Tacoma-Bellevue,Parkland,0.0,1367.0,0.0,0.0,0.0
+WA,Pierce County,Seattle-Tacoma-Bellevue,Puyallup,413.0,483.3333333333333,619.0,0.0,0.0
+WA,Pierce County,Seattle-Tacoma-Bellevue,South Hill,0.0,0.0,947.5,1097.5,0.0
+WA,Pierce County,Seattle-Tacoma-Bellevue,Spanaway,0.0,0.0,1900.0,0.0,0.0
+WA,Pierce County,Seattle-Tacoma-Bellevue,Tacoma,310.875,355.0,460.625,531.25,0.0
+WA,Pierce County,Seattle-Tacoma-Bellevue,University Place,0.0,1370.0,0.0,0.0,0.0
+WA,Snohomish County,Seattle-Tacoma-Bellevue,Bothell,412.5,481.25,587.5,675.0,0.0
+WA,Snohomish County,Seattle-Tacoma-Bellevue,Edmonds,700.0,867.0,0.0,0.0,0.0
+WA,Snohomish County,Seattle-Tacoma-Bellevue,Everett,424.8333333333333,486.6666666666667,627.6666666666666,0.0,0.0
+WA,Snohomish County,Seattle-Tacoma-Bellevue,Lynnwood,456.3333333333333,565.0,727.3333333333334,0.0,0.0
+WA,Snohomish County,Seattle-Tacoma-Bellevue,Marysville,0.0,849.5,937.75,0.0,0.0
+WA,Snohomish County,Seattle-Tacoma-Bellevue,Mill Creek,750.0,943.75,0.0,0.0,0.0
+WA,Snohomish County,Seattle-Tacoma-Bellevue,Mukilteo,0.0,1735.5,0.0,0.0,0.0
+WA,Snohomish County,Seattle-Tacoma-Bellevue,Paine Field-Lake Stickney,438.6666666666667,513.0,608.8333333333334,0.0,0.0
+WA,Spokane County,Spokane-Spokane Valley,Spokane,191.25,262.5,333.625,373.75,0.0
+WA,Spokane County,Spokane-Spokane Valley,Spokane Valley,305.0,350.0,500.0,0.0,0.0
+WA,Thurston County,Olympia-Tumwater,Lacey,466.6666666666667,491.6666666666667,583.3333333333334,0.0,0.0
+WA,Thurston County,Olympia-Tumwater,Olympia,428.3333333333333,483.3333333333333,632.5,0.0,0.0
+WA,Thurston County,Olympia-Tumwater,Tumwater,0.0,1501.0,0.0,0.0,0.0
+WA,Whatcom County,Bellingham,Bellingham,366.6666666666667,483.3333333333333,624.1666666666666,0.0,0.0
+WA,Yakima County,Yakima,Yakima,212.5,291.6666666666667,491.6666666666667,0.0,0.0
+WI,Brown County,Green Bay,Green Bay,0.0,775.0,0.0,0.0,0.0
+WI,Dane County,Madison,Fitchburg,0.0,999.0,0.0,0.0,0.0
+WI,Dane County,Madison,Madison,250.625,312.5,415.0,543.75,0.0
+WI,Dane County,Madison,Sun Prairie,1250.0,0.0,0.0,0.0,0.0
+WI,Dunn County,Menomonie,Menomonie,271.25,325.0,0.0,0.0,0.0
+WI,Eau Claire County,Eau Claire,Eau Claire,0.0,795.0,0.0,0.0,0.0
+WI,Kenosha County,Chicago-Naperville-Elgin,Kenosha,0.0,0.0,1250.0,0.0,0.0
+WI,La Crosse County,La Crosse-Onalaska,La Crosse,0.0,825.0,0.0,0.0,0.0
+WI,Milwaukee County,Milwaukee-Waukesha-West Allis,Milwaukee,198.2,200.0,210.0,195.0,200.0
+WI,Milwaukee County,Milwaukee-Waukesha-West Allis,Oak Creek,0.0,1345.0,0.0,0.0,0.0
+WI,Milwaukee County,Milwaukee-Waukesha-West Allis,Wauwatosa,1362.0,0.0,0.0,0.0,0.0
+WI,Racine County,Racine,Racine,0.0,785.0,0.0,0.0,0.0
+WI,Waukesha County,Milwaukee-Waukesha-West Allis,Brookfield,697.5,894.5,0.0,0.0,0.0
+WI,Winnebago County,Oshkosh-Neenah,Oshkosh,0.0,362.5,450.0,0.0,0.0
+WV,Berkeley County,Hagerstown-Martinsburg,Martinsburg,0.0,0.0,1243.5,0.0,0.0
+WV,Cabell County,Huntington-Ashland,Huntington,200.0,231.66666666666666,291.6666666666667,0.0,0.0
+WV,Kanawha County,Charleston,Charleston,311.25,392.5,0.0,0.0,0.0
+WV,Monongalia County,Morgantown,Morgantown,216.66666666666666,295.8333333333333,433.3333333333333,0.0,0.0
+WV,Ohio County,Wheeling,Wheeling,0.0,797.5,0.0,0.0,0.0
+WY,Albany County,Laramie,Laramie,0.0,392.5,499.5,0.0,0.0
+WY,Laramie County,Cheyenne,Cheyenne,340.0,425.0,0.0,0.0,0.0
