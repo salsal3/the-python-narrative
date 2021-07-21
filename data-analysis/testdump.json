@@ -92,11 +92,11 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/pl1-1",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
             "low": 6.75,
-            "mid": 7.97,
+            "mid": 7.95,
             "high": 10.99,
             "market": 7.36,
             "directLow": null
@@ -183,14 +183,14 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/det1-1",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
             "low": 0.1,
             "mid": 0.42,
             "high": 4.99,
-            "market": 0.34,
-            "directLow": 0.42
+            "market": 0.33,
+            "directLow": 0.23
           }
         }
       }
@@ -255,11 +255,11 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/mcd19-1",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
             "low": 11.76,
-            "mid": 12.99,
+            "mid": 12.87,
             "high": 13.97,
             "market": 8.41,
             "directLow": null
@@ -338,13 +338,13 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/dv1-1",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
             "low": 0.45,
             "mid": 1.29,
             "high": 20.0,
-            "market": 1.2,
+            "market": 1.28,
             "directLow": null
           }
         }
@@ -420,18 +420,18 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/xy5-1",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
             "low": 0.04,
-            "mid": 0.25,
+            "mid": 0.24,
             "high": 1.0,
             "market": 0.11,
             "directLow": 0.16
           },
           "reverseHolofoil": {
             "low": 0.15,
-            "mid": 0.33,
+            "mid": 0.32,
             "high": 1.95,
             "market": 0.28,
             "directLow": 0.21
@@ -512,7 +512,7 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/ex7-1",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
             "low": 3.91,
@@ -608,11 +608,11 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/ecard2-H1",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
-            "low": 89.98,
-            "mid": 120.0,
+            "low": 69.97,
+            "mid": 89.98,
             "high": 152.99,
             "market": 140.93,
             "directLow": null
@@ -700,18 +700,18 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/ex3-1",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
             "low": 22.98,
-            "mid": 35.49,
+            "mid": 34.49,
             "high": 55.99,
             "market": 47.39,
             "directLow": null
           },
           "reverseHolofoil": {
             "low": 23.85,
-            "mid": 24.83,
+            "mid": 24.44,
             "high": 39.49,
             "market": 24.96,
             "directLow": null
@@ -808,18 +808,18 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/hgss4-1",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
-            "low": 2.38,
-            "mid": 3.18,
+            "low": 2.15,
+            "mid": 3.0,
             "high": 4.99,
             "market": 3.56,
             "directLow": null
           },
           "reverseHolofoil": {
             "low": 2.39,
-            "mid": 3.93,
+            "mid": 4.2,
             "high": 168.9,
             "market": 1.99,
             "directLow": 3.07
@@ -912,11 +912,11 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/ex12-1",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
             "low": 10.0,
-            "mid": 12.49,
+            "mid": 12.1,
             "high": 21.29,
             "market": 16.09,
             "directLow": null
@@ -1009,13 +1009,13 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/base4-1",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
-            "low": 11.99,
-            "mid": 18.41,
+            "low": 9.19,
+            "mid": 16.32,
             "high": 159.99,
-            "market": 30.77,
+            "market": 30.84,
             "directLow": null
           }
         }
@@ -1103,19 +1103,19 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/pl3-1",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
-            "low": 5.24,
-            "mid": 5.37,
+            "low": 6.0,
+            "mid": 8.64,
             "high": 11.28,
             "market": 4.92,
             "directLow": null
           },
           "reverseHolofoil": {
-            "low": 2.48,
-            "mid": 2.87,
-            "high": 3.99,
+            "low": 2.75,
+            "mid": 3.0,
+            "high": 4.97,
             "market": 3.75,
             "directLow": null
           }
@@ -1191,13 +1191,13 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/ru1-1",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
-            "low": 43.99,
-            "mid": 44.0,
+            "low": 39.99,
+            "mid": 43.99,
             "high": 55.0,
-            "market": 39.0,
+            "market": 55.0,
             "directLow": null
           }
         }
@@ -1283,7 +1283,7 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/hgss1-1",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
             "low": 21.71,
@@ -1293,9 +1293,9 @@
             "directLow": null
           },
           "reverseHolofoil": {
-            "low": 40.0,
-            "mid": 49.35,
-            "high": 59.36,
+            "low": 39.22,
+            "mid": 53.76,
+            "high": 59.22,
             "market": 11.9,
             "directLow": null
           }
@@ -1386,21 +1386,21 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/dp3-1",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
             "low": 6.99,
-            "mid": 7.7,
+            "mid": 7.63,
             "high": 12.0,
             "market": 11.67,
             "directLow": null
           },
           "reverseHolofoil": {
             "low": 2.8,
-            "mid": 8.76,
+            "mid": 6.38,
             "high": 9.75,
             "market": 7.99,
-            "directLow": 2.54
+            "directLow": 2.49
           }
         }
       }
@@ -1479,7 +1479,7 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/ex11-1",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
             "low": 8.89,
@@ -1569,18 +1569,18 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/gym1-1",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
-            "low": 37.71,
+            "low": 34.7,
             "mid": 70.0,
             "high": 279.0,
             "market": 74.53,
             "directLow": null
           },
           "1stEditionHolofoil": {
-            "low": 239.99,
-            "mid": 249.96,
+            "low": 239.97,
+            "mid": 249.9,
             "high": 400.99,
             "market": 75.74,
             "directLow": null
@@ -1671,18 +1671,18 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/base3-1",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
             "low": 9.85,
             "mid": 14.99,
             "high": 100.0,
-            "market": 24.43,
-            "directLow": 10.14
+            "market": 24.77,
+            "directLow": 14.99
           },
           "1stEditionHolofoil": {
-            "low": 38.98,
-            "mid": 70.0,
+            "low": 38.99,
+            "mid": 70.49,
             "high": 140.0,
             "market": 89.99,
             "directLow": null
@@ -1793,14 +1793,14 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/sm9-1",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
-            "low": 3.5,
-            "mid": 6.0,
+            "low": 4.0,
+            "mid": 6.07,
             "high": 9.99,
-            "market": 5.13,
-            "directLow": 8.99
+            "market": 5.02,
+            "directLow": 7.18
           }
         }
       }
@@ -1882,7 +1882,7 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/xy2-1",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
             "low": 0.08,
@@ -1893,7 +1893,7 @@
           },
           "reverseHolofoil": {
             "low": 0.19,
-            "mid": 0.4,
+            "mid": 0.44,
             "high": 1.95,
             "market": 0.27,
             "directLow": 0.25
@@ -1984,11 +1984,11 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/pop6-1",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
             "low": 1.0,
-            "mid": 1.18,
+            "mid": 1.34,
             "high": 3.5,
             "market": 1.38,
             "directLow": null
@@ -2075,18 +2075,18 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/hgss4-2",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
-            "low": 1.25,
-            "mid": 2.4,
+            "low": 2.0,
+            "mid": 2.49,
             "high": 4.01,
             "market": 1.76,
             "directLow": 2.23
           },
           "reverseHolofoil": {
-            "low": 0.91,
-            "mid": 2.79,
+            "low": 0.9,
+            "mid": 1.95,
             "high": 2.99,
             "market": 0.96,
             "directLow": null
@@ -2170,7 +2170,7 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/ecard2-H2",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
             "low": 142.46,
@@ -2262,7 +2262,7 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/xy2-2",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
             "low": 0.1,
@@ -2272,11 +2272,11 @@
             "directLow": null
           },
           "reverseHolofoil": {
-            "low": 0.19,
-            "mid": 0.46,
+            "low": 0.25,
+            "mid": 0.49,
             "high": 1.95,
             "market": 0.48,
-            "directLow": 0.19
+            "directLow": 0.34
           }
         }
       }
@@ -2368,13 +2368,13 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/pl1-2",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
             "low": 6.9,
             "mid": 10.0,
-            "high": 21.29,
-            "market": 18.09,
+            "high": 19.61,
+            "market": 17.87,
             "directLow": null
           },
           "reverseHolofoil": {
@@ -2465,10 +2465,10 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/base4-2",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
-            "low": 50.0,
+            "low": 51.99,
             "mid": 87.01,
             "high": 199.99,
             "market": 117.16,
@@ -2554,7 +2554,7 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/dp3-2",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
             "low": 16.5,
@@ -2565,7 +2565,7 @@
           },
           "reverseHolofoil": {
             "low": 14.58,
-            "mid": 25.38,
+            "mid": 22.04,
             "high": 47.66,
             "market": 19.81,
             "directLow": null
@@ -2654,18 +2654,18 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/base3-2",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
-            "low": 16.95,
-            "mid": 32.99,
+            "low": 17.0,
+            "mid": 32.95,
             "high": 58.45,
             "market": 39.97,
             "directLow": 14.99
           },
           "1stEditionHolofoil": {
             "low": 69.99,
-            "mid": 120.0,
+            "mid": 122.5,
             "high": 210.48,
             "market": 183.63,
             "directLow": null
@@ -2748,13 +2748,13 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/pl3-2",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
             "low": 5.99,
-            "mid": 7.75,
+            "mid": 7.38,
             "high": 13.81,
-            "market": 9.86,
+            "market": 9.87,
             "directLow": null
           },
           "reverseHolofoil": {
@@ -2843,13 +2843,13 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/pop6-2",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
             "low": 1.99,
-            "mid": 2.64,
+            "mid": 2.62,
             "high": 3.0,
-            "market": 2.64,
+            "market": 2.62,
             "directLow": null
           }
         }
@@ -2940,18 +2940,18 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/ex3-2",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
             "low": 15.99,
-            "mid": 19.94,
+            "mid": 18.46,
             "high": 25.0,
             "market": 20.66,
             "directLow": null
           },
           "reverseHolofoil": {
-            "low": 15.73,
-            "mid": 18.74,
+            "low": 15.99,
+            "mid": 19.32,
             "high": 23.36,
             "market": 14.95,
             "directLow": null
@@ -3036,18 +3036,18 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/ex11-2",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
             "low": 3.58,
-            "mid": 6.71,
+            "mid": 6.5,
             "high": 9.99,
             "market": 7.8,
             "directLow": null
           },
           "reverseHolofoil": {
             "low": 9.42,
-            "mid": 12.23,
+            "mid": 9.5,
             "high": 15.99,
             "market": 11.82,
             "directLow": null
@@ -3142,14 +3142,14 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/gym1-2",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
-            "low": 8.45,
-            "mid": 15.0,
+            "low": 9.0,
+            "mid": 15.5,
             "high": 1009.0,
             "market": 19.47,
-            "directLow": 7.92
+            "directLow": 6.99
           },
           "1stEditionHolofoil": {
             "low": 69.75,
@@ -3242,7 +3242,7 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/sm9-2",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
             "low": 0.04,
@@ -3252,7 +3252,7 @@
             "directLow": 0.11
           },
           "reverseHolofoil": {
-            "low": 0.19,
+            "low": 0.18,
             "mid": 0.36,
             "high": 1.13,
             "market": 0.31,
@@ -3321,11 +3321,11 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/mcd19-2",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
-            "low": 2.75,
-            "mid": 3.31,
+            "low": 1.99,
+            "mid": 3.13,
             "high": 5.2,
             "market": 3.08,
             "directLow": null
@@ -3404,7 +3404,7 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/ru1-2",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
             "low": 9.49,
@@ -3495,18 +3495,18 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/hgss1-2",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
             "low": 2.12,
             "mid": 5.95,
             "high": 9.49,
-            "market": 4.42,
+            "market": 5.99,
             "directLow": null
           },
           "reverseHolofoil": {
             "low": 3.38,
-            "mid": 6.42,
+            "mid": 6.84,
             "high": 10.98,
             "market": 1.46,
             "directLow": 5.99
@@ -3587,14 +3587,14 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/xy5-2",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
             "low": 0.06,
             "mid": 0.25,
             "high": 1.0,
             "market": 0.16,
-            "directLow": 0.1
+            "directLow": 0.13
           },
           "reverseHolofoil": {
             "low": 0.04,
@@ -3695,13 +3695,13 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/ex7-2",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
             "low": 24.99,
-            "mid": 45.99,
+            "mid": 42.0,
             "high": 100.0,
-            "market": 50.99,
+            "market": 51.49,
             "directLow": null
           },
           "reverseHolofoil": {
@@ -3795,14 +3795,14 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/det1-2",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
             "low": 0.25,
             "mid": 0.75,
             "high": 4.95,
-            "market": 0.83,
-            "directLow": 0.45
+            "market": 0.79,
+            "directLow": 1.8
           }
         }
       }
@@ -3895,18 +3895,18 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/ex12-2",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
             "low": 5.2,
-            "mid": 11.75,
+            "mid": 11.63,
             "high": 17.0,
             "market": 16.76,
             "directLow": null
           },
           "reverseHolofoil": {
             "low": 12.99,
-            "mid": 13.89,
+            "mid": 14.09,
             "high": 20.73,
             "market": 16.42,
             "directLow": 11.49
@@ -3998,18 +3998,18 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/xy11-1",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
             "low": 0.03,
-            "mid": 0.22,
+            "mid": 0.21,
             "high": 1.0,
             "market": 0.09,
-            "directLow": 0.09
+            "directLow": 0.03
           },
           "reverseHolofoil": {
             "low": 0.05,
-            "mid": 0.28,
+            "mid": 0.29,
             "high": 1.13,
             "market": 0.22,
             "directLow": 0.25
@@ -4117,14 +4117,14 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/sm12-1",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
-            "low": 1.99,
-            "mid": 3.99,
+            "low": 2.2,
+            "mid": 3.88,
             "high": 9.99,
-            "market": 3.41,
-            "directLow": 3.34
+            "market": 3.46,
+            "directLow": 3.23
           }
         }
       }
@@ -4208,18 +4208,18 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/ex14-1",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
             "low": 1.88,
-            "mid": 2.5,
+            "mid": 2.47,
             "high": 11.69,
             "market": 2.46,
             "directLow": 1.88
           },
           "reverseHolofoil": {
             "low": 3.22,
-            "mid": 4.87,
+            "mid": 4.44,
             "high": 8.99,
             "market": 4.16,
             "directLow": 6.05
@@ -4315,14 +4315,14 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/swsh35-1",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
             "low": 1.15,
-            "mid": 2.44,
+            "mid": 2.5,
             "high": 19.95,
-            "market": 2.25,
-            "directLow": 3.14
+            "market": 2.46,
+            "directLow": 3.32
           }
         }
       }
@@ -4397,7 +4397,7 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/bw10-1",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
             "low": 0.09,
@@ -4500,18 +4500,18 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/dp1-1",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
-            "low": 5.46,
-            "mid": 10.42,
-            "high": 15.0,
-            "market": 10.82,
+            "low": 5.47,
+            "mid": 10.38,
+            "high": 14.95,
+            "market": 10.62,
             "directLow": null
           },
           "reverseHolofoil": {
             "low": 3.37,
-            "mid": 4.93,
+            "mid": 4.86,
             "high": 7.0,
             "market": 1.19,
             "directLow": null
@@ -4591,7 +4591,7 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/sm115-1",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
             "low": 0.02,
@@ -4694,19 +4694,19 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/ex9-1",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
             "low": 10.0,
-            "mid": 15.0,
+            "mid": 16.5,
             "high": 20.18,
-            "market": 15.17,
+            "market": 15.11,
             "directLow": null
           },
           "reverseHolofoil": {
             "low": 29.91,
-            "mid": 65.0,
-            "high": 95.0,
+            "mid": 89.99,
+            "high": 100.0,
             "market": 69.0,
             "directLow": 29.91
           }
@@ -4796,18 +4796,18 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/pop7-1",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
             "low": 1.29,
-            "mid": 5.25,
+            "mid": 6.0,
             "high": 8.69,
             "market": 2.99,
             "directLow": null
           },
           "holofoil": {
             "low": 1.38,
-            "mid": 7.0,
+            "mid": 6.82,
             "high": 10.99,
             "market": 6.89,
             "directLow": null
@@ -4897,14 +4897,14 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/gym2-1",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
-            "low": 26.89,
-            "mid": 54.84,
+            "low": 29.0,
+            "mid": 52.74,
             "high": 95.0,
-            "market": 66.33,
-            "directLow": 84.49
+            "market": 68.11,
+            "directLow": null
           },
           "1stEditionHolofoil": {
             "low": 239.95,
@@ -4986,20 +4986,20 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/xy7-1",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
             "low": 0.05,
             "mid": 0.25,
             "high": 1.0,
-            "market": 0.18,
+            "market": 0.17,
             "directLow": 0.2
           },
           "reverseHolofoil": {
             "low": 0.18,
             "mid": 0.43,
-            "high": 1.25,
-            "market": 0.43,
+            "high": 1.5,
+            "market": 0.42,
             "directLow": 0.32
           }
         }
@@ -5091,18 +5091,18 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/bw1-1",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
             "low": 0.15,
-            "mid": 0.25,
+            "mid": 0.26,
             "high": 1.0,
             "market": 0.24,
             "directLow": 0.2
           },
           "reverseHolofoil": {
             "low": 0.25,
-            "mid": 0.49,
+            "mid": 0.47,
             "high": 1.0,
             "market": 0.82,
             "directLow": null
@@ -5193,11 +5193,11 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/ex13-1",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
             "low": 8.0,
-            "mid": 9.74,
+            "mid": 9.49,
             "high": 15.97,
             "market": 8.98,
             "directLow": null
@@ -5282,7 +5282,7 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/sm3-1",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
             "low": 0.05,
@@ -5296,7 +5296,7 @@
             "mid": 0.31,
             "high": 1.13,
             "market": 0.28,
-            "directLow": 0.21
+            "directLow": 0.25
           }
         }
       }
@@ -5381,21 +5381,21 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/sm1-1",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
             "low": 0.03,
-            "mid": 0.18,
+            "mid": 0.17,
             "high": 1.0,
             "market": 0.08,
             "directLow": 0.1
           },
           "reverseHolofoil": {
             "low": 0.1,
-            "mid": 0.31,
+            "mid": 0.32,
             "high": 1.95,
             "market": 0.22,
-            "directLow": 0.16
+            "directLow": 0.1
           }
         }
       }
@@ -5477,18 +5477,18 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/col1-1",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
             "low": 1.0,
-            "mid": 1.77,
+            "mid": 1.75,
             "high": 2.53,
             "market": 1.78,
             "directLow": 1.75
           },
           "reverseHolofoil": {
             "low": 0.61,
-            "mid": 1.37,
+            "mid": 1.07,
             "high": 2.99,
             "market": 1.35,
             "directLow": null
@@ -5555,7 +5555,7 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/si1-1",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "reverseHolofoil": {
             "low": 66.5,
@@ -5646,11 +5646,11 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/dv1-2",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
-            "low": 1.74,
-            "mid": 5.22,
+            "low": 1.83,
+            "mid": 5.44,
             "high": 24.95,
             "market": 5.22,
             "directLow": null
@@ -5723,11 +5723,11 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/ru1-3",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
             "low": 40.0,
-            "mid": 44.99,
+            "mid": 42.5,
             "high": 55.0,
             "market": 18.0,
             "directLow": null
@@ -5812,7 +5812,7 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/bw10-2",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
             "low": 0.2,
@@ -5924,19 +5924,19 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/ex7-3",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
             "low": 9.0,
-            "mid": 18.17,
+            "mid": 17.37,
             "high": 37.49,
-            "market": 11.09,
+            "market": 10.91,
             "directLow": null
           },
           "reverseHolofoil": {
             "low": 24.99,
-            "mid": 45.0,
-            "high": 50.0,
+            "mid": 24.99,
+            "high": 45.0,
             "market": 8.15,
             "directLow": null
           }
@@ -6024,12 +6024,12 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/pl3-3",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
             "low": 4.99,
             "mid": 7.01,
-            "high": 7.5,
+            "high": 8.0,
             "market": 3.34,
             "directLow": null
           },
@@ -6120,13 +6120,13 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/hgss1-3",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
             "low": 1.49,
             "mid": 2.1,
             "high": 5.0,
-            "market": 3.47,
+            "market": 3.86,
             "directLow": 4.47
           },
           "reverseHolofoil": {
@@ -6208,11 +6208,11 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/ecard2-H3",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
             "low": 44.99,
-            "mid": 72.46,
+            "mid": 80.73,
             "high": 99.97,
             "market": 59.64,
             "directLow": null
@@ -6305,21 +6305,21 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/xy2-3",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
             "low": 0.22,
-            "mid": 0.39,
+            "mid": 0.4,
             "high": 1.01,
             "market": 0.31,
             "directLow": 0.39
           },
           "reverseHolofoil": {
-            "low": 0.5,
-            "mid": 0.93,
+            "low": 0.67,
+            "mid": 0.85,
             "high": 2.49,
             "market": 0.85,
-            "directLow": 0.68
+            "directLow": 0.67
           }
         }
       }
@@ -6406,21 +6406,21 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/ex13-2",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
             "low": 6.49,
-            "mid": 8.48,
+            "mid": 8.87,
             "high": 19.97,
             "market": 9.56,
             "directLow": null
           },
           "reverseHolofoil": {
-            "low": 9.95,
-            "mid": 14.99,
-            "high": 20943.56,
+            "low": 9.0,
+            "mid": 9.95,
+            "high": 36630.4,
             "market": 9.39,
-            "directLow": null
+            "directLow": 9.0
           }
         }
       }
@@ -6499,21 +6499,21 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/xy5-3",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
             "low": 0.25,
-            "mid": 0.4,
+            "mid": 0.41,
             "high": 1.13,
-            "market": 0.36,
+            "market": 0.37,
             "directLow": 0.26
           },
           "reverseHolofoil": {
-            "low": 0.31,
-            "mid": 0.54,
+            "low": 0.33,
+            "mid": 0.53,
             "high": 1.95,
             "market": 0.56,
-            "directLow": 0.31
+            "directLow": 0.34
           }
         }
       }
@@ -6593,7 +6593,7 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/pop6-3",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
             "low": 0.35,
@@ -6604,7 +6604,7 @@
           },
           "holofoil": {
             "low": 0.49,
-            "mid": 3.91,
+            "mid": 2.81,
             "high": 34.99,
             "market": 1.95,
             "directLow": null
@@ -6680,18 +6680,18 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/base3-3",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
-            "low": 10.5,
-            "mid": 20.0,
+            "low": 6.5,
+            "mid": 16.75,
             "high": 70.0,
-            "market": 23.88,
-            "directLow": 9.65
+            "market": 24.01,
+            "directLow": 14.69
           },
           "1stEditionHolofoil": {
-            "low": 34.98,
-            "mid": 69.94,
+            "low": 34.99,
+            "mid": 70.0,
             "high": 109.99,
             "market": 79.98,
             "directLow": 25.38
@@ -6787,14 +6787,14 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/base4-3",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
-            "low": 5.0,
-            "mid": 11.0,
+            "low": 4.41,
+            "mid": 10.82,
             "high": 28.23,
-            "market": 11.59,
-            "directLow": 6.03
+            "market": 11.39,
+            "directLow": 4.99
           }
         }
       }
@@ -6887,18 +6887,18 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/ex12-3",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
             "low": 2.65,
-            "mid": 3.99,
-            "high": 13.47,
+            "mid": 4.98,
+            "high": 14.14,
             "market": 3.4,
-            "directLow": null
+            "directLow": 13.47
           },
           "reverseHolofoil": {
-            "low": 5.75,
-            "mid": 8.04,
+            "low": 5.9,
+            "mid": 8.12,
             "high": 10.09,
             "market": 5.4,
             "directLow": null
@@ -6985,14 +6985,14 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/si1-2",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
             "low": 10.83,
-            "mid": 17.88,
+            "mid": 16.81,
             "high": 39.99,
-            "market": 24.06,
-            "directLow": 8.84
+            "market": 25.4,
+            "directLow": 7.59
           }
         }
       }
@@ -7072,7 +7072,7 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/hgss4-3",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
             "low": 3.0,
@@ -7163,19 +7163,19 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/ex9-2",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
-            "low": 10.0,
-            "mid": 15.49,
+            "low": 12.05,
+            "mid": 15.98,
             "high": 37.0,
             "market": 12.0,
             "directLow": null
           },
           "reverseHolofoil": {
             "low": 15.0,
-            "mid": 20.52,
-            "high": 52.99,
+            "mid": 20.26,
+            "high": 58.42,
             "market": 22.93,
             "directLow": null
           }
@@ -7254,13 +7254,13 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/swsh35-2",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
             "low": 0.01,
             "mid": 0.15,
             "high": 1.0,
-            "market": 0.1,
+            "market": 0.11,
             "directLow": 0.08
           },
           "reverseHolofoil": {
@@ -7268,7 +7268,7 @@
             "mid": 0.25,
             "high": 1.19,
             "market": 0.22,
-            "directLow": 0.14
+            "directLow": 0.22
           }
         }
       }
@@ -7358,18 +7358,18 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/xy11-2",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
             "low": 0.04,
             "mid": 0.23,
             "high": 0.84,
             "market": 0.11,
-            "directLow": 0.14
+            "directLow": 0.04
           },
           "reverseHolofoil": {
-            "low": 0.2,
-            "mid": 0.35,
+            "low": 0.19,
+            "mid": 0.34,
             "high": 1.03,
             "market": 0.32,
             "directLow": 0.34
@@ -7477,7 +7477,7 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/ex11-3",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
             "low": 54.0,
@@ -7580,18 +7580,18 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/gym2-2",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
-            "low": 200.0,
-            "mid": 278.99,
+            "low": 245.54,
+            "mid": 289.99,
             "high": 499.99,
-            "market": 345.4,
-            "directLow": 201.75
+            "market": 360.89,
+            "directLow": 245.54
           },
           "1stEditionHolofoil": {
-            "low": 600.0,
-            "mid": 1028.51,
+            "low": 999.99,
+            "mid": 1057.03,
             "high": 1425.0,
             "market": 1363.57,
             "directLow": null
@@ -7676,7 +7676,7 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/bw1-2",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
             "low": 0.14,
@@ -7687,10 +7687,10 @@
           },
           "reverseHolofoil": {
             "low": 0.25,
-            "mid": 0.49,
+            "mid": 0.46,
             "high": 1.12,
             "market": 0.54,
-            "directLow": 0.39
+            "directLow": 0.4
           }
         }
       }
@@ -7768,7 +7768,7 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/xy7-2",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
             "low": 0.05,
@@ -7779,7 +7779,7 @@
           },
           "reverseHolofoil": {
             "low": 0.1,
-            "mid": 0.44,
+            "mid": 0.48,
             "high": 1.95,
             "market": 0.35,
             "directLow": 0.23
@@ -7859,18 +7859,18 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/sm12-2",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
             "low": 0.05,
-            "mid": 0.21,
+            "mid": 0.2,
             "high": 1.0,
-            "market": 0.15,
-            "directLow": 0.15
+            "market": 0.14,
+            "directLow": 0.14
           },
           "reverseHolofoil": {
             "low": 0.09,
-            "mid": 0.42,
+            "mid": 0.38,
             "high": 0.99,
             "market": 0.48,
             "directLow": 0.99
@@ -7945,11 +7945,11 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/col1-2",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
             "low": 5.0,
-            "mid": 7.72,
+            "mid": 7.18,
             "high": 11.99,
             "market": 6.72,
             "directLow": 2.65
@@ -8036,7 +8036,7 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/mcd19-3",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
             "low": 1.99,
@@ -8120,7 +8120,7 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/sm9-3",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
             "low": 0.05,
@@ -8130,7 +8130,7 @@
             "directLow": 0.11
           },
           "reverseHolofoil": {
-            "low": 0.15,
+            "low": 0.1,
             "mid": 0.35,
             "high": 3.0,
             "market": 0.25,
@@ -8211,13 +8211,13 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/det1-3",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
-            "low": 0.05,
-            "mid": 0.25,
+            "low": 0.01,
+            "mid": 0.26,
             "high": 1.99,
-            "market": 0.25,
+            "market": 0.24,
             "directLow": 0.16
           }
         }
@@ -8302,7 +8302,7 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/pop7-2",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
             "low": 5.0,
@@ -8312,8 +8312,8 @@
             "directLow": null
           },
           "holofoil": {
-            "low": 8.0,
-            "mid": 11.5,
+            "low": 8.99,
+            "mid": 9.91,
             "high": 14.99,
             "market": 5.74,
             "directLow": null
@@ -8405,13 +8405,13 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/dv1-3",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
             "low": 0.99,
-            "mid": 1.69,
+            "mid": 1.72,
             "high": 50.0,
-            "market": 1.85,
+            "market": 1.95,
             "directLow": null
           }
         }
@@ -8492,7 +8492,7 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/ex3-3",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
             "low": 1.04,
@@ -8502,8 +8502,8 @@
             "directLow": 2.5
           },
           "reverseHolofoil": {
-            "low": 2.53,
-            "mid": 3.01,
+            "low": 2.38,
+            "mid": 2.99,
             "high": 8.99,
             "market": 2.96,
             "directLow": null
@@ -8596,18 +8596,18 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/pl1-3",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
             "low": 2.8,
-            "mid": 5.16,
+            "mid": 5.55,
             "high": 7.94,
             "market": 7.07,
-            "directLow": 4.53
+            "directLow": 5.31
           },
           "reverseHolofoil": {
             "low": 1.93,
-            "mid": 3.25,
+            "mid": 3.5,
             "high": 7.99,
             "market": 4.88,
             "directLow": 3.94
@@ -8699,18 +8699,18 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/sm1-2",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
             "low": 0.01,
             "mid": 0.2,
             "high": 2.97,
-            "market": 0.11,
-            "directLow": 0.07
+            "market": 0.12,
+            "directLow": 0.05
           },
           "reverseHolofoil": {
-            "low": 0.13,
-            "mid": 0.3,
+            "low": 0.12,
+            "mid": 0.31,
             "high": 9.95,
             "market": 0.23,
             "directLow": 0.15
@@ -8793,7 +8793,7 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/sm115-2",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
             "low": 0.01,
@@ -8803,10 +8803,10 @@
             "directLow": 0.08
           },
           "reverseHolofoil": {
-            "low": 0.07,
-            "mid": 0.36,
+            "low": 0.06,
+            "mid": 0.35,
             "high": 1.13,
-            "market": 0.32,
+            "market": 0.31,
             "directLow": 0.45
           }
         }
@@ -8896,14 +8896,14 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/gym1-3",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
             "low": 15.85,
-            "mid": 22.48,
+            "mid": 22.49,
             "high": 49.95,
             "market": 23.15,
-            "directLow": 10.95
+            "directLow": 10.94
           },
           "1stEditionHolofoil": {
             "low": 69.45,
@@ -9000,17 +9000,17 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/dp3-3",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
-            "low": 60.0,
-            "mid": 83.52,
+            "low": 60.6,
+            "mid": 120.0,
             "high": 189.95,
             "market": 131.3,
             "directLow": null
           },
           "reverseHolofoil": {
-            "low": 49.84,
+            "low": 49.81,
             "mid": 59.13,
             "high": 103.61,
             "market": 140.03,
@@ -9090,7 +9090,7 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/sm2-1",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
             "low": 0.01,
@@ -9101,10 +9101,10 @@
           },
           "reverseHolofoil": {
             "low": 0.09,
-            "mid": 0.3,
+            "mid": 0.31,
             "high": 1.13,
             "market": 0.24,
-            "directLow": 0.23
+            "directLow": 0.25
           }
         }
       }
@@ -9187,11 +9187,11 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/dp4-1",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
-            "low": 2.99,
-            "mid": 7.75,
+            "low": 3.01,
+            "mid": 7.63,
             "high": 20.0,
             "market": 7.33,
             "directLow": 3.01
@@ -9277,7 +9277,7 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/xy4-1",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
             "low": 0.1,
@@ -9291,7 +9291,7 @@
             "mid": 0.37,
             "high": 2.0,
             "market": 0.29,
-            "directLow": 0.26
+            "directLow": 0.3
           }
         }
       }
@@ -9382,7 +9382,7 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/bw7-1",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
             "low": 0.15,
@@ -9393,7 +9393,7 @@
           },
           "reverseHolofoil": {
             "low": 0.7,
-            "mid": 0.75,
+            "mid": 0.79,
             "high": 3.0,
             "market": 0.85,
             "directLow": null
@@ -9489,12 +9489,12 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/bw11-1",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
-            "low": 0.11,
+            "low": 0.1,
             "mid": 0.25,
-            "high": 0.69,
+            "high": 0.77,
             "market": 0.16,
             "directLow": null
           },
@@ -9502,8 +9502,8 @@
             "low": 0.25,
             "mid": 0.5,
             "high": 1.79,
-            "market": 0.44,
-            "directLow": null
+            "market": 0.42,
+            "directLow": 0.33
           }
         }
       }
@@ -9586,14 +9586,14 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/base1-1",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
             "low": 12.0,
             "mid": 33.0,
             "high": 250.0,
             "market": 33.15,
-            "directLow": 23.5
+            "directLow": 25.0
           }
         }
       }
@@ -9680,21 +9680,21 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/base5-1",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
             "low": 18.0,
-            "mid": 32.99,
+            "mid": 30.3,
             "high": 65.99,
-            "market": 33.84,
-            "directLow": 14.94
+            "market": 33.65,
+            "directLow": 16.99
           },
           "1stEditionHolofoil": {
             "low": 54.95,
-            "mid": 71.59,
+            "mid": 70.79,
             "high": 149.99,
             "market": 100.6,
-            "directLow": 99.94
+            "directLow": 78.98
           }
         }
       }
@@ -9776,11 +9776,11 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/pop5-1",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
             "low": 5.95,
-            "mid": 7.99,
+            "mid": 7.5,
             "high": 11.0,
             "market": 16.5,
             "directLow": null
@@ -9883,13 +9883,13 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/bw5-1",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
             "low": 0.75,
             "mid": 2.24,
-            "high": 3.8,
-            "market": 1.6,
+            "high": 3.69,
+            "market": 1.69,
             "directLow": 2.24
           },
           "reverseHolofoil": {
@@ -9980,7 +9980,7 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/pop3-1",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
             "low": 15.99,
@@ -10080,7 +10080,7 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/ex4-1",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
             "low": 9.68,
@@ -10179,7 +10179,7 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/bw4-1",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
             "low": 0.13,
@@ -10190,9 +10190,9 @@
           },
           "reverseHolofoil": {
             "low": 0.4,
-            "mid": 0.58,
+            "mid": 0.59,
             "high": 1.99,
-            "market": 0.75,
+            "market": 0.72,
             "directLow": 0.55
           }
         }
@@ -10268,7 +10268,7 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/bw9-1",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
             "low": 0.1,
@@ -10279,7 +10279,7 @@
           },
           "reverseHolofoil": {
             "low": 0.2,
-            "mid": 0.5,
+            "mid": 0.45,
             "high": 1.0,
             "market": 0.64,
             "directLow": 0.2
@@ -10376,7 +10376,7 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/ex8-1",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
             "low": 8.77,
@@ -10388,7 +10388,7 @@
           "reverseHolofoil": {
             "low": 12.0,
             "mid": 12.95,
-            "high": 21.29,
+            "high": 19.61,
             "market": 10.99,
             "directLow": null
           }
@@ -10465,18 +10465,18 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/sm5-1",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
             "low": 0.04,
-            "mid": 0.21,
+            "mid": 0.22,
             "high": 2.0,
             "market": 0.1,
-            "directLow": 0.1
+            "directLow": 0.04
           },
           "reverseHolofoil": {
             "low": 0.14,
-            "mid": 0.33,
+            "mid": 0.34,
             "high": 1.95,
             "market": 0.24,
             "directLow": 0.16
@@ -10561,7 +10561,7 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/xy10-1",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
             "low": 0.05,
@@ -10657,7 +10657,7 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/pop1-1",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
             "low": 3.5,
@@ -10668,9 +10668,9 @@
           },
           "holofoil": {
             "low": 4.4,
-            "mid": 6.5,
+            "mid": 6.56,
             "high": 12.94,
-            "market": 6.82,
+            "market": 7.21,
             "directLow": null
           }
         }
@@ -10748,20 +10748,20 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/hgss2-1",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
             "low": 9.75,
-            "mid": 12.24,
+            "mid": 12.37,
             "high": 26.97,
             "market": 16.58,
             "directLow": 13.18
           },
           "reverseHolofoil": {
-            "low": 4.0,
-            "mid": 10.15,
+            "low": 7.86,
+            "mid": 11.5,
             "high": 22.2,
-            "market": 4.44,
+            "market": 4.36,
             "directLow": 7.86
           }
         }
@@ -10849,7 +10849,7 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/dpp-DP01",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
             "low": 3.42,
@@ -10943,13 +10943,13 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/swsh1-1",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
             "low": 1.23,
-            "mid": 2.25,
+            "mid": 2.39,
             "high": 9.95,
-            "market": 1.99,
+            "market": 1.89,
             "directLow": 2.49
           }
         }
@@ -11033,13 +11033,13 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/base6-1",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
             "low": 20.89,
             "mid": 30.0,
             "high": 83.59,
-            "market": 62.25,
+            "market": 68.0,
             "directLow": null
           },
           "reverseHolofoil": {
@@ -11124,13 +11124,13 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/swsh4-1",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
             "low": 0.02,
             "mid": 0.15,
-            "high": 1.0,
-            "market": 0.07,
+            "high": 1000.08,
+            "market": 0.08,
             "directLow": 0.08
           },
           "reverseHolofoil": {
@@ -11216,7 +11216,7 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/pop4-1",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
             "low": 300.0,
@@ -11316,7 +11316,7 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/bw8-1",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
             "low": 0.08,
@@ -11414,14 +11414,14 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/basep-1",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
-            "low": 4.35,
-            "mid": 8.99,
+            "low": 4.24,
+            "mid": 8.32,
             "high": 360.74,
-            "market": 12.21,
-            "directLow": 2.96
+            "market": 11.24,
+            "directLow": 2.94
           }
         }
       }
@@ -11499,11 +11499,11 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/pop9-1",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
-            "low": 3.18,
-            "mid": 3.46,
+            "low": 3.24,
+            "mid": 3.57,
             "high": 4.78,
             "market": 4.94,
             "directLow": null
@@ -11588,13 +11588,13 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/neo4-1",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
             "low": 33.0,
             "mid": 50.55,
             "high": 80.98,
-            "market": 68.27,
+            "market": 67.72,
             "directLow": null
           },
           "1stEditionHolofoil": {
@@ -11690,18 +11690,18 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/sm8-1",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
             "low": 0.05,
-            "mid": 0.21,
+            "mid": 0.2,
             "high": 0.91,
             "market": 0.12,
             "directLow": 0.1
           },
           "reverseHolofoil": {
-            "low": 0.16,
-            "mid": 0.34,
+            "low": 0.15,
+            "mid": 0.35,
             "high": 3.0,
             "market": 0.24,
             "directLow": 0.2
@@ -11799,14 +11799,14 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/xy1-1",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
             "low": 1.0,
             "mid": 3.26,
             "high": 12.95,
             "market": 3.25,
-            "directLow": 4.49
+            "directLow": 2.99
           }
         }
       }
@@ -11903,18 +11903,18 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/pl4-1",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
             "low": 17.76,
-            "mid": 30.0,
+            "mid": 29.75,
             "high": 500.0,
             "market": 56.0,
             "directLow": null
           },
           "reverseHolofoil": {
             "low": 37.99,
-            "mid": 40.22,
+            "mid": 40.42,
             "high": 250.0,
             "market": 64.37,
             "directLow": null
@@ -12003,7 +12003,7 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/neo3-1",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
             "low": 19.5,
@@ -12107,10 +12107,10 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/base4-4",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
-            "low": 159.21,
+            "low": 156.2,
             "mid": 200.0,
             "high": 673.48,
             "market": 273.22,
@@ -12208,20 +12208,20 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/bw11-2",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
             "low": 0.13,
-            "mid": 0.37,
+            "mid": 0.35,
             "high": 1.49,
             "market": 0.37,
-            "directLow": 0.15
+            "directLow": 0.13
           },
           "reverseHolofoil": {
             "low": 0.3,
-            "mid": 0.53,
+            "mid": 0.52,
             "high": 1.99,
-            "market": 0.62,
+            "market": 0.58,
             "directLow": null
           }
         }
@@ -12303,13 +12303,13 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/dp3-4",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
             "low": 6.99,
             "mid": 9.01,
             "high": 18.99,
-            "market": 8.1,
+            "market": 7.94,
             "directLow": null
           },
           "reverseHolofoil": {
@@ -12317,7 +12317,7 @@
             "mid": 6.89,
             "high": 19.04,
             "market": 4.02,
-            "directLow": 4.18
+            "directLow": 4.46
           }
         }
       }
@@ -12393,11 +12393,11 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/pop4-2",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
             "low": 8.99,
-            "mid": 17.0,
+            "mid": 8.99,
             "high": 29.98,
             "market": 4.78,
             "directLow": null
@@ -12470,13 +12470,13 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/mcd19-4",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
             "low": 3.17,
-            "mid": 4.48,
+            "mid": 4.99,
             "high": 8.99,
-            "market": 3.82,
+            "market": 4.1,
             "directLow": null
           }
         }
@@ -12554,14 +12554,14 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/xy2-4",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
             "low": 0.07,
             "mid": 0.25,
             "high": 1.0,
             "market": 0.12,
-            "directLow": 0.15
+            "directLow": 0.07
           },
           "reverseHolofoil": {
             "low": 0.04,
@@ -12654,11 +12654,11 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/base6-2",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
             "low": 30.49,
-            "mid": 74.95,
+            "mid": 53.65,
             "high": 99.98,
             "market": 64.99,
             "directLow": null
@@ -12757,11 +12757,11 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/pl1-4",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
             "low": 1.99,
-            "mid": 3.55,
+            "mid": 3.52,
             "high": 5.95,
             "market": 2.31,
             "directLow": 5.95
@@ -12853,19 +12853,19 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/dp4-2",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
             "low": 1.45,
-            "mid": 2.65,
+            "mid": 2.33,
             "high": 5.71,
             "market": 3.79,
             "directLow": null
           },
           "reverseHolofoil": {
             "low": 2.39,
-            "mid": 3.0,
-            "high": 3.25,
+            "mid": 2.5,
+            "high": 3.0,
             "market": 4.99,
             "directLow": null
           }
@@ -12956,12 +12956,12 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/dp1-2",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
             "low": 3.29,
             "mid": 6.5,
-            "high": 8.98,
+            "high": 9.97,
             "market": 6.64,
             "directLow": null
           },
@@ -13056,7 +13056,7 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/bw8-2",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
             "low": 0.15,
@@ -13165,7 +13165,7 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/bw7-2",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
             "low": 0.13,
@@ -13175,9 +13175,9 @@
             "directLow": null
           },
           "reverseHolofoil": {
-            "low": 0.75,
-            "mid": 1.0,
-            "high": 1.79,
+            "low": 0.78,
+            "mid": 1.45,
+            "high": 1.99,
             "market": 0.78,
             "directLow": null
           }
@@ -13260,11 +13260,11 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/pop3-2",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
             "low": 0.98,
-            "mid": 1.39,
+            "mid": 1.89,
             "high": 2.79,
             "market": 18.54,
             "directLow": null
@@ -13273,7 +13273,7 @@
             "low": 4.99,
             "mid": 5.78,
             "high": 47.38,
-            "market": 28.89,
+            "market": 27.05,
             "directLow": 3.31
           }
         }
@@ -13355,18 +13355,18 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/pop5-2",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
             "low": 23.49,
-            "mid": 24.14,
+            "mid": 24.51,
             "high": 130.19,
             "market": 21.81,
             "directLow": null
           },
           "holofoil": {
-            "low": 43.96,
-            "mid": 63.75,
+            "low": 43.75,
+            "mid": 43.99,
             "high": 159.99,
             "market": 113.33,
             "directLow": null
@@ -13456,10 +13456,10 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/pop7-3",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
-            "low": 0.81,
+            "low": 0.97,
             "mid": 1.4,
             "high": 2.51,
             "market": 1.38,
@@ -13467,8 +13467,8 @@
           },
           "holofoil": {
             "low": 2.49,
-            "mid": 5.75,
-            "high": 28.1,
+            "mid": 5.38,
+            "high": 39.99,
             "market": 11.5,
             "directLow": null
           }
@@ -13550,7 +13550,7 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/swsh35-3",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
             "low": 0.01,
@@ -13561,7 +13561,7 @@
           },
           "reverseHolofoil": {
             "low": 0.1,
-            "mid": 0.28,
+            "mid": 0.29,
             "high": 4.95,
             "market": 0.21,
             "directLow": 0.25
@@ -13648,7 +13648,7 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/xy4-2",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
             "low": 0.22,
@@ -13658,11 +13658,11 @@
             "directLow": 0.46
           },
           "reverseHolofoil": {
-            "low": 0.32,
-            "mid": 0.88,
+            "low": 0.35,
+            "mid": 0.89,
             "high": 2.95,
             "market": 0.57,
-            "directLow": 0.32
+            "directLow": 0.88
           }
         }
       }
@@ -13750,18 +13750,18 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/ex8-2",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
             "low": 3.35,
-            "mid": 7.38,
+            "mid": 8.5,
             "high": 10.18,
-            "market": 10.74,
+            "market": 10.72,
             "directLow": null
           },
           "reverseHolofoil": {
             "low": 3.0,
-            "mid": 6.49,
+            "mid": 6.48,
             "high": 19.98,
             "market": 2.54,
             "directLow": null
@@ -13860,7 +13860,7 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/bw5-2",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
             "low": 3.0,
@@ -13959,21 +13959,21 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/base5-2",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
             "low": 3.0,
-            "mid": 8.07,
+            "mid": 8.02,
             "high": 85.99,
-            "market": 7.41,
-            "directLow": 8.99
+            "market": 7.12,
+            "directLow": 1.6
           },
           "1stEditionHolofoil": {
-            "low": 18.99,
-            "mid": 57.75,
+            "low": 18.98,
+            "mid": 60.0,
             "high": 79.99,
             "market": 71.64,
-            "directLow": 59.5
+            "directLow": 18.98
           }
         }
       }
@@ -14055,11 +14055,11 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/ex11-4",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
             "low": 32.95,
-            "mid": 50.0,
+            "mid": 52.97,
             "high": 90.0,
             "market": 59.49,
             "directLow": null
@@ -14148,11 +14148,11 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/ecard2-H4",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
             "low": 79.99,
-            "mid": 100.0,
+            "mid": 109.6,
             "high": 199.95,
             "market": 67.99,
             "directLow": null
@@ -14240,7 +14240,7 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/pop6-4",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
             "low": 1.3,
@@ -14340,7 +14340,7 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/ex3-4",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
             "low": 17.98,
@@ -14351,7 +14351,7 @@
           },
           "reverseHolofoil": {
             "low": 14.0,
-            "mid": 18.0,
+            "mid": 18.48,
             "high": 25.0,
             "market": 14.22,
             "directLow": null
@@ -14430,21 +14430,21 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/sm115-3",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
             "low": 0.05,
             "mid": 0.25,
             "high": 1.08,
             "market": 0.19,
-            "directLow": 0.17
+            "directLow": 0.05
           },
           "reverseHolofoil": {
-            "low": 0.5,
-            "mid": 1.97,
+            "low": 0.48,
+            "mid": 1.77,
             "high": 4.99,
             "market": 1.55,
-            "directLow": 1.97
+            "directLow": 0.48
           }
         }
       }
@@ -14531,7 +14531,7 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/sm3-2",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
             "low": 0.05,
@@ -14542,10 +14542,10 @@
           },
           "reverseHolofoil": {
             "low": 0.15,
-            "mid": 0.3,
+            "mid": 0.31,
             "high": 1.13,
             "market": 0.22,
-            "directLow": 0.21
+            "directLow": 0.25
           }
         }
       }
@@ -14625,11 +14625,11 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/pl4-2",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
             "low": 1.0,
-            "mid": 3.95,
+            "mid": 3.86,
             "high": 29.97,
             "market": 3.74,
             "directLow": null
@@ -14639,7 +14639,7 @@
             "mid": 5.95,
             "high": 8.5,
             "market": 0.97,
-            "directLow": 5.19
+            "directLow": 5.0
           }
         }
       }
@@ -14716,14 +14716,14 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/det1-4",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
-            "low": 0.1,
-            "mid": 0.49,
-            "high": 5.48,
+            "low": 0.01,
+            "mid": 0.48,
+            "high": 4.99,
             "market": 0.28,
-            "directLow": 0.31
+            "directLow": 0.15
           }
         }
       }
@@ -14802,20 +14802,20 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/gym2-3",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
-            "low": 29.19,
-            "mid": 44.99,
+            "low": 28.0,
+            "mid": 42.97,
             "high": 117.34,
             "market": 43.03,
-            "directLow": 39.99
+            "directLow": 37.75
           },
           "1stEditionHolofoil": {
             "low": 77.99,
-            "mid": 162.61,
+            "mid": 160.22,
             "high": 199.99,
-            "market": 106.67,
+            "market": 122.5,
             "directLow": 149.97
           }
         }
@@ -14902,14 +14902,14 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/si1-3",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
-            "low": 14.99,
+            "low": 15.0,
             "mid": 21.8,
             "high": 69.99,
-            "market": 22.35,
-            "directLow": 20.0
+            "market": 23.02,
+            "directLow": 22.17
           }
         }
       }
@@ -14990,18 +14990,18 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/col1-3",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
             "low": 5.49,
-            "mid": 7.5,
+            "mid": 8.5,
             "high": 20.25,
-            "market": 5.92,
+            "market": 6.0,
             "directLow": 20.25
           },
           "reverseHolofoil": {
-            "low": 1.99,
-            "mid": 6.25,
+            "low": 1.87,
+            "mid": 5.45,
             "high": 9.0,
             "market": 2.0,
             "directLow": null
@@ -15092,11 +15092,11 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/ex12-4",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
             "low": 2.99,
-            "mid": 5.83,
+            "mid": 5.9,
             "high": 9.99,
             "market": 5.55,
             "directLow": null
@@ -15188,21 +15188,21 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/base3-4",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
-            "low": 28.5,
+            "low": 25.49,
             "mid": 49.0,
             "high": 149.99,
-            "market": 70.63,
+            "market": 71.57,
             "directLow": null
           },
           "1stEditionHolofoil": {
-            "low": 123.95,
-            "mid": 242.49,
+            "low": 123.94,
+            "mid": 230.0,
             "high": 399.99,
             "market": 307.5,
-            "directLow": null
+            "directLow": 123.94
           }
         }
       }
@@ -15292,20 +15292,20 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/pop1-2",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
             "low": 1.0,
             "mid": 1.0,
             "high": 1.0,
-            "market": 6.3,
+            "market": 7.2,
             "directLow": null
           },
           "holofoil": {
             "low": 3.18,
-            "mid": 4.2,
+            "mid": 4.16,
             "high": 7.0,
-            "market": 4.36,
+            "market": 4.35,
             "directLow": null
           }
         }
@@ -15387,14 +15387,14 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/dpp-DP02",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
-            "low": 1.48,
-            "mid": 2.41,
+            "low": 1.63,
+            "mid": 2.56,
             "high": 9.8,
-            "market": 3.7,
-            "directLow": 1.48
+            "market": 3.65,
+            "directLow": null
           }
         }
       }
@@ -15487,13 +15487,13 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/hgss1-4",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
             "low": 5.99,
-            "mid": 7.33,
+            "mid": 7.25,
             "high": 29.0,
-            "market": 9.22,
+            "market": 9.02,
             "directLow": null
           },
           "reverseHolofoil": {
@@ -15579,18 +15579,18 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/sm2-2",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
             "low": 0.05,
             "mid": 0.22,
             "high": 1.0,
             "market": 0.12,
-            "directLow": 0.1
+            "directLow": 0.05
           },
           "reverseHolofoil": {
             "low": 0.1,
-            "mid": 0.3,
+            "mid": 0.31,
             "high": 1.13,
             "market": 0.21,
             "directLow": 0.12
@@ -15675,17 +15675,17 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/neo4-2",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
             "low": 40.78,
-            "mid": 56.57,
+            "mid": 62.99,
             "high": 89.21,
             "market": 51.43,
             "directLow": null
           },
           "1stEditionHolofoil": {
-            "low": 129.97,
+            "low": 129.96,
             "mid": 145.0,
             "high": 199.99,
             "market": 180.0,
@@ -15775,11 +15775,11 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/ex4-2",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
             "low": 5.88,
-            "mid": 11.0,
+            "mid": 11.98,
             "high": 14.97,
             "market": 9.7,
             "directLow": null
@@ -15872,13 +15872,13 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/xy1-2",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
             "low": 7.42,
-            "mid": 9.0,
+            "mid": 9.99,
             "high": 16.9,
-            "market": 8.1,
+            "market": 7.95,
             "directLow": null
           }
         }
@@ -15967,7 +15967,7 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/sm9-4",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
             "low": 0.05,
@@ -15978,9 +15978,9 @@
           },
           "reverseHolofoil": {
             "low": 0.1,
-            "mid": 0.36,
+            "mid": 0.35,
             "high": 1.13,
-            "market": 0.35,
+            "market": 0.34,
             "directLow": 0.34
           }
         }
@@ -16085,7 +16085,7 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/ex9-3",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
             "low": 4.75,
@@ -16096,7 +16096,7 @@
           },
           "reverseHolofoil": {
             "low": 3.91,
-            "mid": 3.91,
+            "mid": 4.06,
             "high": 4.2,
             "market": 4.67,
             "directLow": null
@@ -16186,13 +16186,13 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/dv1-4",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
             "low": 3.48,
-            "mid": 8.57,
+            "mid": 8.25,
             "high": 45.0,
-            "market": 8.57,
+            "market": 9.19,
             "directLow": null
           }
         }
@@ -16277,21 +16277,21 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/xy7-3",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
             "low": 0.15,
-            "mid": 0.58,
+            "mid": 0.55,
             "high": 5.0,
-            "market": 0.56,
+            "market": 0.58,
             "directLow": 0.5
           },
           "reverseHolofoil": {
-            "low": 0.25,
-            "mid": 1.05,
+            "low": 0.23,
+            "mid": 1.03,
             "high": 7.5,
             "market": 1.34,
-            "directLow": 0.87
+            "directLow": 0.61
           }
         }
       }
@@ -16384,7 +16384,7 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/hgss4-4",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
             "low": 0.4,
@@ -16395,10 +16395,10 @@
           },
           "reverseHolofoil": {
             "low": 0.44,
-            "mid": 0.95,
+            "mid": 0.92,
             "high": 1.99,
             "market": 0.8,
-            "directLow": 0.75
+            "directLow": 0.69
           }
         }
       }
@@ -16492,10 +16492,10 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/bw10-3",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
-            "low": 0.25,
+            "low": 0.24,
             "mid": 0.49,
             "high": 1.15,
             "market": 0.55,
@@ -16505,7 +16505,7 @@
             "low": 0.41,
             "mid": 1.26,
             "high": 2.25,
-            "market": 2.13,
+            "market": 2.4,
             "directLow": 1.34
           }
         }
@@ -16587,14 +16587,14 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/bw4-2",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
             "low": 0.09,
             "mid": 0.25,
             "high": 1.0,
             "market": 0.14,
-            "directLow": 0.12
+            "directLow": 0.11
           },
           "reverseHolofoil": {
             "low": 0.14,
@@ -16676,21 +16676,21 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/xy11-3",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
             "low": 0.03,
             "mid": 0.21,
             "high": 0.96,
             "market": 0.08,
-            "directLow": 0.1
+            "directLow": 0.03
           },
           "reverseHolofoil": {
-            "low": 0.13,
+            "low": 0.12,
             "mid": 0.29,
             "high": 1.13,
             "market": 0.2,
-            "directLow": 0.15
+            "directLow": 0.12
           }
         }
       }
@@ -16769,7 +16769,7 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/pop9-2",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
             "low": 1.1,
@@ -16780,7 +16780,7 @@
           },
           "holofoil": {
             "low": 2.35,
-            "mid": 3.5,
+            "mid": 3.06,
             "high": 19.99,
             "market": 3.22,
             "directLow": null
@@ -16865,7 +16865,7 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/sm5-2",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
             "low": 0.04,
@@ -16876,7 +16876,7 @@
           },
           "reverseHolofoil": {
             "low": 0.08,
-            "mid": 0.32,
+            "mid": 0.33,
             "high": 999.99,
             "market": 0.27,
             "directLow": 0.16
@@ -16957,7 +16957,7 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/ex13-3",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
             "low": 9.25,
@@ -16967,11 +16967,11 @@
             "directLow": null
           },
           "reverseHolofoil": {
-            "low": 19.02,
-            "mid": 48.87,
+            "low": 19.01,
+            "mid": 33.95,
             "high": 49.85,
             "market": 27.99,
-            "directLow": null
+            "directLow": 19.01
           }
         }
       }
@@ -17048,11 +17048,11 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/swsh1-2",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
             "low": 0.05,
-            "mid": 0.15,
+            "mid": 0.16,
             "high": 1.0,
             "market": 0.09,
             "directLow": 0.1
@@ -17061,7 +17061,7 @@
             "low": 0.15,
             "mid": 0.25,
             "high": 1.0,
-            "market": 0.21,
+            "market": 0.2,
             "directLow": 0.16
           }
         }
@@ -17139,18 +17139,18 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/sm75-1",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
-            "low": 0.97,
-            "mid": 2.5,
+            "low": 0.9,
+            "mid": 2.49,
             "high": 4.99,
-            "market": 2.47,
+            "market": 2.49,
             "directLow": 2.59
           },
           "reverseHolofoil": {
             "low": 12.0,
-            "mid": 19.95,
+            "mid": 19.76,
             "high": 36.26,
             "market": 19.11,
             "directLow": null
@@ -17234,7 +17234,7 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/bw6-1",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
             "low": 0.05,
@@ -17245,7 +17245,7 @@
           },
           "reverseHolofoil": {
             "low": 0.25,
-            "mid": 0.4,
+            "mid": 0.45,
             "high": 1.0,
             "market": 0.39,
             "directLow": 0.25
@@ -17334,14 +17334,14 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/ex10-1",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
-            "low": 14.0,
+            "low": 13.99,
             "mid": 15.99,
             "high": 29.99,
             "market": 15.06,
-            "directLow": null
+            "directLow": 13.99
           },
           "reverseHolofoil": {
             "low": 14.99,
@@ -17437,7 +17437,7 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/pop9-3",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
             "low": 1.0,
@@ -17448,9 +17448,9 @@
           },
           "reverseHolofoil": {
             "low": 2.29,
-            "mid": 3.91,
+            "mid": 3.7,
             "high": 44.99,
-            "market": 3.19,
+            "market": 3.25,
             "directLow": null
           }
         }
@@ -17524,12 +17524,12 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/ru1-4",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
             "low": 24.0,
-            "mid": 53.0,
-            "high": 82.0,
+            "mid": 54.81,
+            "high": 85.61,
             "market": 20.0,
             "directLow": null
           }
@@ -17612,19 +17612,19 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/ex7-4",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
             "low": 15.99,
-            "mid": 18.27,
+            "mid": 18.04,
             "high": 42.87,
             "market": 29.99,
             "directLow": null
           },
           "reverseHolofoil": {
             "low": 24.99,
-            "mid": 35.69,
-            "high": 39.99,
+            "mid": 34.99,
+            "high": 39.0,
             "market": 29.95,
             "directLow": null
           }
@@ -17709,10 +17709,10 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/pop3-3",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
-            "low": 2.5,
+            "low": 4.75,
             "mid": 6.43,
             "high": 19.99,
             "market": 2.81,
@@ -17720,7 +17720,7 @@
           },
           "holofoil": {
             "low": 0.56,
-            "mid": 5.69,
+            "mid": 5.57,
             "high": 15.0,
             "market": 12.59,
             "directLow": null
@@ -17807,11 +17807,11 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/gym2-4",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
-            "low": 47.07,
-            "mid": 79.98,
+            "low": 49.55,
+            "mid": 96.66,
             "high": 200.0,
             "market": 95.8,
             "directLow": null
@@ -17910,18 +17910,18 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/neo3-2",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
-            "low": 22.0,
-            "mid": 26.25,
+            "low": 21.55,
+            "mid": 24.99,
             "high": 72.46,
             "market": 28.71,
             "directLow": null
           },
           "1stEditionHolofoil": {
             "low": 63.95,
-            "mid": 75.6,
+            "mid": 72.8,
             "high": 222.53,
             "market": 60.38,
             "directLow": null
@@ -18004,20 +18004,20 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/sm12-3",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
             "low": 0.04,
-            "mid": 0.23,
+            "mid": 0.21,
             "high": 1.0,
-            "market": 0.13,
-            "directLow": 0.13
+            "market": 0.11,
+            "directLow": 0.12
           },
           "reverseHolofoil": {
             "low": 0.15,
             "mid": 0.36,
             "high": 0.99,
-            "market": 0.36,
+            "market": 0.35,
             "directLow": 0.49
           }
         }
@@ -18104,11 +18104,11 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/ecard2-H5",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
             "low": 69.89,
-            "mid": 74.99,
+            "mid": 76.0,
             "high": 674.24,
             "market": 77.71,
             "directLow": null
@@ -18182,11 +18182,11 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/si1-4",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "reverseHolofoil": {
             "low": 22.91,
-            "mid": 39.99,
+            "mid": 42.49,
             "high": 100.67,
             "market": 62.47,
             "directLow": 45.47
@@ -18274,13 +18274,13 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/ex11-5",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
             "low": 29.38,
             "mid": 35.5,
             "high": 60.0,
-            "market": 46.19,
+            "market": 49.74,
             "directLow": null
           },
           "reverseHolofoil": {
@@ -18379,11 +18379,11 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/bw7-3",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
             "low": 1.33,
-            "mid": 1.88,
+            "mid": 1.87,
             "high": 2.49,
             "market": 2.03,
             "directLow": 1.37
@@ -18482,7 +18482,7 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/pl3-4",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
             "low": 2.47,
@@ -18581,14 +18581,14 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/basep-2",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
             "low": 1.25,
             "mid": 3.0,
             "high": 13.99,
             "market": 3.51,
-            "directLow": 2.04
+            "directLow": 2.99
           }
         }
       }
@@ -18671,7 +18671,7 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/xy7-4",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
             "low": 0.05,
@@ -18682,7 +18682,7 @@
           },
           "reverseHolofoil": {
             "low": 0.15,
-            "mid": 0.4,
+            "mid": 0.41,
             "high": 3.13,
             "market": 0.32,
             "directLow": 0.3
@@ -18768,7 +18768,7 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/bw11-3",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
             "low": 0.19,
@@ -18779,8 +18779,8 @@
           },
           "reverseHolofoil": {
             "low": 14.99,
-            "mid": 39.09,
-            "high": 63.18,
+            "mid": 118.63,
+            "high": 222.26,
             "market": 5.0,
             "directLow": null
           }
@@ -18863,20 +18863,20 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/hgss1-5",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
             "low": 12.45,
             "mid": 13.45,
             "high": 14.95,
-            "market": 1.78,
-            "directLow": 13.45
+            "market": 1.88,
+            "directLow": 13.0
           },
           "reverseHolofoil": {
             "low": 9.9,
             "mid": 11.8,
             "high": 15.01,
-            "market": 0.89,
+            "market": 0.88,
             "directLow": 9.9
           }
         }
@@ -18953,21 +18953,21 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/xy11-4",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
             "low": 0.05,
             "mid": 0.22,
-            "high": 1.0,
+            "high": 1.01,
             "market": 0.09,
-            "directLow": 0.1
+            "directLow": 0.05
           },
           "reverseHolofoil": {
             "low": 0.1,
-            "mid": 0.41,
+            "mid": 0.39,
             "high": 1.13,
             "market": 0.29,
-            "directLow": 0.23
+            "directLow": 0.1
           }
         }
       }
@@ -19042,7 +19042,7 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/mcd19-5",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
             "low": 50.0,
@@ -19137,18 +19137,18 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/pl1-5",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
             "low": 4.99,
-            "mid": 12.13,
+            "mid": 15.0,
             "high": 39.97,
-            "market": 6.86,
+            "market": 7.15,
             "directLow": null
           },
           "reverseHolofoil": {
             "low": 5.24,
-            "mid": 9.0,
+            "mid": 9.23,
             "high": 10.95,
             "market": 2.08,
             "directLow": null
@@ -19240,17 +19240,17 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/swsh4-2",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
             "low": 0.04,
             "mid": 0.19,
-            "high": 2.97,
+            "high": 1000.1,
             "market": 0.1,
             "directLow": 0.1
           },
           "reverseHolofoil": {
-            "low": 0.1,
+            "low": 0.05,
             "mid": 0.25,
             "high": 1.25,
             "market": 0.2,
@@ -19348,11 +19348,11 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/ex12-5",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
             "low": 7.5,
-            "mid": 14.22,
+            "mid": 13.81,
             "high": 47.59,
             "market": 16.02,
             "directLow": null
@@ -19440,18 +19440,18 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/pop1-3",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
-            "low": 7.19,
-            "mid": 9.25,
+            "low": 6.19,
+            "mid": 8.49,
             "high": 18.26,
             "market": 12.4,
             "directLow": null
           },
           "holofoil": {
             "low": 5.0,
-            "mid": 7.85,
+            "mid": 7.4,
             "high": 12.3,
             "market": 9.8,
             "directLow": null
@@ -19543,7 +19543,7 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/sm8-2",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
             "low": 0.1,
@@ -19554,7 +19554,7 @@
           },
           "reverseHolofoil": {
             "low": 0.24,
-            "mid": 0.42,
+            "mid": 0.44,
             "high": 1.27,
             "market": 0.35,
             "directLow": null
@@ -19642,18 +19642,18 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/sm9-5",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
             "low": 0.18,
-            "mid": 0.37,
+            "mid": 0.38,
             "high": 1.17,
             "market": 0.36,
-            "directLow": 0.26
+            "directLow": 0.25
           },
           "reverseHolofoil": {
             "low": 0.47,
-            "mid": 0.73,
+            "mid": 0.74,
             "high": 6.9,
             "market": 0.74,
             "directLow": 0.73
@@ -19746,7 +19746,7 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/pop4-3",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
             "low": 4.65,
@@ -19757,7 +19757,7 @@
           },
           "holofoil": {
             "low": 6.99,
-            "mid": 11.5,
+            "mid": 11.0,
             "high": 18.99,
             "market": 19.78,
             "directLow": null
@@ -19848,18 +19848,18 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/xy5-4",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
             "low": 0.06,
-            "mid": 0.24,
+            "mid": 0.25,
             "high": 1.0,
             "market": 0.09,
             "directLow": 0.1
           },
           "reverseHolofoil": {
-            "low": 0.17,
-            "mid": 0.37,
+            "low": 0.16,
+            "mid": 0.34,
             "high": 1.95,
             "market": 0.33,
             "directLow": 0.17
@@ -19948,13 +19948,13 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/pl4-3",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
             "low": 1.23,
             "mid": 1.78,
             "high": 9.97,
-            "market": 1.33,
+            "market": 1.34,
             "directLow": null
           },
           "reverseHolofoil": {
@@ -20056,7 +20056,7 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/ex4-3",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
             "low": 24.99,
@@ -20066,7 +20066,7 @@
             "directLow": null
           },
           "reverseHolofoil": {
-            "low": 17.2,
+            "low": 15.01,
             "mid": 29.99,
             "high": 39.99,
             "market": 32.49,
@@ -20160,11 +20160,11 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/base6-3",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
             "low": 345.19,
-            "mid": 375.0,
+            "mid": 400.0,
             "high": 750.0,
             "market": 581.44,
             "directLow": null
@@ -20266,13 +20266,13 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/bw5-3",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
             "low": 5.34,
-            "mid": 6.68,
+            "mid": 6.78,
             "high": 15.78,
-            "market": 6.51,
+            "market": 6.42,
             "directLow": null
           },
           "reverseHolofoil": {
@@ -20366,18 +20366,18 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/sm75-2",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
             "low": 0.25,
             "mid": 1.0,
             "high": 4.99,
-            "market": 1.06,
+            "market": 1.14,
             "directLow": 2.17
           },
           "reverseHolofoil": {
             "low": 1.5,
-            "mid": 2.77,
+            "mid": 2.69,
             "high": 5.99,
             "market": 2.55,
             "directLow": null
@@ -20468,18 +20468,18 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/ex3-5",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
-            "low": 13.14,
-            "mid": 13.93,
+            "low": 13.04,
+            "mid": 13.56,
             "high": 29.95,
             "market": 19.98,
             "directLow": null
           },
           "reverseHolofoil": {
-            "low": 11.2,
-            "mid": 12.98,
+            "low": 8.97,
+            "mid": 12.97,
             "high": 17.05,
             "market": 13.21,
             "directLow": null
@@ -20574,13 +20574,13 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/bw1-3",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
             "low": 0.15,
-            "mid": 0.29,
+            "mid": 0.3,
             "high": 1.0,
-            "market": 0.23,
+            "market": 0.24,
             "directLow": 0.28
           },
           "reverseHolofoil": {
@@ -20679,7 +20679,7 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/sm5-3",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
             "low": 0.04,
@@ -20692,7 +20692,7 @@
             "low": 0.1,
             "mid": 0.35,
             "high": 999.99,
-            "market": 0.25,
+            "market": 0.23,
             "directLow": 0.25
           }
         }
@@ -20774,13 +20774,13 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/base3-5",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
             "low": 17.91,
             "mid": 30.0,
             "high": 189.99,
-            "market": 44.1,
+            "market": 40.51,
             "directLow": 22.22
           },
           "1stEditionHolofoil": {
@@ -20873,7 +20873,7 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/bw4-3",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
             "low": 0.1,
@@ -20886,7 +20886,7 @@
             "low": 0.25,
             "mid": 0.44,
             "high": 0.99,
-            "market": 0.2,
+            "market": 0.23,
             "directLow": 0.25
           }
         }
@@ -20962,13 +20962,13 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/swsh35-4",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
             "low": 0.04,
             "mid": 0.2,
             "high": 2.97,
-            "market": 0.11,
+            "market": 0.1,
             "directLow": 0.1
           },
           "reverseHolofoil": {
@@ -21065,10 +21065,10 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/dv1-5",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
-            "low": 4.78,
+            "low": 4.99,
             "mid": 17.39,
             "high": 75.0,
             "market": 8.23,
@@ -21153,11 +21153,11 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/ex8-3",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
             "low": 8.0,
-            "mid": 12.92,
+            "mid": 9.0,
             "high": 22.0,
             "market": 9.99,
             "directLow": null
@@ -21166,7 +21166,7 @@
             "low": 5.0,
             "mid": 7.86,
             "high": 14.99,
-            "market": 9.13,
+            "market": 9.67,
             "directLow": null
           }
         }
@@ -21256,12 +21256,12 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/pop7-4",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
             "low": 0.84,
-            "mid": 1.31,
-            "high": 7.5,
+            "mid": 1.3,
+            "high": 2.51,
             "market": 1.02,
             "directLow": null
           },
@@ -21352,18 +21352,18 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/xy4-3",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
             "low": 0.01,
             "mid": 0.25,
             "high": 1.0,
-            "market": 0.13,
-            "directLow": 0.08
+            "market": 0.12,
+            "directLow": 0.01
           },
           "reverseHolofoil": {
             "low": 0.13,
-            "mid": 0.35,
+            "mid": 0.37,
             "high": 1.95,
             "market": 0.25,
             "directLow": 0.14
@@ -21457,7 +21457,7 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/bw10-4",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
             "low": 1.11,
@@ -21467,7 +21467,7 @@
             "directLow": null
           },
           "reverseHolofoil": {
-            "low": 1.75,
+            "low": 1.94,
             "mid": 4.09,
             "high": 19.99,
             "market": 3.98,
@@ -21561,7 +21561,7 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/dp1-3",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
             "low": 5.44,
@@ -21666,7 +21666,7 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/ex9-4",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
             "low": 10.43,
@@ -21677,7 +21677,7 @@
           },
           "reverseHolofoil": {
             "low": 20.0,
-            "mid": 21.95,
+            "mid": 21.24,
             "high": 31.99,
             "market": 12.46,
             "directLow": null
@@ -21758,7 +21758,7 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/bw6-2",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
             "low": 0.1,
@@ -21858,12 +21858,12 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/dp4-3",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
             "low": 5.99,
-            "mid": 7.5,
-            "high": 10.25,
+            "mid": 7.4,
+            "high": 9.99,
             "market": 7.3,
             "directLow": null
           },
@@ -21959,7 +21959,7 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/dp3-5",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
             "low": 4.99,
@@ -22052,12 +22052,12 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/ex10-2",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
             "low": 3.38,
-            "mid": 3.99,
-            "high": 12.39,
+            "mid": 4.12,
+            "high": 5.0,
             "market": 6.24,
             "directLow": null
           },
@@ -22154,7 +22154,7 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/hgss4-5",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
             "low": 1.71,
@@ -22255,7 +22255,7 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/swsh1-3",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
             "low": 0.02,
@@ -22265,10 +22265,10 @@
             "directLow": 0.1
           },
           "reverseHolofoil": {
-            "low": 0.1,
-            "mid": 0.27,
+            "low": 0.08,
+            "mid": 0.25,
             "high": 1.02,
-            "market": 0.21,
+            "market": 0.2,
             "directLow": 0.16
           }
         }
@@ -22361,11 +22361,11 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/neo4-3",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
             "low": 27.75,
-            "mid": 34.95,
+            "mid": 34.97,
             "high": 59.99,
             "market": 46.3,
             "directLow": 33.24
@@ -22461,13 +22461,13 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/hgss2-2",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
             "low": 0.71,
             "mid": 1.0,
             "high": 15.99,
-            "market": 1.61,
+            "market": 1.79,
             "directLow": null
           },
           "reverseHolofoil": {
@@ -22556,11 +22556,11 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/dpp-DP03",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
-            "low": 2.99,
-            "mid": 6.12,
+            "low": 2.5,
+            "mid": 5.59,
             "high": 8.99,
             "market": 6.25,
             "directLow": 3.98
@@ -22638,21 +22638,21 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/xy10-2",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
             "low": 0.04,
-            "mid": 0.2,
+            "mid": 0.19,
             "high": 1.0,
             "market": 0.07,
-            "directLow": 0.09
+            "directLow": 0.04
           },
           "reverseHolofoil": {
-            "low": 0.13,
+            "low": 0.12,
             "mid": 0.29,
             "high": 1.13,
             "market": 0.25,
-            "directLow": 0.14
+            "directLow": 0.12
           }
         }
       }
@@ -22739,21 +22739,21 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/sm115-4",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
             "low": 0.02,
             "mid": 0.15,
-            "high": 0.89,
+            "high": 0.88,
             "market": 0.07,
             "directLow": 0.07
           },
           "reverseHolofoil": {
             "low": 0.05,
-            "mid": 0.32,
+            "mid": 0.31,
             "high": 1.27,
             "market": 0.24,
-            "directLow": 0.26
+            "directLow": 0.25
           }
         }
       }
@@ -22836,14 +22836,14 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/base1-2",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
-            "low": 50.0,
+            "low": 80.0,
             "mid": 129.99,
             "high": 449.95,
-            "market": 118.22,
-            "directLow": 69.99
+            "market": 118.9,
+            "directLow": 80.0
           }
         }
       }
@@ -22927,7 +22927,7 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/sm3-3",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
             "low": 0.15,
@@ -22938,7 +22938,7 @@
           },
           "reverseHolofoil": {
             "low": 0.18,
-            "mid": 0.4,
+            "mid": 0.39,
             "high": 2.0,
             "market": 0.27,
             "directLow": 0.27
@@ -23016,7 +23016,7 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/xy2-5",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
             "low": 0.06,
@@ -23027,7 +23027,7 @@
           },
           "reverseHolofoil": {
             "low": 0.24,
-            "mid": 0.32,
+            "mid": 0.34,
             "high": 1.95,
             "market": 0.25,
             "directLow": 0.24
@@ -23121,14 +23121,14 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/det1-5",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
             "low": 6.96,
-            "mid": 12.09,
+            "mid": 12.47,
             "high": 29.95,
-            "market": 9.87,
-            "directLow": 9.9
+            "market": 10.05,
+            "directLow": 9.4
           }
         }
       }
@@ -23223,11 +23223,11 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/ex14-2",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
             "low": 29.99,
-            "mid": 62.45,
+            "mid": 63.18,
             "high": 74.95,
             "market": 53.06,
             "directLow": null
@@ -23312,7 +23312,7 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/xy1-3",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
             "low": 0.06,
@@ -23406,7 +23406,7 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/ex9-5",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
             "low": 9.0,
@@ -23416,9 +23416,9 @@
             "directLow": null
           },
           "reverseHolofoil": {
-            "low": 19.99,
-            "mid": 20.0,
-            "high": 29.99,
+            "low": 9.5,
+            "mid": 15.24,
+            "high": 20.0,
             "market": 17.49,
             "directLow": null
           }
@@ -23496,7 +23496,7 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/sm5-4",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
             "low": 0.05,
@@ -23595,18 +23595,18 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/base5-3",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
-            "low": 50.99,
+            "low": 51.22,
             "mid": 99.0,
             "high": 151.19,
-            "market": 99.79,
+            "market": 99.4,
             "directLow": null
           },
           "1stEditionHolofoil": {
             "low": 181.99,
-            "mid": 215.65,
+            "mid": 230.0,
             "high": 499.99,
             "market": 272.34,
             "directLow": null
@@ -23697,14 +23697,14 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/dp4-4",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
-            "low": 4.5,
-            "mid": 5.75,
+            "low": 3.0,
+            "mid": 4.5,
             "high": 8.0,
             "market": 4.43,
-            "directLow": null
+            "directLow": 2.48
           },
           "reverseHolofoil": {
             "low": 2.62,
@@ -23796,7 +23796,7 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/dpp-DP04",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
             "low": 1.29,
@@ -23884,7 +23884,7 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/bw11-4",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
             "low": 0.14,
@@ -23979,18 +23979,18 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/pop7-5",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
             "low": 0.54,
-            "mid": 3.59,
-            "high": 10.0,
+            "mid": 2.14,
+            "high": 9.01,
             "market": 0.54,
             "directLow": null
           },
           "holofoil": {
             "low": 0.43,
-            "mid": 1.08,
+            "mid": 1.09,
             "high": 15.0,
             "market": 1.64,
             "directLow": null
@@ -24068,11 +24068,11 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/hgss2-3",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "holofoil": {
             "low": 0.99,
-            "mid": 4.35,
+            "mid": 3.0,
             "high": 6.27,
             "market": 3.45,
             "directLow": null
@@ -24080,7 +24080,7 @@
           "reverseHolofoil": {
             "low": 3.15,
             "mid": 3.5,
-            "high": 5.0,
+            "high": 6.99,
             "market": 1.68,
             "directLow": null
           }
@@ -24158,19 +24158,19 @@
       },
       "tcgplayer": {
         "url": "https://prices.pokemontcg.io/tcgplayer/pop4-4",
-        "updatedAt": "2021/07/16",
+        "updatedAt": "2021/07/19",
         "prices": {
           "normal": {
-            "low": 17.28,
-            "mid": 31.14,
-            "high": 45.0,
+            "low": 15.0,
+            "mid": 16.0,
+            "high": 19.99,
             "market": 49.99,
             "directLow": null
           },
           "holofoil": {
             "low": 18.0,
-            "mid": 50.0,
-            "high": 62.68,
+            "mid": 60.0,
+            "high": 78.49,
             "market": 56.17,
             "directLow": null
           }
