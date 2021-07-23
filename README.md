@@ -22,4 +22,6 @@ After running a live demo to peers, the project - though still in its earliest p
 <br>
 
 ## What about the data?
-The rental apartment data and the Pokémon card data both underwent significant amounts of analysis and cleaning. Both datasets were expansive, and in some ways highly disorganized. The functions and methods used in the process went beyond the scope of the class syllabus thus far. 
+The rental apartment data and the Pokémon card data both underwent significant amounts of analysis and cleaning. Both datasets were expansive, and in some ways highly disorganized. The functions and methods used in the process went beyond the scope of the class syllabus thus far.
+
+Our datasets are separated into two pairs of notebooks, with the most relevant data found in the data_analysis notebooks.
