@@ -2,6 +2,8 @@
 ### By Myles Sepulveda and Salvador V Salazar III
 <br>
 
+*It should be noted that a live demo of the notebook was presented instead of PowerPoint slides.*
+
 ## Project Proposal and Outline
 Our project looks at two unrelated sets of data. One of the datasets looks into prices of rental apartments across the US, while the other looks at marketprices of Pokémon cards.
 
